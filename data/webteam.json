@@ -2,7 +2,7 @@
   "mainArchitects": [
     {
       "name": "Aswin Sreekumar",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/u8NyVGp.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/u8NyVGp.webp",
       "position": "Creative Director",
       "additional": ["Head, Design and Publicity", "2022-2023"],
       "github": "https://github.com/aswin-sreekumar/",
@@ -11,7 +11,7 @@
     },
     {
       "name": "H Kailash",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/47WtxrX.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/47WtxrX.webp",
       "position": "Associate lead developer",
       "additional": ["Web design", "UI/UX", "Front-End"],
       "github": "https://github.com/kailashhari",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Indresh P",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/fW4zHWm.jpg",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fW4zHWm.jpg",
       "position": "Associate developer",
       "additional": ["SysAd", "Front-End"],
       "github": "https://github.com/indreshp135/",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Muhesh K",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/eFokmcA.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/eFokmcA.webp",
       "position": "Associate developer",
       "additional": ["Front-End", "Mobile Development"],
       "github": "https://github.com/Muhesh7/",
@@ -42,7 +42,7 @@
   "addnArchitects": [
     {
       "name": "Vakula Venkatesh",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/BqDVMAE.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BqDVMAE.webp",
       "position": "Coordinator",
       "github": "https://github.com/Vakula289",
       "linkedIn": "https://www.linkedin.com/in/vakula-v",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Shyaam Pon Sundar S",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/GpqrRoS.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/GpqrRoS.webp",
       "position": "Coordinator",
       "github": "https://github.com/shyaam-963",
       "linkedIn": "https://www.linkedin.com/in/shyaam-pon-sundar-s-3166b51a7",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Madhav R",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/2OZ9GJ3.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/2OZ9GJ3.webp",
       "position": "Coordinator",
       "github": "https://github.com/madE03",
       "linkedIn": "https://www.linkedin.com/in/madhav-r-2867b920b",
@@ -68,7 +68,7 @@
   "webops": [
     {
       "name": "Rahul Raaghav A",
-      "imageLink": "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/zMTydOw.webp?alt=media",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zMTydOw.webp",
       "position": "Head, Web-ops",
       "additional": ["2022 - 2023"],
       "github": "https://github.com/RahulraaghavA1308",

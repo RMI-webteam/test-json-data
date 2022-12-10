@@ -3919,7 +3919,7 @@
         ],
 
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/w5w0Tx1.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/STNG3vL.jpg?alt=media",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/STNG3vL.jpg",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/w5w0Tx1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tBimCch.webp",
@@ -4324,7 +4324,7 @@
           { "id": "87", "name": "Varsha Suresh" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/7ZVTnUu.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/6p112xm.jpg?alt=media",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/6p112xm.jpg",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/7ZVTnUu.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/P51QKa3.webp",
@@ -4574,7 +4574,7 @@
       },
       {
         "name": "Indresh P",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fW4zHWm.jpg?alt=media",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fW4zHWm.jpg",
         "position": "Associate developer",
         "additional": ["SysAd", "Front-End"],
         "github": "https://github.com/indreshp135/",

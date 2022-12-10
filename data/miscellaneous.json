@@ -1,25 +1,25 @@
 {
   "landingPageImages": [
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/xY0SHFJ.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/L2Dty3R.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/BGJ6FbF.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/KtCZ4mp.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/UTMup5K.webp?alt=media"
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/xY0SHFJ.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/L2Dty3R.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BGJ6FbF.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KtCZ4mp.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
   ],
   "ourTeamImages": [
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/hB8Izmm.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/H60te2a.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/jagaDTa.webp?alt=media"
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
   ],
   "projectsPageImages": [
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/VaaUbiK.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/dPpT5ET.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/ilWW3kr.webp?alt=media"
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
   ],
   "accoladesImages": [
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/BpFJEbt.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/f9v5oyz.webp?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/rmi-web-team.appspot.com/o/e3EIRRD.webp?alt=media"
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BpFJEbt.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f9v5oyz.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e3EIRRD.webp"
   ],
   "youtubeVideo": "7Qu89cIIiaQ"
 }
