@@ -2783,6 +2783,59 @@
   "projects": {
     "projects": [
       {
+        "pid": "33",
+        "seededIn": "2022",
+        "shortName": "QuaDro",
+        "longName": "Autonomous quadcopter platform",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "QuaDro is a fully automated quadcopter with capabilities of carrying out last-mile delivery using vision-based position control.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Our solution proposes a fully automated quadcopter with capabilities of carrying out last-mile delivery in hard-to-reach regions. The drone shall be capable of carrying first aid kits, health and other medical supplies, with a maximum payload carrying capacity of about 700 grams."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "QuaDro uses location guided flight by means of GPS that will enable outdoor point-to-point navigation, that is, motion from one point to another without any remote controls. "
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The drone also contains LiDAR capabilities for obstacle detection and altitude lock, to maintain a specific altitude from ground. 3-D space location lock using image processing functionalities to assist vision-guided position-control will be enabled in the drone. This feature is the most important feature in making the drone entirely autonomous. The visual guidance solely controls precise landing of the drone on an aruco marker and helps the drone position and orient itself accurately."
+          }
+        ],
+        "techStack": [
+          "ArduPilot",
+          "Dronekit Python",
+          "Pixhawk",
+          "OpenCV"
+        ],
+        "developers": [
+          { "id": "157", "name": "Rahul Raaghav A" },
+          { "id": "158", "name": "Shyaam Pon Sundar S" },
+          { "id": "160", "name": "Vakula Venkatesh" },
+          { "id": "141", "name": "Aswin Sreekumar" },
+          { "id": "140", "name": "Satish Kumar L" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_0.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_4.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_5.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "https://www.youtube.com/watch?v=R07xKzDGJ3I",
+          "githubLink": "https://github.com/RMI-NITT/QuaDro",
+          "otherLink": ""
+        }
+      },
+      {
         "pid": "30",
         "seededIn": "2021",
         "shortName": "ANVI",
