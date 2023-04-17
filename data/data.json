@@ -2783,6 +2783,127 @@
   "projects": {
     "projects": [
       {
+        "pid": "35",
+        "seededIn": "2022",
+        "shortName": "Vīrya",
+        "longName": "Rover",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for large-scale extra-terrestrial surface exploration."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), the measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The rover's autonomous navigation will be achieved with the help of vision alone. No other sensors will be used for this purpose. Inspiration for this idea comes from observing humans. Humans use only vision to navigate flawlessly."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
+          }
+        ],
+        "techStack": [
+          "ROS",
+          "Machine Design",
+          "Raspberry Pi",
+          "Signal Processing"
+        ],
+        "developers": [
+          { "id": "156", "name": "R Charan Bhardhwaj" },
+          { "id": "152", "name": "Krishna Kishore V S" },
+          { "id": "167", "name": "Sourav S" },
+          { "id": "171", "name": "Vallimayl V" },
+          { "id": "162", "name": "Akhil Kasyap" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/ROVER",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "34",
+        "seededIn": "2022",
+        "shortName": "Hexapod",
+        "longName": "Autonomous quadcopter platform",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Hexapods can move dynamically in any direction, use different walking patterns for different terrains and climb rocky surfaces due to its six-legged design. "
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "To move the bot over rocks, we need large, heavy wheels, and with small wheels, it becomes difficult to tread over coarse and sandy surfaces. This becomes a concerning issue during explorations leading to loss of time and resources."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The hexapod robot has better stability, payload capability, and fault-tolerant ability compared to a  biped and quadruped robot.  It has better maneuvering capability than rovers and the ability to climb steep  hills. When coupled with other systems, the capabilities of this robot become huge."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "A typical hexapod has 18 degrees of freedom and can move in multiple directions, i.e. up, down, forward, backward, left and right, without the need to turn. The legs of a hexapod travel both on the ground and air. The servos in the system ensure that the robot is capable of moving precisely in any direction. The components required to build one are simple and efficient."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Thus, hexapods are a potential platform for many applications such as defense, surveillance, terrain exploration and transportation."
+          }
+        ],
+        "techStack": [
+          "3D Designing",
+          "Multi-Servo control",
+          "Inverse Kinematics",
+          "Arduino MEGA"
+        ],
+        "developers": [
+          { "id": "153", "name": "Madhav R" },
+          { "id": "159", "name": "Sunkara Vikash" },
+          { "id": "155", "name": "P N Kalaimani" },
+          { "id": "166", "name": "Rusheek B" },
+          { "id": "170", "name": "Susmitha S " }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_4.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Hexapod",
+          "otherLink": ""
+        }
+      },
+      {
         "pid": "31",
         "seededIn": "2022",
         "shortName": "QuaDro",
