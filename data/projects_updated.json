@@ -1,6 +1,67 @@
 {
   "projects": [
     {
+      "pid": "34",
+      "seededIn": "2022",
+      "shortName": "Hexapod",
+      "longName": "Autonomous quadcopter platform",
+      "duration": "Dec 2022 - Present",
+      "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Hexapods can move dynamically in any direction, use different walking patterns for different terrains and climb rocky surfaces due to its six-legged design. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "To move the bot over rocks, we need large, heavy wheels, and with small wheels, it becomes difficult to tread over coarse and sandy surfaces. This becomes a concerning issue during explorations leading to loss of time and resources."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The hexapod robot has better stability, payload capability, and fault-tolerant ability compared to a  biped and quadruped robot.  It has better maneuvering capability than rovers and the ability to climb steep  hills. When coupled with other systems, the capabilities of this robot become huge."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "A typical hexapod has 18 degrees of freedom and can move in multiple directions, i.e. up, down, forward, backward, left and right, without the need to turn. The legs of a hexapod travel both on the ground and air. The servos in the system ensure that the robot is capable of moving precisely in any direction. The components required to build one are simple and efficient."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Thus, hexapods are a potential platform for many applications such as defense, surveillance, terrain exploration and transportation."
+        }
+      ],
+      "techStack": [
+        "3D Designing",
+        "Multi-Servo control",
+        "Inverse Kinematics",
+        "Arduino MEGA"
+      ],
+      "developers": [
+        { "id": "153", "name": "Madhav R" },
+        { "id": "159", "name": "Sunkara Vikash" },
+        { "id": "155", "name": "P N Kalaimani" },
+        { "id": "166", "name": "Rusheek B" },
+        { "id": "170", "name": "Susmitha S " }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_4.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "https://github.com/RMI-NITT/Hexapod",
+        "otherLink": ""
+      }
+    },
+    {
       "pid": "33",
       "seededIn": "2022",
       "shortName": "QuaDro",
