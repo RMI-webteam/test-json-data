@@ -1,6 +1,66 @@
 {
   "projects": [
     {
+      "pid": "35",
+      "seededIn": "2022",
+      "shortName": "Vīrya",
+      "longName": "Rover",
+      "duration": "Dec 2022 - Present",
+      "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for large-scale extra-terrestrial surface exploration."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), the measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The rover's autonomous navigation will be achieved with the help of vision alone. No other sensors will be used for this purpose. Inspiration for this idea comes from observing humans. Humans use only vision to navigate flawlessly."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
+        }
+      ],
+      "techStack": [
+        "ROS",
+        "Machine Design",
+        "Raspberry Pi",
+        "Signal Processing"
+      ],
+      "developers": [
+        { "id": "156", "name": "R Charan Bhardhwaj" },
+        { "id": "152", "name": "Krishna Kishore V S" },
+        { "id": "167", "name": "Sourav S" },
+        { "id": "171", "name": "Vallimayl V" },
+        { "id": "162", "name": "Akhil Kasyap" }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "https://github.com/RMI-NITT/ROVER",
+        "otherLink": ""
+      }
+    },
+    {
       "pid": "34",
       "seededIn": "2022",
       "shortName": "Hexapod",
