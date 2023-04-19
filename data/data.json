@@ -425,12 +425,20 @@
         "email": "aravindhdeiva456@gmail.com",
         "projects": [
           {
+            "pid": "9",
+            "pname": "HuRoS"
+          },
+          {
             "pid": "29",
             "pname": "ARIBOT"
           },
           {
             "pid": "23",
             "pname": "Automated Trolley"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       },
@@ -477,7 +485,12 @@
           {
             "pid": "21",
             "pname": "HIDQ"
+          },
+          {
+            "pid": "33",
+            "pname": "QuaDro"
           }
+          
         ]
       },
       {
@@ -506,6 +519,10 @@
           {
             "pid": "0",
             "pname": "Sonar Mapping Bot"
+          },
+          {
+            "pid": "33",
+            "pname": "QuaDro"
           }
         ]
       },
@@ -587,6 +604,10 @@
         "linkedIn": "https://www.linkedin.com/in/jai-kesav-k-r-400870195/",
         "email": "krjaikesav05@gmail.com",
         "projects": [
+          {
+            "pid": "9",
+            "pname": "HuRoS"
+          },
           {
             "pid": "22",
             "pname": "CHAOS"
@@ -678,6 +699,10 @@
           {
             "pid": "27",
             "pname": "SPARO"
+          },
+          {
+            "pid": "31",
+            "pname": "Balancing Bot"
           }
         ]
       },
@@ -700,6 +725,10 @@
           {
             "pid": "29",
             "pname": "ARIBOT"
+          },
+          {
+            "pid": "31",
+            "pname": "Balancing Bot"
           }
         ]
       },
@@ -717,6 +746,10 @@
           {
             "pid": "29",
             "pname": "ARIBOT"
+          },
+          {
+            "pid": "32",
+            "pname": "ROV"
           }
         ]
       },
@@ -738,6 +771,10 @@
           {
             "pid": "29",
             "pname": "ARIBOT"
+          },
+          {
+            "pid": "35",
+            "pname": "Vīrya"
           }
         ]
       },
@@ -759,6 +796,10 @@
           {
             "pid": "24",
             "pname": "STAR"
+          },
+          {
+            "pid": "34",
+            "pname": "Hexapod"
           }
         ]
       },
@@ -776,6 +817,10 @@
           {
             "pid": "28",
             "pname": "LEWI"
+          },
+          {
+            "pid": "32",
+            "pname": "ROV"
           }
         ]
       },
@@ -827,6 +872,10 @@
           {
             "pid": "0",
             "pname": "Self driving bot"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       },
@@ -844,6 +893,10 @@
           {
             "pid": "30",
             "pname": "ANVI"
+          },
+          {
+            "pid": "33",
+            "pname": "QuaDro"
           }
         ]
       },
@@ -861,6 +914,10 @@
           {
             "pid": "30",
             "pname": "ANVI"
+          },
+          {
+            "pid": "33",
+            "pname": "QuaDro"
           }
         ]
       },
@@ -882,6 +939,10 @@
           {
             "pid": "24",
             "pname": "STAR"
+          },
+          {
+            "pid": "34",
+            "pname": "Hexapod"
           }
         ]
       },
@@ -899,6 +960,10 @@
           {
             "pid": "30",
             "pname": "ANVI"
+          },
+          {
+            "pid": "33",
+            "pname": "QuaDro"
           }
         ]
       },
@@ -916,6 +981,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "32",
+            "pname": "ROV"
           }
         ]
       },
@@ -933,6 +1002,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       },
@@ -950,6 +1023,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "32",
+            "pname": "ROV"
           }
         ]
       },
@@ -967,6 +1044,10 @@
           {
             "pid": "0",
             "pname": "HolA Bot"
+          },
+          {
+            "pid": "31",
+            "pname": "Balancing Bot"
           }
         ]
       },
@@ -984,6 +1065,10 @@
           {
             "pid": "0",
             "pname": "HolA Bot"
+          },
+          {
+            "pid": "31",
+            "pname": "Balancing Bot"
           }
         ]
       },
@@ -1001,6 +1086,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "34",
+            "pname": "Hexapod"
           }
         ]
       },
@@ -1018,6 +1107,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       },
@@ -1039,6 +1132,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "32",
+            "pname": "ROV"
           }
         ]
       },
@@ -1056,6 +1153,10 @@
           {
             "pid": "0",
             "pname": "HolA Bot"
+          },
+          {
+            "pid": "31",
+            "pname": "Balancing Bot"
           }
         ]
       },
@@ -1073,6 +1174,10 @@
           {
             "pid": "0",
             "pname": "HolA Bot"
+          },
+          {
+            "pid": "34",
+            "pname": "Hexapod"
           }
         ]
       },
@@ -1090,6 +1195,10 @@
           {
             "pid": "0",
             "pname": "Sentinel Drone"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       }
