@@ -2904,7 +2904,7 @@
         }
       },
       {
-        "pid": "31",
+        "pid": "33",
         "seededIn": "2022",
         "shortName": "QuaDro",
         "longName": "Autonomous quadcopter platform",
@@ -2943,6 +2943,7 @@
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_0.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
@@ -2952,6 +2953,119 @@
         "quickLinks": {
           "youtubeLink": "https://www.youtube.com/watch?v=R07xKzDGJ3I",
           "githubLink": "https://github.com/RMI-NITT/QuaDro",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "32",
+        "seededIn": "2022",
+        "shortName": "ROV",
+        "longName": "Remotely Operated Underwater Vehicle",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "Underwater robotic vehicle platform with optional ground control, designed to execute tests and missions at different levels of autonomy including testing of specialized payloads.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This project aims to develop an underwater robotic vehicle platform with optional ground control to execute tests and missions at different levels of autonomy. This platform will be a testbed for hardware, algorithms, and specialized payloads to perform various underwater operations."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "An open-frame configuration is adopted for the vehicle structure to have better control authority at low speeds and allow modularity for a wide range of payloads. The vehicle structure was designed in SolidWorks, considering the resulting weight, buoyancy, and center of mass of all components and the assembly to ensure the vehicle is stable and slightly positively buoyant to make recovery easier in case of any major system malfunction. The vehicle's frame was constructed using 0.75-inch UPVC pipes and fittings, and the joints were secured using fasteners."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "In the current design, there are 6 thrusters - 2 oriented in the vertical direction and 4 along the horizontal in a vector configuration. This provides the vehicle to perform translation along all 3 principal axes and rotation about two axes (roll and yaw). Pitch control can be achieved by adding 2 more thrusters in the vertical direction, and the vehicle frame was designed to consider this improvement. The propellers of the vehicle were adapted to be used with the available motors and were fabricated using fused deposition modeling (FDM)."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The hull (acrylic tube) houses all the onboard electronics and provides most of the vehicle's buoyant force. Machined aluminum end caps and laser-cut acrylic end plates seal the hull. A watertight seal is achieved by machining appropriate grooves in the aluminum end caps to support O-rings. On the forward side, a clear dome provides a better field of view for the forward-facing camera. The camera feed implements computer vision algorithms on the Raspberry Pi for obstacle detection and collision avoidance, visual inspection of critical infrastructure to detect oil leaks and corrosion, and monitoring the marine ecosystem. The pan and tilt mechanism for the camera provides better control over the capture area without moving the entire vehicle."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The vehicle has an array of sensors including IMU, compass, and pressure sensor using which position and heading information can be obtained. This is used for the PID control algorithm for holding the depth and heading during manual operation. This system also allows to hold the position during the absence of any inputs from the operator to counteract any water currents. The battery, power electronics, motor drivers, and the processing units are the other important electronic components inside the hull."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Since water is impervious to 2.4 GHz radio waves, a tether connects the vehicle to a floating buoy with a transceiver module for wireless communication with the ground station. This is however not needed for fully autonomous missions. The vehicle has a variety of safety features in case of any anomalies such as loss of signal, or leak in the hull, etc."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The vehicle can perform a wide range of operations depending upon the payloads it carries. For instance, it can be used in conducting intelligence, surveillance, and reconnaissance operations. In addition to that, the vehicle can be equipped with mine countermeasure systems to detect, classify, and neutralize underwater mines."
+          }
+        ],
+        "techStack": [
+          "SolidWorks",
+          "Underwater Robotics",
+          "Raspberry Pi,",
+          "Arduino Mega"
+        ],
+        "developers": [
+          { "id": "151", "name": "Guru Vishnu M" },
+          { "id": "163", "name": "Anas Khalid" },
+          { "id": "161", "name": "Aditya Singh " },
+          { "id": "154", "name": "Mukilan K" },
+          { "id": "168", "name": "Sreenidhi Balachandran" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_4.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/ROV",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "31",
+        "seededIn": "2022",
+        "shortName": "Balancing Bot",
+        "longName": "Autonomous self balancing bot",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "A two wheel self-balancing bot which can carry a payload of 1kg and autonomously navigate for 200m.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "A two-wheel self-balancing bot designed in such a way it can carry a payload of 1kg. It works on the principle of the inverted pendulum and is controlled using a closed-loop feedback control system based on the tilt values obtained from the MPU 6050 sensor, passed through Kalman filters to reduce noise. We then integrate ultrasonic sensors into the bot for obstacle avoidance and basic perception. The bot can autonomously navigate and carry a payload of 1kg up to 200m."
+          }
+        ],
+        "techStack": [
+          "Arduino",
+          "MPU 6050",
+          "Kalman Filters",
+          "PID Control"
+        ],
+        "developers": [
+          { "id": "150", "name": "Farhan Abid Seliya" },
+          { "id": "149", "name": "Adithya Venkata Narayanan" },
+          { "id": "164", "name": "Ganishk D" },
+          { "id": "165", "name": "Janam Khandelwal" },
+          { "id": "169", "name": "Srivattsan S" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_5.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/Vattsan37/Self-balancing-bot",
           "otherLink": ""
         }
       },
