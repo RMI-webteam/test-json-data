@@ -843,6 +843,10 @@
           {
             "pid": "28",
             "pname": "LEWI"
+          },
+          {
+            "pid": "34",
+            "pname": "Hexapod"
           }
         ]
       },
