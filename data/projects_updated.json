@@ -64,7 +64,7 @@
       "pid": "34",
       "seededIn": "2022",
       "shortName": "Hexapod",
-      "longName": "Autonomous quadcopter platform",
+      "longName": "Six-legged bio inspired robot ",
       "duration": "Dec 2022 - Present",
       "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
       "longDesc": [
@@ -105,7 +105,8 @@
         { "id": "159", "name": "Sunkara Vikash" },
         { "id": "155", "name": "P N Kalaimani" },
         { "id": "166", "name": "Rusheek B" },
-        { "id": "170", "name": "Susmitha S " }
+        { "id": "170", "name": "Susmitha S " },
+        { "id": "137", "name": "K Girish" }
       ],
       "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
@@ -161,7 +162,6 @@
       "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
       "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_0.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
@@ -1468,7 +1468,8 @@
         { "id": "133", "name": "Nilendu Ganguli" },
         { "id": "138", "name": "Aravindh Deiva G" },
         { "id": "145", "name": "Jai Kesav K R" },
-        { "id": "149", "name": "Adithya Venkata Narayanan" }
+        { "id": "149", "name": "Adithya Venkata Narayanan"},
+        { "id": "141", "name": "Aswin Sreekumar"}
       ],
       "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/YHkP6Ip.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dkIP5Ms.webp",

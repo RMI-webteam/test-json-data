@@ -396,6 +396,10 @@
         "email": "girishk1470@gmail.com",
         "projects": [
           {
+            "pid": "34",
+            "pname": "Hexapod"
+          },
+          {
             "pid": "28",
             "pname": "LEWI"
           },
@@ -505,6 +509,14 @@
         "email": "aswinsreekumar123@gmail.com",
         "projects": [
           {
+            "pid": "33",
+            "pname": "QuaDro"
+          },
+          {
+            "pid": "9",
+            "pname": "HuRoS"
+          },
+          {
             "pid": "26",
             "pname": "Smart Parking System"
           },
@@ -515,14 +527,6 @@
           {
             "pid": "21",
             "pname": "HIDQ"
-          },
-          {
-            "pid": "0",
-            "pname": "Sonar Mapping Bot"
-          },
-          {
-            "pid": "33",
-            "pname": "QuaDro"
           }
         ]
       },
@@ -1215,7 +1219,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/cZNAfX5.webp",
         "position": "President (2021-2022)",
         "github": "https://github.com/shrikumaran",
-        "linkedIn": "https://www.linkedin.com/in/shrikumaran-p-b-7b2820173/",
+        "linkedin": "https://www.linkedin.com/in/shrikumaran-p-b-7b2820173/",
         "email": "pbshrikumaran@gmail.com",
         "projects": [
           {
@@ -1235,7 +1239,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/PHiTq3x.webp",
         "position": "Vice President (2021-2022)",
         "github": "https://github.com/VIEKASH2001",
-        "linkedIn": "https://www.linkedin.com/in/viekash-v-6bb868131/",
+        "linkedin": "https://www.linkedin.com/in/viekash-v-6bb868131/",
         "email": "vkviekash@gmail.com",
         "projects": [
           {
@@ -1255,7 +1259,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/s0xBgI0.webp",
         "position": "Vice President (2021-2022)",
         "github": "https://github.com/kakshat1205",
-        "linkedIn": "www.linkedin.com/in/kakshat1205",
+        "linkedin": "www.linkedin.com/in/kakshat1205",
         "email": "kakshat1205@gmail.com",
         "projects": [
           {
@@ -1279,7 +1283,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/4m60S5i.webp",
         "position": "Treasurer (2021-2022)",
         "github": "https://github.com/kailash-jagadeesh",
-        "linkedIn": "https://www.linkedin.com/in/kailash-j-b01223150",
+        "linkedin": "https://www.linkedin.com/in/kailash-j-b01223150",
         "email": "meetkailash2000@gmail.com",
         "projects": [
           {
@@ -1307,7 +1311,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/DcBCofO.webp",
         "position": "Treasurer (2021-2022)",
         "github": "https://github.com/HEMANGANI",
-        "linkedIn": "https://www.linkedin.com/in/hemangani-n-910a3716b/",
+        "linkedin": "https://www.linkedin.com/in/hemangani-n-910a3716b/",
         "email": "nhemangani@gmail.com",
         "projects": [
           {
@@ -1346,7 +1350,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e5FJVpo.webp",
         "position": "Head, Design and Publicity (2021-2022)",
         "github": "https://github.com/pramotharun",
-        "linkedIn": "https://www.linkedin.com/in/pramotharun/",
+        "linkedin": "https://www.linkedin.com/in/pramotharun/",
         "email": "pramotharun2.72@gmail.com",
         "projects": [
           {
@@ -1362,7 +1366,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/1d4ePhL.webp",
         "position": "Head, Alumni Relations (2021-2022)",
         "github": "https://github.com/Demigod2808",
-        "linkedIn": "https://www.linkedin.com/in/shubham-aggarwal-01343719b/",
+        "linkedin": "https://www.linkedin.com/in/shubham-aggarwal-01343719b/",
         "email": "shubhamaggarwal2808@gmail.com"
       },
       {
@@ -1387,7 +1391,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/N1En2hU.webp",
         "position": "Member",
         "github": "https://github.com/Gaurav4857",
-        "linkedIn": "https://www.linkedin.com/in/gaurav-n-58622aab/",
+        "linkedin": "https://www.linkedin.com/in/gaurav-n-58622aab/",
         "email": "gauravnagotanekar@gmail.com",
         "projects": [
           {
@@ -1407,7 +1411,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/1Lx7bjo.webp",
         "position": "Member",
         "github": "https://github.com/Nilendu999",
-        "linkedIn": "https://www.linkedin.com/in/nilendu-ganguli-017879122",
+        "linkedin": "https://www.linkedin.com/in/nilendu-ganguli-017879122",
         "email": "nilenduganguli999@gmail.com",
         "projects": [
           {
@@ -1461,7 +1465,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/cuMXx98.webp",
         "position": "President (2020-2021)",
         "github": "https://github.com/gnitish18",
-        "linkedIn": "https://www.linkedin.com/in/gudapatinitish9/",
+        "linkedin": "https://www.linkedin.com/in/gudapatinitish9/",
         "email": "gudapatinitish9@gmail.com",
         "projects": [
           {
@@ -1481,7 +1485,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ltPCvSN.webp",
         "position": "Vice President (2020-2021)",
         "github": "https://github.com/svdeepak999",
-        "linkedIn": "https://www.linkedin.com/in/deepak-s-v-358b50170",
+        "linkedin": "https://www.linkedin.com/in/deepak-s-v-358b50170",
         "email": "svdeepak99@gmail.com",
         "projects": [
           {
@@ -1520,7 +1524,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/p5IbDHq.webp",
         "position": "Treasurer (2020-2021)",
         "github": "https://github.com/jineshrs2398",
-        "linkedIn": "https://www.linkedin.com/in/jinesh-r-38a24a172",
+        "linkedin": "https://www.linkedin.com/in/jinesh-r-38a24a172",
         "email": "jineshrs2398@gmail.com",
         "projects": [
           {
@@ -1540,7 +1544,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/3HB8niS.webp",
         "position": "Treasurer (2020-2021)",
         "github": "https://github.com/harry-124",
-        "linkedIn": "https://www.linkedin.com/in/harshith-vignesh-70817615b",
+        "linkedin": "https://www.linkedin.com/in/harshith-vignesh-70817615b",
         "email": "vinu.mhv@gmail.com",
         "projects": [
           {
@@ -1560,7 +1564,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/7nskBHe.webp",
         "position": "Head, Workshops and Events (2020-2021)",
         "github": "https://github.com/chagd",
-        "linkedIn": "https://www.linkedin.com/in/dharun-chagarlamudi-7a6568170/",
+        "linkedin": "https://www.linkedin.com/in/dharun-chagarlamudi-7a6568170/",
         "email": "chagdhar@gmail.com",
         "projects": [
           {
@@ -1584,7 +1588,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/FLWD518.webp",
         "position": "Head, Alumni Relations (2020-2021)",
         "github": "https://github.com/Pranav-99",
-        "linkedIn": "https://www.linkedin.com/in/pranav-mani-09782a185",
+        "linkedin": "https://www.linkedin.com/in/pranav-mani-09782a185",
         "email": "pranavmani99@gmail.com",
         "projects": [
           {
@@ -1619,7 +1623,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jcobrru.webp",
         "position": "Member",
         "github": "https://www.github.com/arkalim",
-        "linkedIn": "https://www.linkedin.com/in/abdur-rahman-kalim-876899118",
+        "linkedin": "https://www.linkedin.com/in/abdur-rahman-kalim-876899118",
         "email": "abdur.rahman.kalim@gmail.com",
         "projects": [
           {
@@ -1635,7 +1639,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UWiimPv.webp",
         "position": "Member",
         "github": "https://github.com/athithyakumar",
-        "linkedIn": "https://www.linkedin.com/in/athithya-kumar-a17828185/",
+        "linkedin": "https://www.linkedin.com/in/athithya-kumar-a17828185/",
         "email": "athithyakumar.mech@gmail.com",
         "projects": [
           {
@@ -1666,7 +1670,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/G7jDB8L.webp",
         "position": "Member",
         "github": "https://github.com/SarthakNarayan",
-        "linkedIn": "https://www.linkedin.com/in/sarthak-narayan-40b927164/",
+        "linkedin": "https://www.linkedin.com/in/sarthak-narayan-40b927164/",
         "email": "sarthak.narayang@gmail.com",
         "projects": [
           {
@@ -1716,7 +1720,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/o6JjnMA.webp",
         "position": "Treasurer  (2019-2020)",
         "github": "https://github.com/vidyaa29",
-        "linkedIn": "https://www.linkedin.com/in/vidyaa-krishnan-97923316a",
+        "linkedin": "https://www.linkedin.com/in/vidyaa-krishnan-97923316a",
         "email": "vidyaak2903@gmail.com",
         "projects": [
           {
@@ -1736,7 +1740,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/5UzZ44W.webp",
         "position": "Treasurer (2019-2020)",
         "github": "https://github.com/Naveen50525",
-        "linkedIn": "https://www.linkedin.com/in/naveen-santhanam-36b44514a",
+        "linkedin": "https://www.linkedin.com/in/naveen-santhanam-36b44514a",
         "email": "naveen50525@gmail.com",
         "projects": [
           {
@@ -1752,7 +1756,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/kq7ZaBy.webp",
         "position": "Head, Workshops and Events(2019-2020)",
         "github": "https://github.com/Akshayaks",
-        "linkedIn": "https://www.linkedin.com/in/akshaya-srinivasan-47a92b13a/",
+        "linkedin": "https://www.linkedin.com/in/akshaya-srinivasan-47a92b13a/",
         "email": "akshaya.kms@gmail.com",
         "projects": [
           {
@@ -1791,7 +1795,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/B7v4GOZ.webp",
         "position": "Member",
         "github": "https://github.com/srike27",
-        "linkedIn": "https://www.linkedin.com/in/srikrishna-s-2228b4136",
+        "linkedin": "https://www.linkedin.com/in/srikrishna-s-2228b4136",
         "email": "srike27@gmail.com",
         "projects": [
           {
@@ -1848,7 +1852,7 @@
         "name": "Soumyarup Lahiri",
         "position": "Member",
         "github": "https://github.com/SoumyarupL",
-        "linkedIn": "https://www.linkedin.com/in/soumyarup-lahiri-26a164143",
+        "linkedin": "https://www.linkedin.com/in/soumyarup-lahiri-26a164143",
         "email": "soumyarup.lahiri@gmail.com",
         "projects": [
           {
@@ -1868,7 +1872,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/U7wtavF.webp",
         "position": "President  (2018-2019)",
         "github": "https://github.com/anand97",
-        "linkedIn": "https://www.linkedin.com/in/anand-asokan-750972126/",
+        "linkedin": "https://www.linkedin.com/in/anand-asokan-750972126/",
         "email": "anand.asokan1997@outlook.com",
         "personalPage": "https://sites.google.com/view/anand-asokan",
         "projects": [
@@ -1888,7 +1892,7 @@
         "name": "Hari Prasanth P",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/r5EXOjm.webp",
         "position": "Vice President (2018-2019)",
-        "linkedIn": "https://www.linkedin.com/in/hariprasanth19",
+        "linkedin": "https://www.linkedin.com/in/hariprasanth19",
         "email": "hari.191197@gmail.com",
         "personalPage": "https://venkateshprasad23.github.io/",
         "projects": [
@@ -1909,7 +1913,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OQfTWUr.webp",
         "position": "Vice President (2018-2019)",
         "github": "https://github.com/venkateshprasad23",
-        "linkedIn": "https://www.linkedin.com/in/venkatesh-prasad-7686a2134/",
+        "linkedin": "https://www.linkedin.com/in/venkatesh-prasad-7686a2134/",
         "email": "venkateshprasad23061997@gmail.com",
         "projects": [
           {
@@ -1929,7 +1933,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/nHIgwfO.webp",
         "position": "Treasurer (2018-2019)",
         "github": "https://github.com/Anirudh-Swaminathan",
-        "linkedIn": "https://www.linkedin.com/in/anirudh-swaminathan",
+        "linkedin": "https://www.linkedin.com/in/anirudh-swaminathan",
         "email": "aniswami97@gmail.com",
         "personalPage": "http://anirudh-swaminathan.github.io/",
         "projects": [
@@ -1950,7 +1954,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fRDVfwD.webp",
         "position": "Treasurer (2018-2019)",
         "github": "https://github.com/Madhan-Suresh",
-        "linkedIn": "https://www.linkedin.com/in/madhan-s-85855713a/",
+        "linkedin": "https://www.linkedin.com/in/madhan-s-85855713a/",
         "email": "madhanksb1234@gmail.com",
         "projects": [
           {
@@ -1969,7 +1973,7 @@
         "name": "Vigneshwar Mohanam",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/sKpdqRn.webp",
         "position": "Head, Workshops and Inductions  (2018-2019)",
-        "linkedIn": "https://www.linkedin.com/in/vignesh-war/",
+        "linkedin": "https://www.linkedin.com/in/vignesh-war/",
         "email": "vigneshwar235@gmail.com",
         "projects": [
           {
@@ -1989,7 +1993,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/uQanbMt.webp",
         "position": "Head, External Affairs  (2018-2019)",
         "github": "https://github.com/SubramanianKrish",
-        "linkedIn": "https://www.linkedin.com/in/subramaniankrish/",
+        "linkedin": "https://www.linkedin.com/in/subramaniankrish/",
         "email": "subramanian.krish611@gmail.com",
         "projects": [
           {
@@ -2013,7 +2017,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hTY6Xra.webp",
         "position": "Head, External Affairs  (2018-2019)",
         "github": "https://github.com/psvssaikumar",
-        "linkedIn": "https://www.linkedin.com/mwlite/me",
+        "linkedin": "https://www.linkedin.com/mwlite/me",
         "email": "psvssaikumar1998@gmail.com",
         "projects": [
           {
@@ -2029,7 +2033,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Cgc5EOj.webp",
         "position": "Member",
         "github": "https://github.com/SubhechhaSubudhi",
-        "linkedIn": "https://www.linkedin.com/in/subhechha-subudhi-825006139/",
+        "linkedin": "https://www.linkedin.com/in/subhechha-subudhi-825006139/",
         "email": "subhechhasubudhi@yahoo.in",
         "projects": [
           {
@@ -2044,7 +2048,7 @@
         "name": "Nikhil Jonnavithula",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/eglrgGx.webp",
         "position": "Member",
-        "linkedIn": "https://in.linkedin.com/in/nikhil-jonnavithula-0762b4118",
+        "linkedin": "https://in.linkedin.com/in/nikhil-jonnavithula-0762b4118",
         "email": "jnikhil321@gmail.com",
         "projects": [
           {
@@ -2079,7 +2083,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/wsJYL3b.webp",
         "position": "Member",
         "github": "https://github.com/Surya-98",
-        "linkedIn": "https://www.linkedin.com/in/surya-ravishankar-751a93152",
+        "linkedin": "https://www.linkedin.com/in/surya-ravishankar-751a93152",
         "projects": [
           {
             "pid": "8",
@@ -2094,7 +2098,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/1ASOA64.webp",
         "position": "President (2017-2018)",
         "github": "https://github.com/MohamedNaveed",
-        "linkedIn": "https://www.linkedin.com/in/mohamed-naveed-gul-mohamed-674b74a9",
+        "linkedin": "https://www.linkedin.com/in/mohamed-naveed-gul-mohamed-674b74a9",
         "email": "mohdnaveed96@gmail.com",
         "personalPage": "https://sites.google.com/view/mohamednaveed/",
         "projects": [
@@ -2115,7 +2119,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ZEvAZmm.webp",
         "position": "Vice President (2017-2018)",
         "github": "https://github.com/Nanda-Kishore-V",
-        "linkedIn": "https://www.linkedin.com/in/nanda-kishore-vasudevan/",
+        "linkedin": "https://www.linkedin.com/in/nanda-kishore-vasudevan/",
         "email": "nandakishore12111996@gmail.com",
         "projects": [
           {
@@ -2135,7 +2139,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/JJI5fxV.webp",
         "position": "Treasurer (2017-2018)",
         "github": "https://github.com/Baladhurgesh",
-        "linkedIn": "https://www.linkedin.com/in/baladhurgesh-balagurusamy-paramasivan-67057a57",
+        "linkedin": "https://www.linkedin.com/in/baladhurgesh-balagurusamy-paramasivan-67057a57",
         "email": "baladhurgesh97@gmail.com",
         "projects": [
           {
@@ -2154,7 +2158,7 @@
         "name": "Sundaravalli Aravazhi",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/cZhFy3h.webp",
         "position": "Treasurer (2017-2018)",
-        "linkedIn": "https://www.linkedin.com/in/sundaravalli-aravazhi",
+        "linkedin": "https://www.linkedin.com/in/sundaravalli-aravazhi",
         "email": "sundaravalli.aravazhi@gmail.com",
         "projects": [
           {
@@ -2188,7 +2192,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rCJmrfR.webp",
         "position": "Head, Workshops and Events(2017-2018)",
         "github": "https://github.com/NithinShrivatsav",
-        "linkedIn": "https://www.linkedin.com/in/nithin-shrivatsav-s-70805bb3/",
+        "linkedin": "https://www.linkedin.com/in/nithin-shrivatsav-s-70805bb3/",
         "email": "nithinshrivatsav@gmail.com",
         "projects": [
           {
@@ -2207,7 +2211,7 @@
         "name": "Aarthy Ramesh",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/mSJMSnn.webp",
         "position": "Project Manager (2017 -2018)",
-        "linkedIn": "https://www.linkedin.com/in/aarthy-ramesh-a6070b13b",
+        "linkedin": "https://www.linkedin.com/in/aarthy-ramesh-a6070b13b",
         "email": "raarthy22@gmail.com",
         "projects": [
           {
@@ -2240,7 +2244,7 @@
         "name": "Arvind Nataraj",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/M2mZt57.webp",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/arvind-nataraj-s-b16b1b11a",
+        "linkedin": "https://www.linkedin.com/in/arvind-nataraj-s-b16b1b11a",
         "email": "arvindnata123@gmail.com",
         "projects": [
           {
@@ -2255,7 +2259,7 @@
         "name": "Harish Kumar K R",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KlLoFQY.webp",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/harishkumarkr/",
+        "linkedin": "https://www.linkedin.com/in/harishkumarkr/",
         "email": "harishkumarkr97@gmail.com",
         "projects": [
           {
@@ -2271,7 +2275,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ApxU0ES.webp",
         "position": "Member",
         "github": "https://github.com/Ruthrash",
-        "linkedIn": "https://www.linkedin.com/in/h-ruthrash-b5b790112/",
+        "linkedin": "https://www.linkedin.com/in/h-ruthrash-b5b790112/",
         "email": "ruthrash.hari@gmail.com",
         "personalPage": "https://ruthrashhari.wixsite.com/ruthrash",
         "projects": [
@@ -2306,7 +2310,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/sjVAv5X.webp",
         "position": "Member",
         "github": "https://github.com/VenkataSubramania",
-        "linkedIn": "https://www.linkedin.com/in/vs-s",
+        "linkedin": "https://www.linkedin.com/in/vs-s",
         "email": "venkatasubramanian1996@gmail.com",
         "projects": [
           {
@@ -2326,7 +2330,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Mkp3Lbl.webp",
         "position": "President (2016-2017)",
         "github": "https://github.com/nsabhari",
-        "linkedIn": "https://www.linkedin.com/in/nsabhari1995/",
+        "linkedin": "https://www.linkedin.com/in/nsabhari1995/",
         "email": "nsabhari@gmail.com",
         "projects": [
           {
@@ -2346,7 +2350,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UQrrH82.webp",
         "position": "Vice President (2016-2017)",
         "github": "https://www.bitbucket.org/Sarada_K/",
-        "linkedIn": "https://www.linkedin.com/in/sarada-krithivasan-07534a140/",
+        "linkedin": "https://www.linkedin.com/in/sarada-krithivasan-07534a140/",
         "email": "sarada.krithi@gmail.com"
       },
       {
@@ -2355,7 +2359,7 @@
         "name": "Sidhaarth Murugan",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e82Zyt6.webp",
         "position": "Vice President (2016-2017)",
-        "linkedIn": "https://www.linkedin.com/in/sidhaarth-murugan-b30293101/",
+        "linkedin": "https://www.linkedin.com/in/sidhaarth-murugan-b30293101/",
         "email": "mur.sidhaarth@gmail.com"
       },
       {
@@ -2365,7 +2369,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BWT3gW8.webp",
         "position": "Treasurer (2016-2017)",
         "github": "https://github.com/prakash1895",
-        "linkedIn": "https://www.linkedin.com/in/prakash1895/",
+        "linkedin": "https://www.linkedin.com/in/prakash1895/",
         "email": "prakashbaskaran1895@gmail.com",
         "projects": [
           {
@@ -2425,7 +2429,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KQy7d2t.webp",
         "position": "Vice President (2015-2016)",
         "github": "https://github.com/apr8",
-        "linkedIn": "https://www.linkedin.com/in/akshaypramodroy",
+        "linkedin": "https://www.linkedin.com/in/akshaypramodroy",
         "email": "akshayproy26@gmail.com",
         "projects": [
           {
@@ -2440,7 +2444,7 @@
         "name": "Devalla Sripad Krishna",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/kUNFm1s.webp",
         "position": "Vice President (2015-2016)",
-        "linkedIn": "https://www.linkedin.com/in/sripaddevalla",
+        "linkedin": "https://www.linkedin.com/in/sripaddevalla",
         "email": "devalla2603@gmail.com"
       },
       {
@@ -2450,7 +2454,7 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VeDhnDT.webp",
         "position": "Treasurer (2015-2016)",
         "github": "https://github.com/shravan1394",
-        "linkedIn": "https://www.linkedin.com/in/shravan-murlidaran/",
+        "linkedin": "https://www.linkedin.com/in/shravan-murlidaran/",
         "email": "smurlidaran@ucsb.edu"
       },
       {
@@ -2465,7 +2469,7 @@
         "name": "Haresh K Miriyala",
         "position": "Head, External Affairs (2015-2016)",
         "github": "https://github.com/HareshMiriyala",
-        "linkedIn": "https://www.linkedin.com/in/hareshkarnan/",
+        "linkedin": "https://www.linkedin.com/in/hareshkarnan/",
         "email": "haresh.miriyala@gmail.com"
       },
       {
@@ -2474,7 +2478,7 @@
         "name": "Vivekanandan Suryamurthy",
         "position": "Head, External Affairs (2015-2016)",
         "github": "https://github.com/vsuryamurthy",
-        "linkedIn": "https://www.linkedin.com/in/vivekanandan-suryamurthy-749997100/",
+        "linkedin": "https://www.linkedin.com/in/vivekanandan-suryamurthy-749997100/",
         "email": "vivek.sury28@gmail.com"
       },
       {
@@ -2494,7 +2498,7 @@
         "id": "61",
         "name": "Nikesh Elango",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/nikesh5050",
+        "linkedin": "https://www.linkedin.com/in/nikesh5050",
         "email": "nikesh5050@gmail.com"
       },
       {
@@ -2575,7 +2579,7 @@
         "id": "42",
         "name": "Sree Dharshni",
         "position": "Treasurer (2014-2015)",
-        "linkedIn": "https://www.linkedin.com/in/sree-dharshni-d",
+        "linkedin": "https://www.linkedin.com/in/sree-dharshni-d",
         "email": "sreedharshnid@gmail.com"
       },
       {
@@ -2644,7 +2648,7 @@
         "id": "26",
         "name": "Kishore Punniyamurthy",
         "position": "President (2013-2014)",
-        "linkedIn": "https://www.linkedin.com/in/kishore-punniyamurthy-2b74247a",
+        "linkedin": "https://www.linkedin.com/in/kishore-punniyamurthy-2b74247a",
         "email": "Kishore.punniyamurthy@gmail.com"
       },
       {
@@ -2653,7 +2657,7 @@
         "name": "Manikandan Ananth",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/JyFsV6c.webp",
         "position": "Vice President (2013-2014)",
-        "linkedIn": "https://www.linkedin.com/in/manikandanananth50",
+        "linkedin": "https://www.linkedin.com/in/manikandanananth50",
         "email": "manikandan.ananth50@gmail.com"
       },
       {
@@ -2706,7 +2710,7 @@
         "name": "Gibin Joe Zachariah",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Rwex8nu.webp",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/gibinjoe/",
+        "linkedin": "https://www.linkedin.com/in/gibinjoe/",
         "email": "gibinjoezach@gmail.com"
       },
       {
@@ -2733,7 +2737,7 @@
         "id": "39",
         "name": "Vignesh Sushruta Raghavan",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/vignesh-sushrutha-raghavan-06951773/",
+        "linkedin": "https://www.linkedin.com/in/vignesh-sushrutha-raghavan-06951773/",
         "email": "vsraghavan913@gmail.com"
       },
       {
@@ -2749,7 +2753,7 @@
         "id": "20",
         "name": "Amutha Barathi",
         "position": "Member",
-        "linkedIn": "https://www.linkedin.com/in/amuthabharathi"
+        "linkedin": "https://www.linkedin.com/in/amuthabharathi"
       },
       {
         "batchTag": "2013",
@@ -2940,8 +2944,7 @@
           { "id": "152", "name": "Krishna Kishore V S" },
           { "id": "167", "name": "Sourav S" },
           { "id": "171", "name": "Vallimayl V" },
-          { "id": "162", "name": "Akhil Kasyap" },
-          { "id": "138", "name": "Aravindh Deiva G" }
+          { "id": "162", "name": "Akhil Kasyap" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
@@ -2960,7 +2963,7 @@
         "pid": "34",
         "seededIn": "2022",
         "shortName": "Hexapod",
-        "longName": "Autonomous quadcopter platform",
+        "longName": "Six-legged bio inspired robot ",
         "duration": "Dec 2022 - Present",
         "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
         "longDesc": [
@@ -3001,7 +3004,8 @@
           { "id": "159", "name": "Sunkara Vikash" },
           { "id": "155", "name": "P N Kalaimani" },
           { "id": "166", "name": "Rusheek B" },
-          { "id": "170", "name": "Susmitha S " }
+          { "id": "170", "name": "Susmitha S " },
+          { "id": "137", "name": "K Girish" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
@@ -3057,7 +3061,6 @@
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
         "images": [
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_0.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
@@ -3914,12 +3917,7 @@
             "para": "Some parts of the robot were designed in Autodesk Inventor and simulated using Gazebo and ROS, on which the control algorithms were implemented. In this simulation, the robot is assumed to be on a flat surface throughout its motion. Specially designed wheels called omni-wheels have been used for this robot to allow the ball to rotate freely without affecting the other wheels. The motors are held together by custom-built motor mounts."
           }
         ],
-        "techStack": [
-          "ROS Gazebo",
-          "AutoDesk Inventor",
-          "Omni wheels",
-          "Python"
-        ],
+        "techStack": ["ROS Gazebo", "AutoDesk Inventor", "Omni wheels", "Python"],
         "developers": [
           { "id": "102", "name": "Aswin Gururaj" },
           { "id": "106", "name": "Harinaathgobi C" },
@@ -4163,7 +4161,7 @@
         "longName": "Search and Reconnaissance Robot",
         "duration": "2018 - 2019",
         "shortDesc": "All terrain robot with active articulating chassis to overcome obstacles of greater size than its wheels.",
-
+  
         "longDesc": [
           {
             "heading": "",
@@ -4181,13 +4179,8 @@
             "para": "Module separation allows the robot to go into tight spaces where the whole body doesn't fit. The design of the active articulating chassis, modularity with a locking mechanism, the complete control of the vehicle and the various modes of operation are presented."
           }
         ],
-        "techStack": [
-          "Arduino",
-          "Modular Chassis",
-          "ROS Gazebo",
-          "Raspberry pi"
-        ],
-
+        "techStack": ["Arduino", "Modular Chassis", "ROS Gazebo", "Raspberry pi"],
+  
         "developers": [
           { "id": "119", "name": "Abdur Rahman Kalim" },
           { "id": "116", "name": "Dharun Chagarlamudi" },
@@ -4195,7 +4188,7 @@
           { "id": "0", "name": "Mohd Aquif" },
           { "id": "122", "name": "Sarthak Narayan" }
         ],
-
+  
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hkJpLRQ.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Cvy9JFh.webp",
         "images": [
@@ -4245,7 +4238,7 @@
           "EMG Signals",
           "Python"
         ],
-
+  
         "developers": [
           { "id": "89", "name": "Anand Asokan" },
           { "id": "92", "name": "Anirudh Swaminathan" },
@@ -4253,7 +4246,7 @@
           { "id": "93", "name": "Madhan S" },
           { "id": "94", "name": "Vigneshwar Mohanam" }
         ],
-
+  
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/wv9ZDyF.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/MIqS7Dt.webp",
         "images": [
@@ -4310,20 +4303,15 @@
             "para": "The project aims to try and assist the 70 million people who face difficulty in vocal communication."
           }
         ],
-        "techStack": [
-          "BeagleBone Black",
-          "Machine Learning",
-          "Keras",
-          "Theano"
-        ],
-
+        "techStack": ["BeagleBone Black", "Machine Learning", "Keras", "Theano"],
+  
         "developers": [
           { "id": "97", "name": "Chinari Subhechha Subudhi" },
           { "id": "98", "name": "Nikhil Jonnavidhula" },
           { "id": "95", "name": "Subramanian Krishnan" },
           { "id": "91", "name": "Venkatesh Prasad V" }
         ],
-
+  
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/w5w0Tx1.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/STNG3vL.jpg",
         "images": [
@@ -4379,7 +4367,8 @@
           { "id": "133", "name": "Nilendu Ganguli" },
           { "id": "138", "name": "Aravindh Deiva G" },
           { "id": "145", "name": "Jai Kesav K R" },
-          { "id": "149", "name": "Adithya Venkata Narayanan" }
+          { "id": "149", "name": "Adithya Venkata Narayanan"},
+          { "id": "141", "name": "Aswin Sreekumar"}
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/YHkP6Ip.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dkIP5Ms.webp",
@@ -4436,12 +4425,7 @@
             "para": "The bot is trained with 1000 classes of objects using a Convolutional Neural Network (CNN). CNN is a bio-inspired machine learning algorithm whose functions are similar to the eye. The input image is captured using Kinect, and its depth is measured. A robotic arm is mounted on the base of the robot. If the depth is greater than the workspace of the robotic arm, then the robot moves closer to the object. The robotic arm has 3 degrees of freedom, with the gripper possessing 1 DoF. Once the object is recognised, the robot picks it up."
           }
         ],
-        "techStack": [
-          "SLAM",
-          "Microsoft Kinect",
-          "ROS Gazebo",
-          "Deep Learning"
-        ],
+        "techStack": ["SLAM", "Microsoft Kinect", "ROS Gazebo", "Deep Learning"],
         "developers": [
           { "id": "75", "name": "Adarsh Jagan S" },
           { "id": "74", "name": "Prakash Baskaran" },
@@ -4564,12 +4548,7 @@
             "para": "To find the present location of the robots and the ball, image processing was done in OpenCV. A wide angle camera was mounted at a height of 2.3m from the ground. A pattern was fixed on top of every robot to uniquely identify it. The image from the camera is first converted to a gray image, thresholded and the required contours are chosen based on area.\nBall localisation is done by converting the image from the camera to a HSV image and finding the position of the ball using HSV value of the ball’s colour (The ball used is lemon yellowish and its HSV value is first calculated and given to the algorithm for it to detect the ball from the full image). Ball’s trajectory is also needed for autonomous goal keeping. The trajectory is found by finding the position of the ball in 2 consecutive frames and extending the line formed by it."
           }
         ],
-        "techStack": [
-          "ROS Gazebo",
-          "Python",
-          "Omni-wheels",
-          "Image Processing"
-        ],
+        "techStack": ["ROS Gazebo", "Python", "Omni-wheels", "Image Processing"],
         "developers": [
           { "id": "78", "name": "Baladhurgesh Balagurusamy Paramasivan" },
           { "id": "93", "name": "Madhan S" },
@@ -4665,12 +4644,7 @@
             "para": "Our hypothesis was that with this project we could create a breakthrough in the field of medical robotics by providing better medical assistance at lower cost.\n"
           }
         ],
-        "techStack": [
-          "Arduino",
-          "Modular Chassis",
-          "ROS Gazebo",
-          "Raspberry pi"
-        ],
+        "techStack": ["Arduino", "Modular Chassis", "ROS Gazebo", "Raspberry pi"],
         "developers": [
           { "id": "83", "name": "Ajay Asai" },
           { "id": "81", "name": "Nithin Shrivatsav S" },

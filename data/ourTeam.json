@@ -37,6 +37,10 @@
       "email": "girishk1470@gmail.com",
       "projects": [
         {
+          "pid": "34",
+          "pname": "Hexapod"
+        },
+        {
           "pid": "28",
           "pname": "LEWI"
         },
@@ -146,6 +150,14 @@
       "email": "aswinsreekumar123@gmail.com",
       "projects": [
         {
+          "pid": "33",
+          "pname": "QuaDro"
+        },
+        {
+          "pid": "9",
+          "pname": "HuRoS"
+        },
+        {
           "pid": "26",
           "pname": "Smart Parking System"
         },
@@ -156,14 +168,6 @@
         {
           "pid": "21",
           "pname": "HIDQ"
-        },
-        {
-          "pid": "0",
-          "pname": "Sonar Mapping Bot"
-        },
-        {
-          "pid": "33",
-          "pname": "QuaDro"
         }
       ]
     },
