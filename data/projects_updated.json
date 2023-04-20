@@ -52,7 +52,8 @@
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp"
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_4.webp"
       ],
       "quickLinks": {
         "youtubeLink": "",
@@ -114,7 +115,8 @@
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_2.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_3.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_4.webp"
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_4.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_5.webp"
       ],
       "quickLinks": {
         "youtubeLink": "",
@@ -237,7 +239,8 @@
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_1.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_2.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_3.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_4.webp"
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_4.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_6.webp"
       ],
       "quickLinks": {
         "youtubeLink": "",
