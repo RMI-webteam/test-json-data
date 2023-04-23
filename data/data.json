@@ -449,6 +449,10 @@
         "email": "aravindhdeiva456@gmail.com",
         "projects": [
           {
+            "pid": "35",
+            "pname": "Virya"
+          },
+          {
             "pid": "9",
             "pname": "HuRoS"
           },
@@ -459,10 +463,6 @@
           {
             "pid": "23",
             "pname": "Automated Trolley"
-          },
-          {
-            "pid": "35",
-            "pname": "Virya"
           }
         ]
       },
@@ -499,6 +499,10 @@
         "email": "satishkumarvv2002@gmail.com",
         "projects": [
           {
+            "pid": "33",
+            "pname": "QuaDro"
+          },
+          {
             "pid": "26",
             "pname": "Smart Parking System"
           },
@@ -509,12 +513,7 @@
           {
             "pid": "21",
             "pname": "HIDQ"
-          },
-          {
-            "pid": "33",
-            "pname": "QuaDro"
           }
-          
         ]
       },
       {
@@ -713,6 +712,10 @@
         "email": "adithyavnarayanan@gmail.com",
         "projects": [
           {
+            "pid": "31",
+            "pname": "Balancing Bot"
+          },
+          {
             "pid": "9",
             "pname": "HuRoS"
           },
@@ -723,10 +726,6 @@
           {
             "pid": "27",
             "pname": "SPARO"
-          },
-          {
-            "pid": "31",
-            "pname": "Balancing Bot"
           }
         ]
       },
@@ -747,12 +746,12 @@
         "email": "farhanseliya9@gmail.com",
         "projects": [
           {
-            "pid": "29",
-            "pname": "ARIBOT"
-          },
-          {
             "pid": "31",
             "pname": "Balancing Bot"
+          },
+          {
+            "pid": "29",
+            "pname": "ARIBOT"
           }
         ]
       },
@@ -768,12 +767,12 @@
         "email": "mgv.earth@gmail.com",
         "projects": [
           {
-            "pid": "29",
-            "pname": "ARIBOT"
-          },
-          {
             "pid": "32",
             "pname": "ROV"
+          },
+          {
+            "pid": "29",
+            "pname": "ARIBOT"
           }
         ]
       },
@@ -793,12 +792,12 @@
         "email": "krisriboo@gmail.com",
         "projects": [
           {
-            "pid": "29",
-            "pname": "ARIBOT"
-          },
-          {
             "pid": "35",
             "pname": "Vīrya"
+          },
+          {
+            "pid": "29",
+            "pname": "ARIBOT"
           }
         ]
       },
@@ -814,16 +813,16 @@
         "email": "madspace49@gmail.com",
         "projects": [
           {
+            "pid": "34",
+            "pname": "Hexapod"
+          },
+          {
             "pid": "28",
             "pname": "LEWI"
           },
           {
             "pid": "24",
             "pname": "STAR"
-          },
-          {
-            "pid": "34",
-            "pname": "Hexapod"
           }
         ]
       },
@@ -839,12 +838,12 @@
         "email": "mukilks2502@gmail.com",
         "projects": [
           {
-            "pid": "28",
-            "pname": "LEWI"
-          },
-          {
             "pid": "32",
             "pname": "ROV"
+          },
+          {
+            "pid": "28",
+            "pname": "LEWI"
           }
         ]
       },
@@ -865,12 +864,12 @@
         "email": "kalaimegu2002@gmail.com",
         "projects": [
           {
-            "pid": "28",
-            "pname": "LEWI"
-          },
-          {
             "pid": "34",
             "pname": "Hexapod"
+          },
+          {
+            "pid": "28",
+            "pname": "LEWI"
           }
         ]
       },
@@ -886,6 +885,10 @@
         "email": "rcharanbhardhwaj@gmail.com",
         "projects": [
           {
+            "pid": "35",
+            "pname": "Virya"
+          },
+          {
             "pid": "30",
             "pname": "ANVI"
           },
@@ -900,10 +903,6 @@
           {
             "pid": "0",
             "pname": "Self driving bot"
-          },
-          {
-            "pid": "35",
-            "pname": "Virya"
           }
         ]
       },
@@ -919,12 +918,12 @@
         "email": "rahulgksvv@gmail.com",
         "projects": [
           {
-            "pid": "30",
-            "pname": "ANVI"
-          },
-          {
             "pid": "33",
             "pname": "QuaDro"
+          },
+          {
+            "pid": "30",
+            "pname": "ANVI"
           }
         ]
       },
@@ -940,12 +939,12 @@
         "email": "shyaam.pon@gmail.com",
         "projects": [
           {
-            "pid": "30",
-            "pname": "ANVI"
-          },
-          {
             "pid": "33",
             "pname": "QuaDro"
+          },
+          {
+            "pid": "30",
+            "pname": "ANVI"
           }
         ]
       },
@@ -961,16 +960,16 @@
         "email": "sunkara.vikash@gmail.com",
         "projects": [
           {
+            "pid": "34",
+            "pname": "Hexapod"
+          },
+          {
             "pid": "28",
             "pname": "LEWI"
           },
           {
             "pid": "24",
             "pname": "STAR"
-          },
-          {
-            "pid": "34",
-            "pname": "Hexapod"
           }
         ]
       },
@@ -986,12 +985,12 @@
         "email": "vakulaven280@gmail.com",
         "projects": [
           {
-            "pid": "30",
-            "pname": "ANVI"
-          },
-          {
             "pid": "33",
             "pname": "QuaDro"
+          },
+          {
+            "pid": "30",
+            "pname": "ANVI"
           }
         ]
       },
@@ -1023,10 +1022,6 @@
         "linkedIn": "https://www.linkedin.com/in/akhil-kasyap-284ab824a",
         "email": "akhilkasyap.007@gmail.com",
         "projects": [
-          {
-            "pid": "0",
-            "pname": "Sentinel Drone"
-          },
           {
             "pid": "35",
             "pname": "Virya"
