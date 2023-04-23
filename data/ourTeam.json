@@ -628,10 +628,6 @@
       "email": "aditya64748@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
-        {
           "pid": "32",
           "pname": "ROV"
         }
@@ -670,10 +666,6 @@
       "email": "askanasadfia1@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
-        {
           "pid": "32",
           "pname": "ROV"
         }
@@ -690,10 +682,6 @@
       "linkedIn": "https://www.linkedin.com/ganishk",
       "email": "ganishk1@gmail.com",
       "projects": [
-        {
-          "pid": "0",
-          "pname": "HolA Bot"
-        },
         {
           "pid": "31",
           "pname": "Balancing Bot"
@@ -712,10 +700,6 @@
       "email": "janamkhandelwal1700@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "HolA Bot"
-        },
-        {
           "pid": "31",
           "pname": "Balancing Bot"
         }
@@ -733,10 +717,6 @@
       "email": "rusheek7@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
-        {
           "pid": "34",
           "pname": "Hexapod"
         }
@@ -753,10 +733,6 @@
       "linkedIn": "www.linkedin.com/in/sourav-selvaraj",
       "email": "krssourav@gmail.com",
       "projects": [
-        {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
         {
           "pid": "35",
           "pname": "Virya"
@@ -779,10 +755,6 @@
       "email": "sreenidhisundaram@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
-        {
           "pid": "32",
           "pname": "ROV"
         }
@@ -799,10 +771,6 @@
       "linkedIn": "https://www.linkedin.com/in/srivattsan-s-147a5b22a",
       "email": "srivattsan37@gmail.com",
       "projects": [
-        {
-          "pid": "0",
-          "pname": "HolA Bot"
-        },
         {
           "pid": "31",
           "pname": "Balancing Bot"
@@ -821,10 +789,6 @@
       "email": "meetsusmitha.er@gmail.com",
       "projects": [
         {
-          "pid": "0",
-          "pname": "HolA Bot"
-        },
-        {
           "pid": "34",
           "pname": "Hexapod"
         }
@@ -841,10 +805,6 @@
       "linkedIn": "https://www.linkedin.com/in/vallimayl-v-619b96240",
       "email": "vallimaylvalliappan@gmail.com",
       "projects": [
-        {
-          "pid": "0",
-          "pname": "Sentinel Drone"
-        },
         {
           "pid": "35",
           "pname": "Virya"
