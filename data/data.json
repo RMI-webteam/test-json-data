@@ -2875,68 +2875,54 @@
   "projects": {
     "projects": [
       {
-        "pid": "35",
+        "pid": "31",
         "seededIn": "2022",
-        "shortName": "Vīrya",
-        "longName": "Autonomous rover for space exploration",
+        "shortName": "Balancing Bot",
+        "longName": "Autonomous self balancing bot",
         "duration": "Dec 2022 - Present",
-        "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
+        "shortDesc": "A two wheel self-balancing bot which can carry a payload of 1kg and autonomously navigate for 200m.",
         "longDesc": [
           {
             "heading": "",
             "type": "para",
-            "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for large-scale extra-terrestrial surface exploration."
+            "para": "The two-wheel self-balancing bot is a robotic platform that can be used in hospitals to assist medical staff in maneuvering through tight spaces and reduce the load on healthcare providers. The robot is designed to be lightweight, easy to operate, and equipped with advanced sensors and algorithms that allow it to maintain balance while moving around."
           },
           {
             "heading": "",
             "type": "para",
-            "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), the measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The rover's autonomous navigation will be achieved with the help of vision alone. No other sensors will be used for this purpose. Inspiration for this idea comes from observing humans. Humans use only vision to navigate flawlessly."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
+            "para": "In the medical sector, the self-balancing bot can be used to transport medical equipment and supplies,reducing the risk of injury to both the patient and the healthcare provider.The robot can be programmed to perform a range of tasks, such as monitoring patient vitals, delivering medications, and assisting with patient care."
           }
         ],
         "techStack": [
-          "ROS",
-          "Machine Design",
-          "Raspberry Pi",
-          "Signal Processing"
+          "Arduino",
+          "MPU 6050",
+          "Kalman Filters",
+          "PID Control"
         ],
         "developers": [
-          { "id": "156", "name": "R Charan Bhardhwaj" },
-          { "id": "152", "name": "Krishna Kishore V S" },
-          { "id": "167", "name": "Sourav S" },
-          { "id": "171", "name": "Vallimayl V" },
-          { "id": "162", "name": "Akhil Kasyap" }
+          { "id": "150", "name": "Farhan Abid Seliya" },
+          { "id": "149", "name": "Adithya Venkata Narayanan" },
+          { "id": "164", "name": "Ganishk D" },
+          { "id": "165", "name": "Janam Khandelwal" },
+          { "id": "169", "name": "Srivattsan S" }
         ],
-        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
         "images": [
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_4.webp"
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_5.webp"
         ],
         "quickLinks": {
           "youtubeLink": "",
-          "githubLink": "https://github.com/RMI-NITT/ROVER",
+          "githubLink": "https://github.com/Vattsan37/Self-balancing-bot",
           "otherLink": ""
         }
       },
       {
-        "pid": "34",
+        "pid": "32",
         "seededIn": "2022",
         "shortName": "Hexapod",
         "longName": "Six-legged bio inspired robot ",
@@ -3051,7 +3037,7 @@
         }
       },
       {
-        "pid": "32",
+        "pid": "34",
         "seededIn": "2022",
         "shortName": "ROV",
         "longName": "Remotely Operated Underwater Vehicle",
@@ -3123,44 +3109,63 @@
         }
       },
       {
-        "pid": "31",
+        "pid": "35",
         "seededIn": "2022",
-        "shortName": "Balancing Bot",
-        "longName": "Autonomous self balancing bot",
+        "shortName": "Vīrya",
+        "longName": "Autonomous rover for space exploration",
         "duration": "Dec 2022 - Present",
-        "shortDesc": "A two wheel self-balancing bot which can carry a payload of 1kg and autonomously navigate for 200m.",
+        "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
         "longDesc": [
           {
             "heading": "",
             "type": "para",
-            "para": "A two-wheel self-balancing bot designed in such a way it can carry a payload of 1kg. It works on the principle of the inverted pendulum and is controlled using a closed-loop feedback control system based on the tilt values obtained from the MPU 6050 sensor, passed through Kalman filters to reduce noise. We then integrate ultrasonic sensors into the bot for obstacle avoidance and basic perception. The bot can autonomously navigate and carry a payload of 1kg up to 200m."
+            "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for large-scale extra-terrestrial surface exploration."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), the measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The rover's autonomous navigation will be achieved with the help of vision alone. No other sensors will be used for this purpose. Inspiration for this idea comes from observing humans. Humans use only vision to navigate flawlessly."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
           }
         ],
         "techStack": [
-          "Arduino",
-          "MPU 6050",
-          "Kalman Filters",
-          "PID Control"
+          "ROS",
+          "Machine Design",
+          "Raspberry Pi",
+          "Signal Processing"
         ],
         "developers": [
-          { "id": "150", "name": "Farhan Abid Seliya" },
-          { "id": "149", "name": "Adithya Venkata Narayanan" },
-          { "id": "164", "name": "Ganishk D" },
-          { "id": "165", "name": "Janam Khandelwal" },
-          { "id": "169", "name": "Srivattsan S" }
+          { "id": "156", "name": "R Charan Bhardhwaj" },
+          { "id": "152", "name": "Krishna Kishore V S" },
+          { "id": "167", "name": "Sourav S" },
+          { "id": "171", "name": "Vallimayl V" },
+          { "id": "162", "name": "Akhil Kasyap" }
         ],
-        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
         "images": [
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_5.webp"
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_4.webp"
         ],
         "quickLinks": {
           "youtubeLink": "",
-          "githubLink": "https://github.com/Vattsan37/Self-balancing-bot",
+          "githubLink": "https://github.com/RMI-NITT/ROVER",
           "otherLink": ""
         }
       },
