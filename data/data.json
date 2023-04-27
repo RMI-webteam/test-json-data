@@ -2,6 +2,11 @@
   "accolades": {
     "topHonours": [
       {
+        "prizeIndex": "0",
+        "title": "5/5 teams qualified stage-1, Robofest 2.0",
+        "organisers": "Government of Gujarat"
+      },
+      {
         "prizeIndex": "1",
         "title": "Winners of Smart India Hackathon 2022",
         "organisers": "MHRD India"
@@ -10,11 +15,6 @@
         "prizeIndex": "0",
         "title": "Represented NIT Trichy at EXCON 2021, Bangalore",
         "organisers": "AI, IoT and Automation pavillion"
-      },
-      {
-        "prizeIndex": "0",
-        "title": "5 Teams Qualified for Robofest 2.0",
-        "organisers": "Government of Gujarat"
       },
       {
         "prizeIndex": "0",
@@ -44,24 +44,24 @@
     ],
     "accolades": [
       {
-        "title": "5 Teams Qualified for Robofest 2.0",
+        "title": "5/5 teams qualified stage-1, Robofest 2.0",
         "subtitle": "Government of Gujarat",
-        "project": "Project Virya, Hexapod, Quadro, ROV, Self-balancing bot."
+        "project": "Virya, Hexapod, Quadro, ROV, Self-balancing bot."
       },
       {
         "title": "1st place in Sangam'23 - Space Technology",
         "subtitle": "Pragyan'23, NIT Trichy",
-        "project": "Project Hexapod | March 2022"
+        "project": "Project Hexapod | March 2023"
       },
       {
         "title": "2nd place in Sangam'23 - Space Technology",
         "subtitle": "Pragyan'23, NIT Trichy",
-        "project": "Project Virya | March 2022"
+        "project": "Project Virya | March 2023"
       },
       {
-        "title": "1st place in Sangam'23 - Heatlthcare",
+        "title": "1st place in Sangam'23 - Healthcare",
         "subtitle": "Pragyan'23, NIT Trichy",
-        "project": "Project Quad | March 2022"
+        "project": "Project Quadro | March 2023"
       },
       {
         "title": "1st place in Colloquium'23",
@@ -2710,7 +2710,7 @@
       {
         "batchTag": "2014",
         "id": "39",
-        "name": "Vignesh Sushruta Raghavan",
+        "name": "Vignesh Sushrutha Raghavan",
         "position": "Member",
         "linkedin": "https://www.linkedin.com/in/vignesh-sushrutha-raghavan-06951773/",
         "email": "vsraghavan913@gmail.com"
@@ -2880,7 +2880,7 @@
         "shortName": "Balancing Bot",
         "longName": "Autonomous self balancing bot",
         "duration": "Dec 2022 - Present",
-        "shortDesc": "A two wheel self-balancing bot which can carry a payload of 1kg and autonomously navigate for 200m.",
+        "shortDesc": "A two wheel self-balancing bot designed for navigation and payload delivery.",
         "longDesc": [
           {
             "heading": "",

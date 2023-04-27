@@ -6,7 +6,7 @@
       "shortName": "Balancing Bot",
       "longName": "Autonomous self balancing bot",
       "duration": "Dec 2022 - Present",
-      "shortDesc": "A two wheel self-balancing bot which can carry a payload of 1kg and autonomously navigate for 200m.",
+      "shortDesc": "A two wheel self-balancing bot designed for navigation and payload delivery.",
       "longDesc": [
         {
           "heading": "",
