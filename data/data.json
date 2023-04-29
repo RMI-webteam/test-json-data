@@ -289,6 +289,8 @@
         "subtitle": "The annual RMI workshop for freshmen at NIT Trichy",
         "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/genesis_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/genesis_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LApayYO.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OgKyEVy.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lt7viOo.webp",
@@ -306,6 +308,8 @@
         "subtitle": "Inter-hostel technical tournament",
         "content": "The annual inter-hostel technical tournament held in collaboration with Pragyan that provides an intellectual challenge and is a source of healthy competition between hostels. Participating teams build robots specific to problem statements and complete a set of tasks within predefined constraints, exhibiting technical prowess.",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/bo3yQcs.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tPgsDKH.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/M4CuiEU.webp",
@@ -364,15 +368,21 @@
         "subtitle": "The grand display of innovation and technology",
         "content": "Visit our stalls during Pragyan to take a peek at the exciting projects and get to know what  we have been building over the years.  Get mesmerized at what the future of technology holds for humanity !",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_4.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_5.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pIMoUku.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QB4L7nZ.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/N362RbP.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/HQDY06y.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OtEJFE3.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/TnbNQWz.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/GDMXFwS.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/9Ivb9rz.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zAAlhxm.webp"
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zAAlhxm.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OtEJFE3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/TnbNQWz.webp"
+          
         ]
       }
     ]
@@ -4996,27 +5006,37 @@
   },
   "miscellaneous": {
     "landingPageImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_1.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/xY0SHFJ.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_2.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/L2Dty3R.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_3.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BGJ6FbF.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KtCZ4mp.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
     ],
     "ourTeamImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/our_team.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
     ],
     "projectsPageImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
     ],
     "accoladesImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_1.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BpFJEbt.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_2.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f9v5oyz.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_3.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e3EIRRD.webp"
     ],
-    "youtubeVideo": "BQTdkx3urrg"
+    "youtubeVideo": "7Qu89cIIiaQ"
   }
 }
