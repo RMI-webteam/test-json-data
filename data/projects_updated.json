@@ -32,7 +32,7 @@
         { "id": "165", "name": "Janam Khandelwal" },
         { "id": "169", "name": "Srivattsan S" }
       ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
@@ -95,7 +95,7 @@
         { "id": "170", "name": "Susmitha S " },
         { "id": "137", "name": "K Girish" }
       ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
@@ -219,7 +219,7 @@
         { "id": "154", "name": "Mukilan K" },
         { "id": "168", "name": "Sreenidhi Balachandran" }
       ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_1.webp",
@@ -281,7 +281,7 @@
         { "id": "171", "name": "Vallimayl V" },
         { "id": "162", "name": "Akhil Kasyap" }
       ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
