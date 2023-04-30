@@ -2920,6 +2920,7 @@
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
@@ -2982,6 +2983,7 @@
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_3.webp",
@@ -3106,6 +3108,7 @@
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_3.webp",
@@ -3168,6 +3171,7 @@
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
