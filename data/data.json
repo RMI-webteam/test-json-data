@@ -3147,7 +3147,7 @@
           {
             "heading": "",
             "type": "para",
-            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), the measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
+            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), these measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
           },
           {
             "heading": "",
