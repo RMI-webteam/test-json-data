@@ -1078,6 +1078,32 @@
       },
       {
         "batchTag": "2025",
+        "id": "173",
+        "name": "Gayathri Rajesh ",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/173_gayathri.webp",
+        "position": "Member",
+        "domains": ["Computer Vision", "Embedded Systems", "Machine Learning"],
+        "github": "https://github.com/rajeshgayathri2003",
+        "linkedIn": "https://www.linkedin.com/in/gayathri-rajesh-b84560228",
+        "email": "rajeshgayathri2003@gmail.com",
+        "projects": [
+        ]
+      },
+      {
+        "batchTag": "2025",
+        "id": "172",
+        "name": "Hemeshwaran V",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/172_hemesh.webp",
+        "position": "Member",
+        "domains": ["Electronics", "Embedded Systems", "Verilog and FPGA"],
+        "github": "",
+        "linkedIn": "https://www.linkedin.com/in/hemeshwaran-v-914a85233",
+        "email": "hemeshwaran.v@gmail.com",
+        "projects": [
+        ]
+      },
+      {
+        "batchTag": "2025",
         "id": "165",
         "name": "Janam Khandelwal ",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/bSbxlNi.webp",
@@ -1108,6 +1134,19 @@
             "pid": "32",
             "pname": "Hexapod"
           }
+        ]
+      },
+      {
+        "batchTag": "2025",
+        "id": "174",
+        "name": "Snehkumar Sabhaya",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/174_Snehkumar.webp",
+        "position": "Member",
+        "domains": ["Mechtronics", "Control Systems", "Aerial Robotics"],
+        "github": "",
+        "linkedIn": "https://www.linkedin.com/in/snehkumar-pareshbhai-sabhaya-76458424b/",
+        "email": "snehsabhaya33@gmail.com",
+        "projects": [
         ]
       },
       {
