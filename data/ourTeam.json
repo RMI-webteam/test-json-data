@@ -1,6 +1,202 @@
 {
   "currentMembers": [
     {
+      "batchTag": "2026",
+      "id": "175",
+      "name": "Ashwath B",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/175_ashwath.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Computer Vision"],
+      "github": "https://github.com/1ashwath1",
+      "linkedIn": "https://www.linkedin.com/in/ashwath-b-9bb666255",
+      "email": "ashwathb780@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "176",
+      "name": "Logithsurya M A",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/176_logith.webp",
+      "position": "Member",
+      "domains": ["Electronics","Embedded Systems", "Computer Vision"],
+      "github": "https://github.com/logithsurya",
+      "linkedIn": "www.linkedin.com/in/logithsurya-m-a-21913b265",
+      "email": "logithsurya018@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "177",
+      "name": "Pranav G",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/177_pranav.webp",
+      "position": "Member",
+      "domains": ["Mechanics", "Control Systems", "Electronics"],
+      "github": "https://github.com/gpranav162",
+      "linkedIn": "https://www.linkedin.com/in/pranav-ganesh-ram-590962289",
+      "email": "pranavgm04@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "178",
+      "name": "Prasham S Chheda",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/178_prasham.webp",
+      "position": "Member",
+      "domains": ["Embedded Systems", "Electronics", "Mechanics"],
+      "github": "https://github.com/PrashamChheda",
+      "linkedIn": "",
+      "email": "prashamchheda04@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "179",
+      "name": "RHEA MARY VARGHESE",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/179_Rhea.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Machine Learning", "Computer Vision"],
+      "github": "https://github.com/RheaMaryVarghese",
+      "linkedIn": "www.linkedin.com/in/rhea-mary-varghese-226ba3268",
+      "email": "rheamvee@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "180",
+      "name": "Sam Nathanael Thilagarajan ",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/180_sam.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Controls", "Artificial Intelligence"],
+      "github": "https://github.com/samnt04",
+      "linkedIn": "https://www.linkedin.com/in/sam-nathanael-958052253",
+      "email": "samnathanaelthilag@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "181",
+      "name": "Satyak R",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/181_satyak.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Computer Vision"],
+      "github": "https://github.com/satyak95",
+      "linkedIn": "https://www.linkedin.com/in/satyak-r-027b38283/",
+      "email": "satyak2605@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "182",
+      "name": "Sherwin Kumar M",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/182_sherwin.webp",
+      "position": "Member",
+      "domains": ["Machine Learning", "Computer Vision"],
+      "github": "https://github.com/Galax13",
+      "linkedIn": "https://www.linkedin.com/in/sherwin-kumar-m-282a09244/",
+      "email": "sherwinkumar13@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "183",
+      "name": "ShyamCharan.K",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/183_shyam.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Machine Learning", "Computer Vision"],
+      "github": "https://github.com/InclinedTaco",
+      "linkedIn": "https://www.linkedin.com/in/shyam-charan-518a65243",
+      "email": "shyamcharan.646@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "184",
+      "name": "Srinath N",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/184_srinath.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Mechanics", "Embedded"],
+      "github": "https://github.com/noobmaster-09",
+      "linkedIn": "https://www.linkedin.com/in/n-srinath-a691b6272",
+      "email": "srinathnagarajan1@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "185",
+      "name": "Sumeadh MS ",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/185_sumeadh.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Machine Learning", "Control Systems"],
+      "github": "https://github.com/Sumeadh",
+      "linkedIn": "https://www.linkedin.com/in/sumeadh-ms-490116251",
+      "email": "sumeadhmass@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "186",
+      "name": "Tarun",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/186_tarun.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Embedded Systems"],
+      "github": "https://github.com/txrunn7",
+      "linkedIn": "https://www.linkedin.com/in/tarun-muthukumar?trk=contact-info",
+      "email": "mtarunn491@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "187",
+      "name": "Tarunika P",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/187_tarunika.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Embedded", "Controls"],
+      "github": "https://github.com/tarunikap",
+      "linkedIn": "https://www.linkedin.com/in/tarunika-p-133961286",
+      "email": "tarunikap2004@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "188",
+      "name": "Umesh",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/188_umesh.webp",
+      "position": "Member",
+      "domains": ["Embedded Systems", "Machine Learning", "Control systems"],
+      "github": "https://github.com/umesh1503",
+      "linkedIn": "https://www.linkedin.com/in/umesh-d-2abb5625a",
+      "email": "umeshsuganya2915@gmail.com",
+      "projects": [
+        
+      ]
+    },
+    {
       "batchTag": "2024",
       "id": "149",
       "name": "Adithya Venkata Narayanan",
