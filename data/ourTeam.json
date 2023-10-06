@@ -2,6 +2,32 @@
   "currentMembers": [
     {
       "batchTag": "2024",
+      "id": "150",
+      "name": "Farhan Abid Seliya",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/D6pLrkY.webp",
+      "position": "President",
+      "domains": [
+        "Computer Vision",
+        "Deep Learning",
+        "Mobile Robotics",
+        "Mechanics & Control"
+      ],
+      "github": "https://github.com/FarhanNITT/FarhanNITT",
+      "linkedIn": "https://www.linkedin.com/in/farhan-seliya-573b2a205/",
+      "email": "farhanseliya9@gmail.com",
+      "projects": [
+        {
+          "pid": "31",
+          "pname": "Balancing Bot"
+        },
+        {
+          "pid": "29",
+          "pname": "ARIBOT"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
       "id": "149",
       "name": "Adithya Venkata Narayanan",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QX7x8qC.webp",
@@ -31,36 +57,10 @@
     },
     {
       "batchTag": "2024",
-      "id": "150",
-      "name": "Farhan Abid Seliya",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/D6pLrkY.webp",
-      "position": "President",
-      "domains": [
-        "Computer Vision",
-        "Deep Learning",
-        "Mobile Robotics",
-        "Mechanics & Control"
-      ],
-      "github": "https://github.com/FarhanNITT/FarhanNITT",
-      "linkedIn": "https://www.linkedin.com/in/farhan-seliya-573b2a205/",
-      "email": "farhanseliya9@gmail.com",
-      "projects": [
-        {
-          "pid": "31",
-          "pname": "Balancing Bot"
-        },
-        {
-          "pid": "29",
-          "pname": "ARIBOT"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
       "id": "151",
       "name": "Guru Vishnu M",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/A2SNodL.webp",
-      "position": "SAC coordinator",
+      "position": "Member",
       "domains": ["Mechanics", "Electronics"],
       "github": "https://github.com/Guru-Vishnu",
       "linkedIn": "https://www.linkedin.com/in/guru-vishnu-m/",
