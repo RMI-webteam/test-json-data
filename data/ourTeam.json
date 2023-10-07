@@ -28,56 +28,6 @@
     },
     {
       "batchTag": "2024",
-      "id": "149",
-      "name": "Adithya Venkata Narayanan",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QX7x8qC.webp",
-      "position": "Member",
-      "domains": ["Mechatronics", "Controls", "Computer Vision"],
-      "github": "https://github.com/Adithya-187326",
-      "linkedIn": "https://www.linkedin.com/in/adithya-venkata-narayanan-1a1321219/",
-      "email": "adithyavnarayanan@gmail.com",
-      "projects": [
-        {
-          "pid": "31",
-          "pname": "Balancing Bot"
-        },
-        {
-          "pid": "9",
-          "pname": "HuRoS"
-        },
-        {
-          "pid": "30",
-          "pname": "ANVI"
-        },
-        {
-          "pid": "27",
-          "pname": "SPARO"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
-      "id": "151",
-      "name": "Guru Vishnu M",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/A2SNodL.webp",
-      "position": "Member",
-      "domains": ["Mechanics", "Electronics"],
-      "github": "https://github.com/Guru-Vishnu",
-      "linkedIn": "https://www.linkedin.com/in/guru-vishnu-m/",
-      "email": "mgv.earth@gmail.com",
-      "projects": [
-        {
-          "pid": "34",
-          "pname": "ROV"
-        },
-        {
-          "pid": "29",
-          "pname": "ARIBOT"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
       "id": "152",
       "name": "Krishna Kishore V S",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tAO3hUC.webp",
@@ -98,78 +48,6 @@
         {
           "pid": "29",
           "pname": "ARIBOT"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
-      "id": "153",
-      "name": "Madhav R",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/2OZ9GJ3.webp",
-      "position": "Head, Design & Publicity",
-      "domains": ["Electronics", "IoT", "Mechanics", "Control Systems"],
-      "github": "https://github.com/madE03",
-      "linkedIn": "https://www.linkedin.com/in/madhav-r-2867b920b",
-      "email": "madspace49@gmail.com",
-      "projects": [
-        {
-          "pid": "32",
-          "pname": "Hexapod"
-        },
-        {
-          "pid": "28",
-          "pname": "LEWI"
-        },
-        {
-          "pid": "24",
-          "pname": "STAR"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
-      "id": "154",
-      "name": "Mukilan K",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/CpAGbkf.webp",
-      "position": "Member",
-      "domains": ["Computer Vision", "Deep Learning", "Signal Processing"],
-      "github": "https://github.com/Mukil07",
-      "linkedIn": "https://www.linkedin.com/in/mukilan-k-3261121b9",
-      "email": "mukilks2502@gmail.com",
-      "projects": [
-        {
-          "pid": "34",
-          "pname": "ROV"
-        },
-        {
-          "pid": "28",
-          "pname": "LEWI"
-        }
-      ]
-    },
-    {
-      "batchTag": "2024",
-      "id": "155",
-      "name": "P N Kalaimani",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lfYGRmL.webp",
-      "position": "Head, Workshops",
-      "domains": [
-        "Embedded Systems",
-        "Image Processing",
-        "Signal Processing",
-        "Soft Robotics"
-      ],
-      "github": "https://github.com/Kalaimani02",
-      "linkedIn": "https://www.linkedin.com/in/p-n-kalaimani-69a276217/",
-      "email": "kalaimegu2002@gmail.com",
-      "projects": [
-        {
-          "pid": "32",
-          "pname": "Hexapod"
-        },
-        {
-          "pid": "28",
-          "pname": "LEWI"
         }
       ]
     },
@@ -250,14 +128,14 @@
     },
     {
       "batchTag": "2024",
-      "id": "159",
-      "name": "Sunkara Vikash",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EKHHTfq.webp",
-      "position": "Member",
-      "domains": ["Machine learning", "Deep learning"],
-      "github": "https://github.com/Vikash2024",
-      "linkedIn": "https://www.linkedin.com/in/vikash-sunkara-2986a9212",
-      "email": "sunkara.vikash@gmail.com",
+      "id": "153",
+      "name": "Madhav R",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/2OZ9GJ3.webp",
+      "position": "Head, Design & Publicity",
+      "domains": ["Electronics", "IoT", "Mechanics", "Control Systems"],
+      "github": "https://github.com/madE03",
+      "linkedIn": "https://www.linkedin.com/in/madhav-r-2867b920b",
+      "email": "madspace49@gmail.com",
       "projects": [
         {
           "pid": "32",
@@ -291,6 +169,128 @@
         {
           "pid": "30",
           "pname": "ANVI"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
+      "id": "155",
+      "name": "P N Kalaimani",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lfYGRmL.webp",
+      "position": "Head, Workshops",
+      "domains": [
+        "Embedded Systems",
+        "Image Processing",
+        "Signal Processing",
+        "Soft Robotics"
+      ],
+      "github": "https://github.com/Kalaimani02",
+      "linkedIn": "https://www.linkedin.com/in/p-n-kalaimani-69a276217/",
+      "email": "kalaimegu2002@gmail.com",
+      "projects": [
+        {
+          "pid": "32",
+          "pname": "Hexapod"
+        },
+        {
+          "pid": "28",
+          "pname": "LEWI"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
+      "id": "149",
+      "name": "Adithya Venkata Narayanan",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QX7x8qC.webp",
+      "position": "Member",
+      "domains": ["Mechatronics", "Controls", "Computer Vision"],
+      "github": "https://github.com/Adithya-187326",
+      "linkedIn": "https://www.linkedin.com/in/adithya-venkata-narayanan-1a1321219/",
+      "email": "adithyavnarayanan@gmail.com",
+      "projects": [
+        {
+          "pid": "31",
+          "pname": "Balancing Bot"
+        },
+        {
+          "pid": "9",
+          "pname": "HuRoS"
+        },
+        {
+          "pid": "30",
+          "pname": "ANVI"
+        },
+        {
+          "pid": "27",
+          "pname": "SPARO"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
+      "id": "151",
+      "name": "Guru Vishnu M",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/A2SNodL.webp",
+      "position": "Member",
+      "domains": ["Mechanics", "Electronics"],
+      "github": "https://github.com/Guru-Vishnu",
+      "linkedIn": "https://www.linkedin.com/in/guru-vishnu-m/",
+      "email": "mgv.earth@gmail.com",
+      "projects": [
+        {
+          "pid": "34",
+          "pname": "ROV"
+        },
+        {
+          "pid": "29",
+          "pname": "ARIBOT"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
+      "id": "154",
+      "name": "Mukilan K",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/CpAGbkf.webp",
+      "position": "Member",
+      "domains": ["Computer Vision", "Deep Learning", "Signal Processing"],
+      "github": "https://github.com/Mukil07",
+      "linkedIn": "https://www.linkedin.com/in/mukilan-k-3261121b9",
+      "email": "mukilks2502@gmail.com",
+      "projects": [
+        {
+          "pid": "34",
+          "pname": "ROV"
+        },
+        {
+          "pid": "28",
+          "pname": "LEWI"
+        }
+      ]
+    },
+    {
+      "batchTag": "2024",
+      "id": "159",
+      "name": "Sunkara Vikash",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EKHHTfq.webp",
+      "position": "Member",
+      "domains": ["Machine learning", "Deep learning"],
+      "github": "https://github.com/Vikash2024",
+      "linkedIn": "https://www.linkedin.com/in/vikash-sunkara-2986a9212",
+      "email": "sunkara.vikash@gmail.com",
+      "projects": [
+        {
+          "pid": "32",
+          "pname": "Hexapod"
+        },
+        {
+          "pid": "28",
+          "pname": "LEWI"
+        },
+        {
+          "pid": "24",
+          "pname": "STAR"
         }
       ]
     },
@@ -656,7 +656,7 @@
       "name": "Srinath N",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/184_srinath.webp",
       "position": "Member",
-      "domains": ["Electronics", "Mechanics", "Embedded"],
+      "domains": ["Electronics", "Mechanics", "Embedded Systems"],
       "github": "https://github.com/noobmaster-09",
       "linkedIn": "https://www.linkedin.com/in/n-srinath-a691b6272",
       "email": "srinathnagarajan1@gmail.com",
