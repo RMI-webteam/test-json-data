@@ -5072,62 +5072,7 @@
       "email": "ezhil@nitt.edu",
       "personalPage": "https://nitt.edu/home/academics/departments/ice/faculty/ezhil/",
       "linkedIn": "",
-      "details": [
-        {
-          "header": "Qualification",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "",
-              "data": [
-                "B.E. in Electrical and Electronics Engineering (Madras University) 2000.",
-                "M. Tech in Process Control & Instrumentation (NIT, Tiruchirappalli) 2003.",
-                "PhD in Vibration Control (NIT, Tiruchirappalli) 2009."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Experience",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "",
-              "data": [
-                "Serving as faculty member since 2008, in Instrumentation and Control Engineering Department, NIT, Tiruchirappalli-15,",
-                "Presently Associate Professor."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Sponsored Research Project",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "Consultancy project",
-              "data": [
-                "Energy harvesting using Piezoelectric for self powered wireless sensor network based precision agriculture",
-                "Design and Development of piezoelectric energy harvesting system integrated with electric circuit and storage",
-                "Development of an Integrated Health Monitoring System for Large Engineering Structures",
-                "Design of Sliding Mode Controller for Biped Walking"
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Conference papers (Recent)",
-          "type": "para",
-          "subdata": [
-            {
-              "subheading": "A state-of-the-art survey of model order reduction techniques for large-scale coupled dynamical systems,",
-              "data": [
-                "International Journal of Dynamics and Control 2022, Ram Kumar, D. Ezhilarasi."
-              ]
-            }
-          ]
-        }
-      ]
+      "details": []
     }
   },
   "webTeam": {
