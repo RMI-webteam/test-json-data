@@ -44,12 +44,17 @@
     ],
     "accolades": [
       {
+        "title": "2 teams qualified to Finale, Robofest 3.0",
+        "subtitle": "Government of Gujarat",
+        "project": "Hexapod, Quadro"
+      },
+      {
         "title": "2nd place in Scient Open House'23",
         "subtitle": "Scient Labs, NIT Trichy",
         "project": "Project Hexapod | March 2023"
       },
       {
-        "title": "5/5 teams qualified stage-1, Robofest 2.0",
+        "title": "5/5 teams qualified stage-1, Robofest 3.0",
         "subtitle": "Government of Gujarat",
         "project": "Virya, Hexapod, Quadro, ROV, Self-balancing bot."
       },
@@ -5210,6 +5215,15 @@
       }
     ],
     "webops": [
+      {
+        "name": "Rahul Raaghav A",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zMTydOw.webp",
+        "position": "Head, Web-ops",
+        "additional": ["2022 - 2023"],
+        "github": "https://github.com/RahulraaghavA1308",
+        "linkedIn": "https://www.linkedin.com/in/rahul-raaghav-a-308446202/",
+        "email": "rahulgksvv@gmail.com"
+      },
       {
         "name": "Anas Khalid",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/42Izplm.webp",
