@@ -2,7 +2,12 @@
   "topHonours": [
     {
       "prizeIndex": "0",
-      "title": "5/5 teams qualified stage-1, Robofest 2.0",
+      "title": "2 teams qualified to Finale, Robofest 3.0",
+      "organisers": "Government of Gujarat"
+    },
+    {
+      "prizeIndex": "0",
+      "title": "5/5 teams qualified stage-1, Robofest 3.0",
       "organisers": "Government of Gujarat"
     },
     {
@@ -34,11 +39,6 @@
       "prizeIndex": "0",
       "title": "Presented two papers at iNaCoMM 2019",
       "organisers": "International Conference on Machines and Mechanisms"
-    },
-    {
-      "prizeIndex": "0",
-      "title": "Represented NIT Trichy at FINE 2018, Rashtrapathi Bhavan",
-      "organisers": "Festival of Innovation and Entrepreneurship"
     }
   ],
   "accolades": [
