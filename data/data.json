@@ -49,14 +49,14 @@
         "project": "Project Medvisor | February 2024"
       },
       {
-        "prizeIndex": "0",
         "title": "Winners of Robofest 3.0",
-        "organisers": "Government of Gujarat"
+        "subtitle": "Government of Gujarat",
+        "project": "Project Hexapod | December 2023"
       },
       {
-        "prizeIndex": "1",
-        "title": "Winners of Smart India Hackathon 2023",
-        "organisers": "MHRD India"
+        "title": "1st place in Smart India Hackathon 2023",
+        "subtitle": "MHRD India",
+        "project": "Project Hexapod | December 2023"
       },
       {
         "title": "2 teams qualified to Finale, Robofest 3.0",
@@ -305,7 +305,7 @@
         "title": "and counting . . ."
       }
     ]
-  },
+  },  
   "events": {
     "events": [
       {
