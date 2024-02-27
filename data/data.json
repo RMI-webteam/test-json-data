@@ -3,13 +3,13 @@
     "topHonours": [
       {
         "prizeIndex": "0",
-        "title": "2 teams qualified to Finale, Robofest 3.0",
+        "title": "Winners of Robofest 3.0",
         "organisers": "Government of Gujarat"
       },
       {
-        "prizeIndex": "0",
-        "title": "5/5 teams qualified stage-1, Robofest 3.0",
-        "organisers": "Government of Gujarat"
+        "prizeIndex": "1",
+        "title": "Winners of Smart India Hackathon 2023",
+        "organisers": "MHRD India"
       },
       {
         "prizeIndex": "1",
@@ -43,6 +43,21 @@
       }
     ],
     "accolades": [
+      {
+        "title": "1st place in Sangam'24 - Health Care",
+        "subtitle": "Pragyan'24, NIT Trichy",
+        "project": "Project Medvisor | February 2024"
+      },
+      {
+        "prizeIndex": "0",
+        "title": "Winners of Robofest 3.0",
+        "organisers": "Government of Gujarat"
+      },
+      {
+        "prizeIndex": "1",
+        "title": "Winners of Smart India Hackathon 2023",
+        "organisers": "MHRD India"
+      },
       {
         "title": "2 teams qualified to Finale, Robofest 3.0",
         "subtitle": "Government of Gujarat",
