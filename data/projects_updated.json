@@ -1,170 +1,6 @@
 {
   "projects": [
     {
-      "pid": "31",
-      "seededIn": "2022",
-      "shortName": "Balancing Bot",
-      "longName": "Autonomous self balancing bot",
-      "duration": "Dec 2022 - Present",
-      "shortDesc": "A two wheel self-balancing bot designed for navigation and payload delivery.",
-      "longDesc": [
-        {
-          "heading": "",
-          "type": "para",
-          "para": "The two-wheel self-balancing bot is a robotic platform that can be used in hospitals to assist medical staff in maneuvering through tight spaces and reduce the load on healthcare providers. The robot is designed to be lightweight, easy to operate, and equipped with advanced sensors and algorithms that allow it to maintain balance while moving around."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "In the medical sector, the self-balancing bot can be used to transport medical equipment and supplies,reducing the risk of injury to both the patient and the healthcare provider.The robot can be programmed to perform a range of tasks, such as monitoring patient vitals, delivering medications, and assisting with patient care."
-        }
-      ],
-      "techStack": [
-        "Arduino",
-        "MPU 6050",
-        "Kalman Filters",
-        "PID Control"
-      ],
-      "developers": [
-        { "id": "150", "name": "Farhan Abid Seliya" },
-        { "id": "149", "name": "Adithya Venkata Narayanan" },
-        { "id": "164", "name": "Ganishk D" },
-        { "id": "165", "name": "Janam Khandelwal" },
-        { "id": "169", "name": "Srivattsan S" }
-      ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
-      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
-      "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_5.webp"
-      ],
-      "quickLinks": {
-        "youtubeLink": "",
-        "githubLink": "https://github.com/Vattsan37/Self-balancing-bot",
-        "otherLink": ""
-      }
-    },
-    {
-      "pid": "32",
-      "seededIn": "2022",
-      "shortName": "Hexapod",
-      "longName": "Six-legged bio inspired robot ",
-      "duration": "Dec 2022 - Present",
-      "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
-      "longDesc": [
-        {
-          "heading": "",
-          "type": "para",
-          "para": "Hexapods can move dynamically in any direction, use different walking patterns for different terrains and climb rocky surfaces due to its six-legged design. "
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "To move the bot over the rocks we need wheels of large diameter, and with small wheels it becomes difficult to tread over coarse and sandy surfaces."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "The hexapod robot has better stability, payload capability, and fault-tolerant ability compared to a  biped and quadruped robot.  It has better maneuvering capability than rovers and the ability to climb steep  hills. When coupled with other systems, the capabilities of this robot become huge."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "A typical hexapod has 18 degrees of freedom and can move in multiple directions, i.e. up, down, forward, backward, left and right, without the need to turn. The legs of a hexapod travel both on the ground and air. The servos in the system ensure that the robot is capable of moving precisely in any direction. The components required to build one are simple and efficient."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "Thus, hexapods are a potential platform for many applications such as defense, surveillance, terrain exploration and transportation."
-        }
-      ],
-      "techStack": [
-        "3D Designing",
-        "Multi-Servo control",
-        "Inverse Kinematics",
-        "Arduino MEGA"
-      ],
-      "developers": [
-        { "id": "153", "name": "Madhav R" },
-        { "id": "159", "name": "Sunkara Vikash" },
-        { "id": "155", "name": "P N Kalaimani" },
-        { "id": "166", "name": "Rusheek B" },
-        { "id": "170", "name": "Susmitha S " },
-        { "id": "137", "name": "K Girish" }
-      ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
-      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
-      "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_3.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_4.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_5.webp"
-      ],
-      "quickLinks": {
-        "youtubeLink": "",
-        "githubLink": "https://github.com/RMI-NITT/Hexapod",
-        "otherLink": ""
-      }
-    },
-    {
-      "pid": "33",
-      "seededIn": "2022",
-      "shortName": "QuaDro",
-      "longName": "Autonomous quadcopter platform",
-      "duration": "Dec 2022 - Present",
-      "shortDesc": "QuaDro is a fully automated quadcopter with capabilities of carrying out last-mile delivery using vision-based position control.",
-      "longDesc": [
-        {
-          "heading": "",
-          "type": "para",
-          "para": "Our solution proposes a fully automated quadcopter with capabilities of carrying out last-mile delivery in hard-to-reach regions. The drone shall be capable of carrying first aid kits, health and other medical supplies, with a maximum payload carrying capacity of about 700 grams."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "QuaDro uses location guided flight by means of GPS that will enable outdoor point-to-point navigation, that is, motion from one point to another without any remote controls. "
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "The drone also contains LiDAR capabilities for obstacle detection and altitude lock, to maintain a specific altitude from ground. 3-D space location lock using image processing functionalities to assist vision-guided position-control will be enabled in the drone. This feature is the most important feature in making the drone entirely autonomous. The visual guidance solely controls precise landing of the drone on an aruco marker and helps the drone position and orient itself accurately."
-        }
-      ],
-      "techStack": [
-        "ArduPilot",
-        "Dronekit Python",
-        "Pixhawk",
-        "OpenCV"
-      ],
-      "developers": [
-        { "id": "157", "name": "Rahul Raaghav A" },
-        { "id": "158", "name": "Shyaam Pon Sundar S" },
-        { "id": "160", "name": "Vakula Venkatesh" },
-        { "id": "141", "name": "Aswin Sreekumar" },
-        { "id": "140", "name": "Satish Kumar L" }
-      ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
-      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
-      "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_4.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_5.webp"
-      ],
-      "quickLinks": {
-        "youtubeLink": "https://www.youtube.com/watch?v=R07xKzDGJ3I",
-        "githubLink": "https://github.com/RMI-NITT/QuaDro",
-        "otherLink": ""
-      }
-    },
-    {
       "pid": "34",
       "seededIn": "2022",
       "shortName": "ROV",
@@ -217,7 +53,9 @@
       "developers": [
         { "id": "151", "name": "Guru Vishnu M" },
         { "id": "163", "name": "Anas Khalid" },
-        { "id": "161", "name": "Aditya Singh " },
+        { "id": "161", "name": "Aditya Singh" },
+        { "id": "173", "name": "Gayathri Rajesh" },
+        { "id": "152", "name": "Krishna Kishore V S" },
         { "id": "154", "name": "Mukilan K" },
         { "id": "168", "name": "Sreenidhi Balachandran" }
       ],
@@ -225,15 +63,186 @@
       "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_0.webp",
       "images": [
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_1.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROV_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROV_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROV_3.webp",
         "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_4.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Sub_6.webp"
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROV_5.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROV_6.webp"
       ],
       "quickLinks": {
         "youtubeLink": "",
         "githubLink": "https://github.com/RMI-NITT/ROV",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "32",
+      "seededIn": "2022",
+      "shortName": "Hexapod",
+      "longName": "Six-legged bio inspired robot ",
+      "duration": "Dec 2022 - Dec 2023",
+      "shortDesc": "A six-legged bio-inspired bot with 18 DOF that can intelligently maneuver over harsh terrains and perform different analysis.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The project aims to keep pace with current unmanned developments by using the potential of the hexapod due to its adaptability, versatility, mobility, and sensor integration capabilities in defense applications and planetary exploration by traversing challenging terrains on celestial bodies as well as in commercialization."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Hexapod is a bio-inspired, six-legged multi-directional robot with 18 degrees of freedom capable of dynamic movement with precision. The bot has better maneuverability in rough, uneven terrains, and even climbs inclined surfaces with ease compared to conventional wheeled robots due to its stability and fault-tolerant ability."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The basic design of a hexapod has a central body/chassis and six legs with eighteen servo motors.The method of inverse kinematics and Jacobian-based coordinate transformation are employed for movement of the bot. Various gait algorithms like tripod, ripple and wave are used depending on the kind of movement such as yaw, walk, climb, etc., The interchangeability in gait patterns depending on various terrains helps for smoother and steadier motion of the bot. A generalized code is developed in Arduino IDE with these various algorithms of navigation."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Hexapod V0 ( first version) is designed in Fusion360, the tibia is 3D printed using PLA material, and acrylic is used for the femur as well as the chassis. V0 is equipped with Arduino MEGA, 10kgcm MG995R servo motors, two 10A,300W buck converters, and two 11.1V, 2200mAh Li-Po batteries. It is controlled wirelessly from a mobile app using the HC05 Bluetooth module."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Hexapod V1 (upgraded version) is designed in Fusion 360 considering the structural analysis and fabricated entirely by 3D printing using PLA material. V1 is made almost three times bigger than V0 in order to overcome the shortcomings of V0 such as high payload capacity, faster movement, and climb larger obstacles easily. V1 is equipped with Arduino MEGA, 60 kg cm RDS5160 servo motors, two Pololu mini-maestro servo controllers, a 20A buck converter, and a 22.2V, 5200mAh Li-Po battery. Digital touch feedback by attaching the contact switches to tips of the leg for dynamic obstacle climbing. A custom-made single layer PCB remote controller with NRF24L01 module is used for wireless communication with the bot with better user control for various navigation modes. Autonomous version of V1 is integrated with a KINECT camera to scan and create a 3D map of the surrounding environment, Jetson NANO for processing RGB data, and an LCD touch display. The step size of V1 is 8-24 cm, maximum speed is around 17 cm/s, and a run-time of 53 mins with a payload capacity of 15kgs."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The capabilities of hexapods can be enhanced by integrating numerous peripheral modules for various tasks to achieve desired functionalities."
+        }
+      ],
+      "techStack": [
+        "3D Designing",
+        "Multi-Servo control",
+        "Inverse Kinematics",
+        "Arduino MEGA"
+      ],
+      "developers": [
+        { "id": "153", "name": "Madhav R" },
+        { "id": "159", "name": "Sunkara Vikash" },
+        { "id": "155", "name": "P N Kalaimani" },
+        { "id": "166", "name": "Rusheek B" },
+        { "id": "170", "name": "Susmitha S " },
+        { "id": "137", "name": "K Girish" }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_0.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hexapod_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hexapod_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hexapod_4.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hexapod_6.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hex_5.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "https://github.com/RMI-NITT/Hexapod",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "31",
+      "seededIn": "2022",
+      "shortName": "Balancing Bot",
+      "longName": "Autonomous self balancing bot",
+      "duration": "Dec 2022 - Mar 2023",
+      "shortDesc": "A two wheel self-balancing bot designed for navigation and payload delivery.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The two-wheel self-balancing bot is a robotic platform that can be used in hospitals to assist medical staff in maneuvering through tight spaces and reduce the load on healthcare providers. The robot is designed to be lightweight, easy to operate, and equipped with advanced sensors and algorithms that allow it to maintain balance while moving around."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "In the medical sector, the self-balancing bot can be used to transport medical equipment and supplies,reducing the risk of injury to both the patient and the healthcare provider.The robot can be programmed to perform a range of tasks, such as monitoring patient vitals, delivering medications, and assisting with patient care."
+        }
+      ],
+      "techStack": [
+        "Arduino",
+        "MPU 6050",
+        "Kalman Filters",
+        "PID Control"
+      ],
+      "developers": [
+        { "id": "150", "name": "Farhan Abid Seliya" },
+        { "id": "149", "name": "Adithya Venkata Narayanan" },
+        { "id": "164", "name": "Ganishk D" },
+        { "id": "165", "name": "Janam Khandelwal" },
+        { "id": "169", "name": "Srivattsan S" }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_0.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_4.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Self_bal_5.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "https://github.com/Vattsan37/Self-balancing-bot",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "33",
+      "seededIn": "2022",
+      "shortName": "QuaDro",
+      "longName": "Autonomous quadcopter platform",
+      "duration": "Dec 2022 - Aug 2023",
+      "shortDesc": "QuaDro is a fully automated quadcopter with capabilities of carrying out last-mile delivery using vision-based position control.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Our solution proposes a fully automated quadcopter with capabilities of carrying out last-mile delivery in hard-to-reach regions. The drone shall be capable of carrying first aid kits, health and other medical supplies, with a maximum payload carrying capacity of about 700 grams."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "QuaDro uses location guided flight by means of GPS that will enable outdoor point-to-point navigation, that is, motion from one point to another without any remote controls. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The drone also contains LiDAR capabilities for obstacle detection and altitude lock, to maintain a specific altitude from ground. 3-D space location lock using image processing functionalities to assist vision-guided position-control will be enabled in the drone. This feature is the most important feature in making the drone entirely autonomous. The visual guidance solely controls precise landing of the drone on an aruco marker and helps the drone position and orient itself accurately."
+        }
+      ],
+      "techStack": [
+        "ArduPilot",
+        "Dronekit Python",
+        "Pixhawk",
+        "OpenCV"
+      ],
+      "developers": [
+        { "id": "157", "name": "Rahul Raaghav A" },
+        { "id": "158", "name": "Shyaam Pon Sundar S" },
+        { "id": "160", "name": "Vakula Venkatesh" },
+        { "id": "141", "name": "Aswin Sreekumar" },
+        { "id": "140", "name": "Satish Kumar L" }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_3.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_4.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Quad_5.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "https://www.youtube.com/watch?v=R07xKzDGJ3I",
+        "githubLink": "https://github.com/RMI-NITT/QuaDro",
         "otherLink": ""
       }
     },
