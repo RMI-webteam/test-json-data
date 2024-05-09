@@ -10,18 +10,20 @@
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
   ],
   "ourTeamImages": [
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/team2023_bg.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/our_team.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
   ],
   "projectsPageImages": [
-    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/hexa_bg.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
-    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
-    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp",
-    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp",
+    "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp"
   ],
   "accoladesImages": [
     "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_Robofest.webp",

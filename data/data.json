@@ -44,6 +44,16 @@
     ],
     "accolades": [
       {
+        "title": "3rd place in Scient Open House'24",
+        "subtitle": "Scient Labs, NIT Trichy",
+        "project": "Project MedVisor | April 2024"
+      },
+      {
+        "title": "Amidst the top 150 teams across the country",
+        "subtitle": "ISRO Robotics Challenge 2024",
+        "project": "Project Rover(Virya) | April 2024"
+      },
+      {
         "title": "1st place in Sangam'24 - Health Care",
         "subtitle": "Pragyan'24, NIT Trichy",
         "project": "Project Medvisor | February 2024"
@@ -392,7 +402,11 @@
         "subtitle": "The grand display of innovation and technology",
         "content": "Visit our stalls during Pragyan to take a peek at the exciting projects and get to know what  we have been building over the years.  Get mesmerized at what the future of technology holds for humanity !",
         "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/team2023_CC.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit23_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit23_3.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_5.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit23_4.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_4.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_2.webp",
@@ -5319,18 +5333,20 @@
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
     ],
     "ourTeamImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/team2023_bg.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/our_team.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
     ],
     "projectsPageImages": [
-      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/hexa_bg.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
-      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
-      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp",
-      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp"
     ],
     "accoladesImages": [
       "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Hexa_Robofest.webp",
@@ -5343,5 +5359,6 @@
     ],
     "youtubeVideo": "7Qu89cIIiaQ"
   }
+  
   
 }
