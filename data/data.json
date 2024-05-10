@@ -877,7 +877,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           },
           {
             "pid": "35",
@@ -961,7 +961,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           },
           {
             "pid": "32",
@@ -1047,7 +1047,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           }
         ]
       },
@@ -1102,7 +1102,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           }
         ]
       },
@@ -1119,7 +1119,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           }
         ]
       },
@@ -1174,7 +1174,7 @@
         "projects": [
           {
             "pid": "37",
-            "pname": "Amphibious Robot"
+            "pname": "Amphibian Robot"
           }
         ]
       },
@@ -3488,7 +3488,7 @@
       {
         "pid": "35",
         "seededIn": "2022",
-        "shortName": "Rover(Virya)",
+        "shortName": "Virya",
         "longName": "Autonomous Rover for space exploration",
         "duration": "Dec 2022 - Present",
         "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
