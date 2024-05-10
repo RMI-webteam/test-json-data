@@ -469,8 +469,12 @@
         "email": "krisriboo@gmail.com",
         "projects": [
           {
+            "pid": "34",
+            "pname": "ROV"
+          },
+          {
             "pid": "35",
-            "pname": "Vīrya"
+            "pname": "Virya"
           },
           {
             "pid": "29",
@@ -733,6 +737,10 @@
         "email": "aditya64748@gmail.com",
         "projects": [
           {
+            "pid": "38",
+            "pname": "MedVisor"
+          },
+          {
             "pid": "34",
             "pname": "ROV"
           }
@@ -767,6 +775,10 @@
         "email": "askanasadfia1@gmail.com",
         "projects": [
           {
+            "pid": "38",
+            "pname": "MedVisor"
+          },
+          {
             "pid": "34",
             "pname": "ROV"
           }
@@ -784,6 +796,10 @@
         "email": "ganishk1@gmail.com",
         "projects": [
           {
+            "pid": "35",
+            "pname": "Virya"
+          },
+          {
             "pid": "31",
             "pname": "Balancing Bot"
           }
@@ -800,6 +816,14 @@
         "linkedIn": "https://www.linkedin.com/in/gayathri-rajesh-b84560228",
         "email": "rajeshgayathri2003@gmail.com",
         "projects": [
+          {
+            "pid": "38",
+            "pname": "MedVisor"
+          },
+          {
+            "pid": "34",
+            "pname": "ROV"
+          }
         ]
       },
       {
@@ -813,22 +837,9 @@
         "linkedIn": "https://www.linkedin.com/in/hemeshwaran-v-914a85233",
         "email": "hemeshwaran.v@gmail.com",
         "projects": [
-        ]
-      },
-      {
-        "batchTag": "2025",
-        "id": "165",
-        "name": "Janam Khandelwal ",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/bSbxlNi.webp",
-        "position": "Ex-Member (2022-2023)",
-        "domains": ["Computer Vision", "Embedded systems"],
-        "github": "https://github.com/Janam-001",
-        "linkedIn": "https://www.linkedin.com/in/janam-khandelwal-520524223/",
-        "email": "janamkhandelwal1700@gmail.com",
-        "projects": [
           {
-            "pid": "31",
-            "pname": "Balancing Bot"
+            "pid": "35",
+            "pname": "Virya"
           }
         ]
       },
@@ -843,6 +854,10 @@
         "linkedIn": "https://www.linkedin.com/in/rusheek-b-3b9872231/",
         "email": "rusheek7@gmail.com",
         "projects": [
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          },
           {
             "pid": "32",
             "pname": "Hexapod"
@@ -860,6 +875,14 @@
         "linkedIn": "https://www.linkedin.com/in/snehkumar-pareshbhai-sabhaya-76458424b/",
         "email": "snehsabhaya33@gmail.com",
         "projects": [
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -873,6 +896,10 @@
         "linkedIn": "www.linkedin.com/in/sourav-selvaraj",
         "email": "krssourav@gmail.com",
         "projects": [
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          },
           {
             "pid": "35",
             "pname": "Virya"
@@ -912,6 +939,10 @@
         "email": "srivattsan37@gmail.com",
         "projects": [
           {
+            "pid": "35",
+            "pname": "Virya"
+          },
+          {
             "pid": "31",
             "pname": "Balancing Bot"
           }
@@ -928,6 +959,10 @@
         "linkedIn": "https://www.linkedin.com/in/susmitha-s-a01961248",
         "email": "meetsusmitha.er@gmail.com",
         "projects": [
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          },
           {
             "pid": "32",
             "pname": "Hexapod"
@@ -962,7 +997,10 @@
         "linkedIn": "https://www.linkedin.com/in/ashwath-b-9bb666255",
         "email": "ashwathb780@gmail.com",
         "projects": [
-          
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -976,7 +1014,10 @@
         "linkedIn": "www.linkedin.com/in/logithsurya-m-a-21913b265",
         "email": "logithsurya018@gmail.com",
         "projects": [
-          
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          }
         ]
       },
       {
@@ -1004,7 +1045,10 @@
         "linkedIn": "",
         "email": "prashamchheda04@gmail.com",
         "projects": [
-          
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          }
         ]
       },
       {
@@ -1018,7 +1062,14 @@
         "linkedIn": "www.linkedin.com/in/rhea-mary-varghese-226ba3268",
         "email": "rheamvee@gmail.com",
         "projects": [
-          
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -1032,7 +1083,10 @@
         "linkedIn": "https://www.linkedin.com/in/sam-nathanael-958052253",
         "email": "samnathanaelthilag@gmail.com",
         "projects": [
-          
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -1046,7 +1100,10 @@
         "linkedIn": "https://www.linkedin.com/in/satyak-r-027b38283/",
         "email": "satyak2605@gmail.com",
         "projects": [
-          
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          }
         ]
       },
       {
@@ -1060,7 +1117,10 @@
         "linkedIn": "https://www.linkedin.com/in/sherwin-kumar-m-282a09244/",
         "email": "sherwinkumar13@gmail.com",
         "projects": [
-          
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          }
         ]
       },
       {
@@ -1074,7 +1134,14 @@
         "linkedIn": "https://www.linkedin.com/in/shyam-charan-518a65243",
         "email": "shyamcharan.646@gmail.com",
         "projects": [
-          
+          {
+            "pid": "38",
+            "pname": "MedVisor"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -1088,7 +1155,10 @@
         "linkedIn": "https://www.linkedin.com/in/n-srinath-a691b6272",
         "email": "srinathnagarajan1@gmail.com",
         "projects": [
-          
+          {
+            "pid": "38",
+            "pname": "MedVisor"
+          }
         ]
       },
       {
@@ -1102,7 +1172,10 @@
         "linkedIn": "https://www.linkedin.com/in/sumeadh-ms-490116251",
         "email": "sumeadhmass@gmail.com",
         "projects": [
-          
+          {
+            "pid": "37",
+            "pname": "Amphibious Robot"
+          }
         ]
       },
       {
@@ -1116,7 +1189,14 @@
         "linkedIn": "https://www.linkedin.com/in/tarun-muthukumar?trk=contact-info",
         "email": "mtarunn491@gmail.com",
         "projects": [
-          
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
         ]
       },
       {
@@ -1130,7 +1210,10 @@
         "linkedIn": "https://www.linkedin.com/in/tarunika-p-133961286",
         "email": "tarunikap2004@gmail.com",
         "projects": [
-          
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          }
         ]
       },
       {
@@ -3158,7 +3241,7 @@
   "projects": {
     "projects": [
       {
-        "pid": "36",
+        "pid": "38",
         "seededIn": "2023",
         "shortName": "MedVisor",
         "longName": "Medical Visualization through AR",
@@ -3207,6 +3290,118 @@
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_2.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_3.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "37",
+        "seededIn": "2023",
+        "shortName": "Amphibian Bot",
+        "longName": "Amphibious four-wheeled Robot",
+        "duration": "Jan 2024 - Present",
+        "shortDesc": "Amphibious four-wheeled thruster robot capable of navigating both submerged environments and remote landscapes with the combination of robust design, advanced propulsion systems, and integrated sensor technologies.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The multi-mode locomotion bot represents a groundbreaking advancement in robotic technology, offering unparalleled adaptability for disaster response, mapping, and exploration missions. Its modular design seamlessly integrates wheels and thrusters, allowing for effortless customization with peripheral modules tailored to specific tasks. Equipped with actuators at each joint, the bot dynamically configures its thrusters for fluid navigation across diverse environments, from land to water. Its precise control system enables seamless movement in any direction, ensuring precise maneuverability during critical missions."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Utilizing four wheels for terrestrial traversal and four thrusters powered by high torque BLDC motors, the bot effortlessly transitions between land and water. A sophisticated engagement-disengagement mechanism, coupled with servo motors, facilitates smooth transmission, enhancing efficiency and speed. Engineered to withstand the rigors of underwater exploration, the bot's robust body frame ensures durability and reliability at depth. The synergy between its propulsion system, actuation system, and transition mechanisms ensures seamless operation across varied terrains."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "In conclusion, the multi-mode locomotion bot offers unmatched versatility and efficiency, revolutionizing disaster response, mapping, and exploration endeavors with its groundbreaking capabilities."
+          }
+        ],
+        "techStack": [
+          "Raspberry Pi 4",
+          "Fusion 360"
+        ],
+        "developers": [
+          { "id": "174", "name": "Snehkumar Sabhaya " },
+          { "id": "170", "name": "Susmitha S " },
+          { "id": "178", "name": "Prasham S Chheda" },
+          { "id": "181", "name": "Satyak R" },
+          { "id": "182", "name": "Sherwin Kumar M" },
+          { "id": "185", "name": "Sumeadh MS" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_1.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_3.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "36",
+        "seededIn": "2023",
+        "shortName": "Soft Robotics",
+        "longName": "Soft Robotic Gripper",
+        "duration": "Jan 2024 - Present",
+        "shortDesc": "A soft robotic gripper project employing SMAs or Pneumatic Control for object manipulation tasks like pick-and-place and harvesting operations.",
+        "longDesc": [
+          {
+            "heading": "For actuation using SMAs",
+            "type": "para",
+            "para": "The soft robotic gripper employs Shape Memory Alloys (SMAs) for actuation, enabling precise manipulation tasks like pick-and-place operations in manufacturing, delicate handling in food packaging, and efficient harvesting in agriculture."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Controlled by SMA phase transitions triggered by thermal or mechanical stimuli, the gripper's compliant design facilitates adaptive grasping of objects, ensuring versatility in dynamic environments. Integrated sensors provide real-time feedback for optimized performance, while computer vision algorithms enable object detection, enhancing the gripper's adaptability and utility across various industries."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Furthermore, the soft robotic gripper surpasses conventional rigid grippers by providing gentler handling, precise control, and adaptability to variable object shapes and sizes, thereby reducing product damage and enhancing operational efficiency."
+          },
+          {
+            "heading": "For pneumatic actuation",
+            "type": "para",
+            "para": "The anthropomorphic soft gripper integrates a biomimetic design with a compliant silicone structure, enabling precise force modulation and adaptability in manipulation tasks. Each finger's control is governed by a pneumatic system, facilitating real-time adjustments of grip strength based on feedback from integrated pressure sensors. This data informs adaptive control strategies, empowering the gripper to dynamically tailor its grasp to diverse object characteristics, surpassing the limitations of conventional rigid grippers."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This innovative fusion of biomimetic design and pneumatic control ensures safe human interaction and enables the gripper to delicately handle objects with precision. With its ability to adapt to varying object shapes and sizes, the anthropomorphic soft gripper represents a significant advancement in robotic manipulation technology, offering enhanced versatility and control in intricate environments."
+          }
+        ],
+        "techStack": [
+          "SMA Actuation Mechanisms",
+          "RNN",
+          "AutoCAD",
+          "Pneumatic control",
+          "Miniaturized Pressure Sensors"
+          
+        ],
+        "developers": [
+          { "id": "167", "name": "Sourav S" },
+          { "id": "166", "name": "Rusheek B" },
+          { "id": "176", "name": "Logithsurya M A" },
+          { "id": "179", "name": "RHEA MARY VARGHESE" },
+          { "id": "186", "name": "Tarun" },
+          { "id": "187", "name": "Tarunika P" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Soft_1.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Soft_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Soft_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Soft_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Soft_3.webp"
         ],
         "quickLinks": {
           "youtubeLink": "",
@@ -3287,6 +3482,79 @@
         "quickLinks": {
           "youtubeLink": "",
           "githubLink": "https://github.com/RMI-NITT/ROV",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "35",
+        "seededIn": "2022",
+        "shortName": "Rover(Virya)",
+        "longName": "Autonomous Rover for space exploration",
+        "duration": "Dec 2022 - Present",
+        "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for space exploration,equipped with advanced navigation and manipulation capabilities."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "It utilizes the Rocker-Bogie suspension mechanism, helping it to traverse uneven terrains.It features a 4DOF arm allowing it to precisely manipulate objects in three-dimensional space. This flexibility, coupled with a two-finger gripper, ensures secure grasping of objects from various orientations.Using the feed from Intel Realsense depth camera, it can detect obstacles and craters along its path, traversing through them , depending on the size. Powered by Nvidia Jetson Orin, the rover's algorithms for crater and object detection, navigation, and pick-and-place operations are executed. These algorithms provide instructions to the microcontrollers within the arm system and drive system, which control motors,sensors and other components to execute tasks efficiently."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), these measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
+          }
+        ],
+        "techStack": [
+          "ROS",
+          "Machine Design",
+          "Raspberry Pi",
+          "Signal Processing"
+        ],
+        "developers": [
+          { "id": "156", "name": "R Charan Bhardhwaj" },
+          { "id": "152", "name": "Krishna Kishore V S" },
+          { "id": "162", "name": "Akhil Kasyap" },
+          { "id": "167", "name": "Sourav S" },
+          { "id": "174", "name": "Snehkumar Sabhaya"},
+          { "id": "169", "name": "Srivattsan S" },
+          { "id": "172", "name": "Hemeshwaran V" },
+          { "id": "164", "name": "Ganishk D" },
+          { "id": "175", "name": "Ashwath B" },
+          { "id": "179", "name": "RHEA MARY VARGHESE" },
+          { "id": "183", "name": "ShyamCharan K" },
+          { "id": "180", "name": "Sam Nathanael Thilagarajan" },
+          { "id": "186", "name": "Tarun" },
+          { "id": "171", "name": "Vallimayl V" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_5.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_6.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_7.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/ROVER",
           "otherLink": ""
         }
       },
@@ -3457,68 +3725,6 @@
         "quickLinks": {
           "youtubeLink": "https://www.youtube.com/watch?v=R07xKzDGJ3I",
           "githubLink": "https://github.com/RMI-NITT/QuaDro",
-          "otherLink": ""
-        }
-      },
-      {
-        "pid": "35",
-        "seededIn": "2022",
-        "shortName": "Vīrya",
-        "longName": "Autonomous rover for space exploration",
-        "duration": "Dec 2022 - Present",
-        "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
-        "longDesc": [
-          {
-            "heading": "",
-            "type": "para",
-            "para": "Mapping the terrain of an extra-terrestrial surface is crucial to the mission of space exploration. Unmanned vehicles are first sent to those surfaces to get information and determine if the outer body is a human exploration fit. Rovers are the go-to robots for large-scale extra-terrestrial surface exploration."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The proposed rover is a fully autonomous system traversing an unknown environment with the help of its sensors. Since the terrain of the extra-terrestrial surface is unfamiliar, the rover must be able to maneuver such terrains, making sure the main housing containing all the electronics is safe. This is achieved by designing and implementing a Rocker-Bogie suspension system that ensures the contact of 4-wheels at any point in time. The independence between the left and right wheels adds to the bot's dynamic capabilities."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The surface of outer space bodies can be mapped to a certain degree of accuracy with the help of Inertial Measurement Units (IMU), these measure linear and angular accelerations. The hardware filter DMP present in the IMU sensor is responsible for converting the acceleration values to displacement values. When placed on the wheels and the main chassis, these sensors can be compared to give the change in the depth of the terrain. The usage of LIDAR for terrain mapping is a future goal."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The rover's autonomous navigation will be achieved with the help of vision alone. No other sensors will be used for this purpose. Inspiration for this idea comes from observing humans. Humans use only vision to navigate flawlessly."
-          },
-          {
-            "heading": "",
-            "type": "para",
-            "para": "The 3D assembly file of the rover is converted to URDF, and then the same is used in the ROS Gazebo environment to simulate the effects. The model has been successfully loaded in Gazebo. The necessary sensors have to be attached, and the entire working of the rover will be first simulated in the ROS Gazebo environment. This is done as ROS is a middleware that can easily integrate hardware and software."
-          }
-        ],
-        "techStack": [
-          "ROS",
-          "Machine Design",
-          "Raspberry Pi",
-          "Signal Processing"
-        ],
-        "developers": [
-          { "id": "156", "name": "R Charan Bhardhwaj" },
-          { "id": "152", "name": "Krishna Kishore V S" },
-          { "id": "167", "name": "Sourav S" },
-          { "id": "171", "name": "Vallimayl V" },
-          { "id": "162", "name": "Akhil Kasyap" }
-        ],
-        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_0.webp",
-        "images": [
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_1.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_2.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_3.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rov_4.webp"
-        ],
-        "quickLinks": {
-          "youtubeLink": "",
-          "githubLink": "https://github.com/RMI-NITT/ROVER",
           "otherLink": ""
         }
       },
