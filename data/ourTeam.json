@@ -70,7 +70,7 @@
       "name": "Sourav S",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Q3ZccZJ.webp",
       "position": "Treasurer",
-      "domains": ["Embedded systems", "Computer Vision", "Verilog and FPGA"],
+      "domains": ["Robotics"],
       "github": "https://github.com/SouravSelvaraj",
       "linkedIn": "www.linkedin.com/in/sourav-selvaraj",
       "email": "krssourav@gmail.com",
@@ -210,7 +210,7 @@
     {
       "batchTag": "2025",
       "id": "168",
-      "name": "Sreenidhi Balachandran ",
+      "name": "Sreenidhi Balachandran",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/1IwxTts.webp",
       "position": "Member",
       "domains": [
@@ -222,6 +222,10 @@
       "linkedIn": "https://www.linkedin.com/in/sreenidhi-b-b949bb227",
       "email": "sreenidhisundaram@gmail.com",
       "projects": [
+        {
+          "pid": "39",
+          "pname": "AURA"
+        },
         {
           "pid": "34",
           "pname": "ROV"
@@ -430,7 +434,7 @@
     {
       "batchTag": "2026",
       "id": "183",
-      "name": "ShyamCharan.K",
+      "name": "ShyamCharan K",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/183_shyam.webp",
       "position": "Member",
       "domains": ["Electronics", "Machine Learning", "Computer Vision"],
@@ -614,7 +618,7 @@
       "name": "Kuhan Anandh K J",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/195_Kuhananandh.webp",
       "position": "Member",
-      "domains": ["Mechanics","Controls"],
+      "domains": ["Mechanics","Electronics","Controls"],
       "github": "https://github.com/KuhanAnandh",
       "linkedIn": "https://www.linkedin.com/in/kuhan-anandh-k-j-b476312b2/",
       "email": "kuhananandh@gmail.com",
@@ -628,7 +632,7 @@
       "name": "M Saiprakash",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/196_Saiprahash.webp",
       "position": "Member",
-      "domains": ["Embedded systems","Machine learning","Control systems"],
+      "domains": ["Embedded systems","Machine Learning","Control systems"],
       "github": "https://github.com/Saiprakash1444",
       "linkedIn": "https://www.linkedin.com/in/saiprakash-m-b7543527b/",
       "email": "m.saiprakash1444@gmail.com",
@@ -656,7 +660,7 @@
       "name": "Sreenivas S",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/198_Sreenivas+S.webp",
       "position": "Member",
-      "domains": ["Electronics", "Control Systems", "ML"],
+      "domains": ["Electronics", "Control Systems", "Machine Learning"],
       "github": "https://github.com/Sreenivas2005",
       "linkedIn": "https://www.linkedin.com/in/sreenivas-s-09b500287/",
       "email": "sreenivass.nitt@gmail.com",
@@ -670,7 +674,7 @@
       "name": "Srijan Prasanna",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/199_Srijan.webp",
       "position": "Member",
-      "domains": ["Embedded Systems","Electronics","ML"],
+      "domains": ["Embedded Systems","Electronics","Machine Learning"],
       "github": "https://github.com/SrijanP31",
       "linkedIn": "https://www.linkedin.com/in/srijan-prasanna-77821a272/",
       "email": "srijan.prasan@gmail.com",
@@ -687,7 +691,7 @@
       "domains": ["Machine Learning", "Electronics", "Controls"],
       "github": "https://github.com/VigneshSS11",
       "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
-      "email": "yaghisvar@gmail.com",
+      "email": "vigneshraja9273@gmail.com",
       "projects": [
         
       ]
@@ -698,10 +702,10 @@
       "name": "Yaghisvar R",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/201_Yaghisvar_R.webp",
       "position": "Member",
-      "domains": ["Electronics","Computer Vision","Machine learning"],
+      "domains": ["Electronics","Computer Vision","Machine Learning"],
       "github": "https://github.com/YAGHISVAR",
       "linkedIn": "https://www.linkedin.com/in/yaghisvar-r-b3483a275/",
-      "email": "vigneshraja9273@gmail.com",
+      "email": "yaghisvar@gmail.com",
       "projects": [
         
       ]
