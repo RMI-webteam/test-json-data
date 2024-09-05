@@ -439,9 +439,14 @@
         "email": "akhilkasyap.007@gmail.com",
         "projects": [
           {
+            "pid": "39",
+            "pname": "AURA"
+          },
+          {
             "pid": "35",
             "pname": "Virya"
           }
+          
         ]
       },
       {
@@ -733,7 +738,10 @@
         "linkedIn": "https://www.linkedin.com/in/pranav-ganesh-ram-590962289",
         "email": "pranavgm04@gmail.com",
         "projects": [
-          
+          {
+            "pid": "39",
+            "pname": "AURA"
+          }
         ]
       },
       {
@@ -786,8 +794,29 @@
         "email": "samnathanaelthilag@gmail.com",
         "projects": [
           {
+            "pid": "39",
+            "pname": "AURA"
+          },
+          {
             "pid": "35",
             "pname": "Virya"
+          }
+        ]
+      },
+      {
+        "batchTag": "2026",
+        "id": "189",
+        "name": "Sasidhar M",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/189_Sasidhar-M.webp",
+        "position": "Member",
+        "domains": ["Electronics", "Embedded Systems", "Machine Learning"],
+        "github": "https://github.com/sasidharirl",
+        "linkedIn": "https://www.linkedin.com/in/sasidhar-m-29829224b/",
+        "email": "sasidhar.nitt@gmail.com",
+        "projects": [
+          {
+            "pid": "38",
+            "pname": "MedVisor"
           }
         ]
       },
@@ -929,26 +958,13 @@
         "linkedIn": "https://www.linkedin.com/in/umesh-d-2abb5625a",
         "email": "umeshsuganya2915@gmail.com",
         "projects": [
-          
-        ]
-      },
-      {
-        "batchTag": "2026",
-        "id": "189",
-        "name": "Sasidhar M",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/189_Sasidhar-M.webp",
-        "position": "Member",
-        "domains": ["Electronics", "Embedded Systems", "Machine Learning"],
-        "github": "https://github.com/sasidharirl",
-        "linkedIn": "https://www.linkedin.com/in/sasidhar-m-29829224b/",
-        "email": "sasidhar.nitt@gmail.com",
-        "projects": [
           {
-            "pid": "38",
-            "pname": "MedVisor"
+            "pid": "39",
+            "pname": "AURA"
           }
         ]
       },
+      
       {
         "batchTag": "2027",
         "id": "190",
@@ -969,7 +985,7 @@
         "name": "C Girish",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/191_GIRISH+C.webp",
         "position": "Member",
-        "domains": ["OpenCV", "Control Systems", "Mechanics"],
+        "domains": ["Computer Vision", "Control Systems", "Mechanics"],
         "github": "https://github.com/GirishSwaminathan",
         "linkedIn": "https://www.linkedin.com/in/girish-c-44b64b2a9/",
         "email": "girish27102005@gmail.com",
@@ -983,7 +999,7 @@
         "name": "Joshua John",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/192_Joshua.webp",
         "position": "Member",
-        "domains": ["Electronics","Computer Vision","Mechanics","Controls"],
+        "domains": ["Electronics","Computer Vision","Controls"],
         "github": "https://github.com/KillerJosh345",
         "linkedIn": "https://www.linkedin.com/in/killerjosh345/",
         "email": "joshuajohn.lvj@gmail.com",
@@ -1053,7 +1069,7 @@
         "name": "Nimesh Timothy",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/197_Nimesh.webp",
         "position": "Member",
-        "domains": ["Embedded systems","Electronics","Computer Vision","Controls"],
+        "domains": ["Electronics","Computer Vision","Controls"],
         "github": "https://github.com/nimesh828",
         "linkedIn": "http://www.linkedin.com/in/nimesh-timothy-048b04283",
         "email": "nimeshtimothy1234@gmail.com",
@@ -1095,7 +1111,7 @@
         "name": "Vignesh S S",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh-SS.webp",
         "position": "Member",
-        "domains": ["Machine Learning", "Electronics", "Embedded Systems", "Controls"],
+        "domains": ["Machine Learning", "Electronics", "Controls"],
         "github": "https://github.com/VigneshSS11",
         "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
         "email": "yaghisvar@gmail.com",
@@ -3426,6 +3442,63 @@
   "projects": {
     "projects": [
       {
+        "pid": "39",
+        "seededIn": "2023",
+        "shortName": "AURA",
+        "longName": "Aerial Unmanned Robotic Agents",
+        "duration": "Jan 2024 - Present",
+        "shortDesc": "Aerial Swarm of five autonomous drones equipped with advanced sensor fusion and real-time communication, designed for seamless coordination and precision in complex task execution across diverse environments.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The aerial swarm robotics project represents a significant breakthrough in multi-agent systems, designed to execute complex tasks through precise coordination and synchronization. This project involves a swarm of five drones that ensure reliable operation in diverse environments. The system is anchored by a master drone that handles task allocation, coordination, and real-time communication with the slave drones, ensuring that the entire swarm operates as a unified entity."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The drones are designed in an X-shaped quadcopter configuration, providing stability and maneuverability. Each drone is equipped with a flight controller, integrated with IMU and GPS sensors, along with ESP32S3 as a companion microcontroller. The communication between drones is handled through the ESP-NOW protocol, ensuring robust and reliable coordination."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "For localization, the swarm uses Extended Kalman Filter (EKF) algorithm that fuses IMU and GPS data, with the potential for differential GPS integration to enhance accuracy. The control strategy revolves around continuous position updates, velocity command computations, and real-time adjustments, allowing the drones to maintain formation and avoid collisions."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The swarm robot's capability to adapt and coordinate makes them ideal for various applications, including search and rescue, 3D reconstruction, and smart agriculture."
+          }
+        ],
+        "techStack": [
+          "Flight controllers",
+          "Sensor Fusion",
+          "ESP-NOW protocol", 
+          "ROS2",
+          "SolidWorks"
+        ],
+        "developers": [
+          { "id": "162", "name": "Akhil Kasyap" },
+          { "id": "175", "name": "Ashwath B" },
+          { "id": "177", "name": "Pranav G" },
+          { "id": "180", "name": "Sam Nathanael" },
+          { "id": "188", "name": "Umesh" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm1.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm4.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Swarm_Robotics",
+          "otherLink": ""
+        }
+      },
+      {
         "pid": "38",
         "seededIn": "2023",
         "shortName": "MedVisor",
@@ -3465,6 +3538,7 @@
           { "id": "161", "name": "Aditya Singh" },
           { "id": "163", "name": "Anas Khalid" },
           { "id": "173", "name": "Gayathri Rajesh" },
+          { "id": "189", "name": "Sasidhar M" },
           { "id": "183", "name": "ShyamCharan K" },
           { "id": "184", "name": "Srinath N" }
         ],
@@ -3478,7 +3552,7 @@
         ],
         "quickLinks": {
           "youtubeLink": "",
-          "githubLink": "",
+          "githubLink": "https://github.com/RMI-NITT/AR_Glasses",
           "otherLink": ""
         }
       },
@@ -3527,7 +3601,7 @@
         ],
         "quickLinks": {
           "youtubeLink": "",
-          "githubLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Amphibian_Bot",
           "otherLink": ""
         }
       },
@@ -3536,7 +3610,7 @@
         "seededIn": "2023",
         "shortName": "Soft Robotics",
         "longName": "Soft Robotic Gripper",
-        "duration": "Jan 2024 - Present",
+        "duration": "Jan 2024 - June 2024",
         "shortDesc": "A soft robotic gripper project employing SMAs or Pneumatic Control for object manipulation tasks like pick-and-place and harvesting operations.",
         "longDesc": [
           {
@@ -3590,7 +3664,7 @@
         ],
         "quickLinks": {
           "youtubeLink": "",
-          "githubLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Soft_Robotics",
           "otherLink": ""
         }
       },
@@ -3599,7 +3673,7 @@
         "seededIn": "2022",
         "shortName": "ROV",
         "longName": "Remotely Operated Underwater Vehicle",
-        "duration": "Dec 2022 - Present",
+        "duration": "Dec 2022 - May 2024",
         "shortDesc": "Underwater robotic vehicle platform with optional ground control, designed to execute tests and missions at different levels of autonomy including testing of specialized payloads.",
         "longDesc": [
           {
@@ -3675,7 +3749,7 @@
         "seededIn": "2022",
         "shortName": "Virya",
         "longName": "Autonomous Rover for space exploration",
-        "duration": "Dec 2022 - Present",
+        "duration": "Dec 2022 - May 2024",
         "shortDesc": "A Rover that provides a research platform for the study of autonomous ground vehicles that is capable of mapping the terrain of extra-terrestrial surfaces.",
         "longDesc": [
           {

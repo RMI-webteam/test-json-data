@@ -12,9 +12,14 @@
       "email": "akhilkasyap.007@gmail.com",
       "projects": [
         {
+          "pid": "39",
+          "pname": "AURA"
+        },
+        {
           "pid": "35",
           "pname": "Virya"
         }
+        
       ]
     },
     {
@@ -306,7 +311,10 @@
       "linkedIn": "https://www.linkedin.com/in/pranav-ganesh-ram-590962289",
       "email": "pranavgm04@gmail.com",
       "projects": [
-        
+        {
+          "pid": "39",
+          "pname": "AURA"
+        }
       ]
     },
     {
@@ -359,8 +367,29 @@
       "email": "samnathanaelthilag@gmail.com",
       "projects": [
         {
+          "pid": "39",
+          "pname": "AURA"
+        },
+        {
           "pid": "35",
           "pname": "Virya"
+        }
+      ]
+    },
+    {
+      "batchTag": "2026",
+      "id": "189",
+      "name": "Sasidhar M",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/189_Sasidhar-M.webp",
+      "position": "Member",
+      "domains": ["Electronics", "Embedded Systems", "Machine Learning"],
+      "github": "https://github.com/sasidharirl",
+      "linkedIn": "https://www.linkedin.com/in/sasidhar-m-29829224b/",
+      "email": "sasidhar.nitt@gmail.com",
+      "projects": [
+        {
+          "pid": "38",
+          "pname": "MedVisor"
         }
       ]
     },
@@ -502,26 +531,13 @@
       "linkedIn": "https://www.linkedin.com/in/umesh-d-2abb5625a",
       "email": "umeshsuganya2915@gmail.com",
       "projects": [
-        
-      ]
-    },
-    {
-      "batchTag": "2026",
-      "id": "189",
-      "name": "Sasidhar M",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/189_Sasidhar-M.webp",
-      "position": "Member",
-      "domains": ["Electronics", "Embedded Systems", "Machine Learning"],
-      "github": "https://github.com/sasidharirl",
-      "linkedIn": "https://www.linkedin.com/in/sasidhar-m-29829224b/",
-      "email": "sasidhar.nitt@gmail.com",
-      "projects": [
         {
-          "pid": "38",
-          "pname": "MedVisor"
+          "pid": "39",
+          "pname": "AURA"
         }
       ]
     },
+    
     {
       "batchTag": "2027",
       "id": "190",
@@ -542,7 +558,7 @@
       "name": "C Girish",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/191_GIRISH+C.webp",
       "position": "Member",
-      "domains": ["OpenCV", "Control Systems", "Mechanics"],
+      "domains": ["Computer Vision", "Control Systems", "Mechanics"],
       "github": "https://github.com/GirishSwaminathan",
       "linkedIn": "https://www.linkedin.com/in/girish-c-44b64b2a9/",
       "email": "girish27102005@gmail.com",
@@ -556,7 +572,7 @@
       "name": "Joshua John",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/192_Joshua.webp",
       "position": "Member",
-      "domains": ["Electronics","Computer Vision","Mechanics","Controls"],
+      "domains": ["Electronics","Computer Vision","Controls"],
       "github": "https://github.com/KillerJosh345",
       "linkedIn": "https://www.linkedin.com/in/killerjosh345/",
       "email": "joshuajohn.lvj@gmail.com",
@@ -626,7 +642,7 @@
       "name": "Nimesh Timothy",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/197_Nimesh.webp",
       "position": "Member",
-      "domains": ["Embedded systems","Electronics","Computer Vision","Controls"],
+      "domains": ["Electronics","Computer Vision","Controls"],
       "github": "https://github.com/nimesh828",
       "linkedIn": "http://www.linkedin.com/in/nimesh-timothy-048b04283",
       "email": "nimeshtimothy1234@gmail.com",
@@ -668,7 +684,7 @@
       "name": "Vignesh S S",
       "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh-SS.webp",
       "position": "Member",
-      "domains": ["Machine Learning", "Electronics", "Embedded Systems", "Controls"],
+      "domains": ["Machine Learning", "Electronics", "Controls"],
       "github": "https://github.com/VigneshSS11",
       "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
       "email": "yaghisvar@gmail.com",
