@@ -499,7 +499,7 @@
         "position": "Treasurer",
         "domains": ["Robotics"],
         "github": "https://github.com/SouravSelvaraj",
-        "linkedIn": "www.linkedin.com/in/sourav-selvaraj",
+        "linkedIn": "https://www.linkedin.com/in/souravselvaraj/",
         "email": "krssourav@gmail.com",
         "projects": [
           {
@@ -773,7 +773,7 @@
         "position": "Member",
         "domains": ["Electronics", "Machine Learning", "Computer Vision"],
         "github": "https://github.com/RheaMaryVarghese",
-        "linkedIn": "www.linkedin.com/in/rhea-mary-varghese-226ba3268",
+        "linkedIn": "https://www.linkedin.com/in/rhea-mary-varghese-226ba3268",
         "email": "rheamvee@gmail.com",
         "projects": [
           {
@@ -3443,7 +3443,7 @@
       }
     ]
   },
-  "projects": {
+  "projects":{
     "projects": [
       {
         "pid": "39",
@@ -3997,7 +3997,7 @@
         "seededIn": "2021",
         "shortName": "ANVI",
         "longName": "Assistance in Navigation for the Visually Impaired",
-        "duration": "Dec 2021 - Present",
+        "duration": "Dec 2021 - Dec 2022",
         "shortDesc": "The project aims to assist visually impaired people by providing audio instructions, utilizing deep learning, along with safety features including fall detection and GPS tracking.",
         "longDesc": [
           {
@@ -4079,7 +4079,7 @@
         "seededIn": "2021",
         "shortName": "ARIBOT",
         "longName": "Autonomous Rail Inspection Bot",
-        "duration": "Dec 2021 - Present",
+        "duration": "Dec 2021 - Dec 2022",
         "shortDesc": "Autonomous Railway Inspection Robot to conduct active and passive  inspection of rail tracks using ultrasonic NDT, laser scanners, and a Machine vision system using Image processing and Deep Learning algorithms.",
         "longDesc": [
           {
@@ -4126,7 +4126,7 @@
         "seededIn": "2021",
         "shortName": "LEWI",
         "longName": "Localization and mapping of Enclosed space using Wi-Fi signals",
-        "duration": "Dec 2021 - Present",
+        "duration": "Dec 2021 - Dec 2022",
         "shortDesc": "Localisation of static objects inside an enclosed space and human activity detection through the wall using wifi technology by multiple mobile robot networks.",
         "longDesc": [
           {
@@ -4186,7 +4186,7 @@
         "seededIn": "2021",
         "shortName": "SPARO",
         "longName": "Spatial Augmentation and Reconstruction of Objects",
-        "duration": "Dec 2021 - Present",
+        "duration": "Dec 2021 - Dec 2022",
         "shortDesc": "The project aims to create 3D mesh models in virtual space from camera images of real-world objects.",
         "longDesc": [
           {
@@ -4338,7 +4338,7 @@
         "seededIn": "2021",
         "shortName": "STAR",
         "longName": "System for Tracking Animals using Radar",
-        "duration": "Dec 2021 - Present",
+        "duration": "Dec 2021 - Dec 2022",
         "shortDesc": "Detection of vital signs of wildlife using radar technology.",
         "longDesc": [
           {
@@ -4709,7 +4709,7 @@
         "seededIn": "2019",
         "shortName": "Ballbot",
         "longName": "",
-        "duration": "2019",
+        "duration": "2019 - 2020",
         "shortDesc": "A dynamically-stable, omni-directional mobile robot designed to balance on a spherical ball through its single contact point.",
         "longDesc": [
           {
@@ -4799,7 +4799,7 @@
         "seededIn": "2018",
         "shortName": "RoBoat",
         "longName": "Unmanned Surface Vehicle",
-        "duration": "2018",
+        "duration": "2018 - 2019",
         "shortDesc": "An autonomous floating robot capable of utilizing mesh networks formed by a swarm of similar robots aiding rescue operations.",
         "longDesc": [
           {
@@ -4850,7 +4850,7 @@
         "seededIn": "2018",
         "shortName": "Snakebot",
         "longName": "",
-        "duration": "2018",
+        "duration": "2018 - 2019",
         "shortDesc": "Snake-like robot capable of passing through small holes and cracks and reach areas inaccessible or dangerous to humans using various gaits of a snake.",
         "longDesc": [
           {
