@@ -516,7 +516,7 @@
         "batchTag": "2025",
         "id": "166",
         "name": "Rusheek B",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/xjC0rTU.webp",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/166_rusheek.webp",
         "position": "Head, Workshops and Events",
         "domains": ["Embedded Systems", "Computer Vision"],
         "github": "https://github.com/rusheek7",
@@ -3442,7 +3442,8 @@
         "position": "Member"
       }
     ]
-  },
+  }
+  ,
   "projects":{
     "projects": [
       {
