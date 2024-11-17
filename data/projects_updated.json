@@ -778,7 +778,7 @@
         "otherLink": ""
       }
     },
-    {
+/*    {
       "pid": "26",
       "seededIn": "2021",
       "shortName": "SPS",
@@ -834,7 +834,7 @@
           "link": ""
         }
       ]
-    },
+    },  
     {
       "pid": "25",
       "seededIn": "2021",
@@ -887,7 +887,7 @@
         "githubLink": "https://github.com/RMI-NITT/Sign-to-Speech-Convertor",
         "otherLink": ""
       }
-    },
+    },  */
     {
       "pid": "24",
       "seededIn": "2021",
