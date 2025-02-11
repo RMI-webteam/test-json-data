@@ -3423,8 +3423,109 @@
   "projects":{
     "projects": [
       {
+        "pid": "41",
+        "seededIn": "2024",
+        "shortName": "JAGUAR",
+        "longName": "Just a Gaited Unmanned Autonomous Robot",
+        "duration": "JUl 2024 - Present",
+        "shortDesc": "A bio-inspired quadruped optimized for autonomous, rugged terrain navigation and complex environmental sensing, for transport of small-scale equipment to support military operations. ",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This autonomous quadruped is designed for dynamic locomotion and environmental interaction, integrating advanced sensing, communication, and control technologies."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The robot features an ESP-32 microcontroller for real-time processing and communication, efficient control of its actuators and sensors, smooth execution of gait algorithms, and real-time feedback processing. The Bus Servos provide high-torque, precise joint actuation for leg movement, ensuring smooth and stable locomotion. Each leg has 3DoF, which is enabled using 3 servos, one for each DoF. The IMU enables precise orientation and stability control by continuously monitoring the quadruped’s roll, pitch, and yaw angles, ensuring balance and smooth movement. LiDAR facilitates real-time environment mapping and obstacle detection, allowing the robot to navigate autonomously while adapting to its surroundings."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This quadruped is designed for applications such as search and rescue, exploration, and autonomous patrolling. With real-time sensor feedback, adaptive gait control, and environmental awareness, it can efficiently traverse uneven terrains while maintaining balance and stability."
+          }
+        ],
+        "techStack": [
+          "ESP-32",
+          "ROS",
+          "LiDAR", 
+          "IMU",
+          "Bus Servos"
+        ],
+        "developers": [
+          { "id": "176", "name": "Logithsurya M A" },
+          { "id": "179", "name": "Rhea Mary Varghese" },
+          { "id": "186", "name": "Tarun" },
+          { "id": "187", "name": "Tarunika P" },
+          { "id": "199", "name": "Srijan Prasanna " },
+          { "id": "201", "name": "Yaghisvar R" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jaguar3.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jaguar0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jaguar1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jaguar2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jaguar3.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Krypto-The-Quadruped",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "40",
+        "seededIn": "2024",
+        "shortName": "EdVisor",
+        "longName": "Educational Advisor to assist the visually impaired",
+        "duration": "JUl 2024 - Present",
+        "shortDesc": "EdVisor is a pair of smart glasses that uses text recognition, text-to-speech conversion and Vision Language Models to help visually impaired students succeed in traditional classroom settings.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This autonomous quadruped is designed for dynamic locomotion and environmental interaction, integrating advanced sensing, communication, and control technologies."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The robot features an ESP-32 microcontroller for real-time processing and communication, efficient control of its actuators and sensors, smooth execution of gait algorithms, and real-time feedback processing. The Bus Servos provide high-torque, precise joint actuation for leg movement, ensuring smooth and stable locomotion. Each leg has 3DoF, which is enabled using 3 servos, one for each DoF. The IMU enables precise orientation and stability control by continuously monitoring the quadruped’s roll, pitch, and yaw angles, ensuring balance and smooth movement. LiDAR facilitates real-time environment mapping and obstacle detection, allowing the robot to navigate autonomously while adapting to its surroundings."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This quadruped is designed for applications such as search and rescue, exploration, and autonomous patrolling. With real-time sensor feedback, adaptive gait control, and environmental awareness, it can efficiently traverse uneven terrains while maintaining balance and stability."
+          }
+        ],
+        "techStack": [
+          "OpenCV",
+          "Raspberry Pi Zero",
+          "eSpeak TTS", 
+          "Llava",
+          "Phi3"
+        ],
+        "developers": [
+          { "id": "189", "name": "Sasidhar M" },
+          { "id": "183", "name": "ShyamCharan.K" },
+          { "id": "184", "name": "Srinath N" },
+          { "id": "194", "name": "Krithyaa Vijayanand" },
+          { "id": "200", "name": "Vignesh S S" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "",
+          "otherLink": ""
+        }
+      },
+      {
         "pid": "39",
-        "seededIn": "2023",
+        "seededIn": "2024",
         "shortName": "AURA",
         "longName": "Aerial Unmanned Robotic Agents",
         "duration": "Jan 2024 - Present",
@@ -3464,7 +3565,9 @@
           { "id": "175", "name": "Ashwath B" },
           { "id": "177", "name": "Pranav G" },
           { "id": "180", "name": "Sam Nathanael" },
-          { "id": "188", "name": "Umesh" }
+          { "id": "188", "name": "Umesh" },
+          { "id": "195", "name": "Kuhan Anandh K J" },
+          { "id": "198", "name": "Sreenivas S" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm1.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/swarm0.webp",
@@ -3540,46 +3643,55 @@
       },
       {
         "pid": "37",
-        "seededIn": "2023",
-        "shortName": "Amphibian Bot",
-        "longName": "Amphibious four-wheeled Robot",
+        "seededIn": "2024",
+        "shortName": "SLITHER",
+        "longName": "Snake-like Locomotion with Intelligent Terrain Handling and Environmental Response",
         "duration": "Jan 2024 - Present",
-        "shortDesc": "Amphibious four-wheeled thruster robot capable of navigating both submerged environments and remote landscapes with the combination of robust design, advanced propulsion systems, and integrated sensor technologies.",
+        "shortDesc": "The amphibious snake bot is an 8-DOF modular robot with advanced sensors and imaging, designed for multi-mode locomotion across land and water to detect cracks and navigate complex terrains.",
         "longDesc": [
           {
             "heading": "",
             "type": "para",
-            "para": "The multi-mode locomotion bot represents a groundbreaking advancement in robotic technology, offering unparalleled adaptability for disaster response, mapping, and exploration missions. Its modular design seamlessly integrates wheels and thrusters, allowing for effortless customization with peripheral modules tailored to specific tasks. Equipped with actuators at each joint, the bot dynamically configures its thrusters for fluid navigation across diverse environments, from land to water. Its precise control system enables seamless movement in any direction, ensuring precise maneuverability during critical missions."
+            "para": "The amphibious snake bot is a modular, bio-inspired robotic system with 8 degrees of freedom (DOF), capable of operating on both land and in water. Designed for search and inspection tasks, it features advanced imaging capabilities to detect cracks and navigate through confined spaces and waterlogged areas. Its multi-mode locomotion enables smooth movement across different terrains, using slithering, rectilinear, and sidewinding motion on land, while undulatory propulsion ensures efficient swimming in aquatic environments."
           },
           {
             "heading": "",
             "type": "para",
-            "para": "Utilizing four wheels for terrestrial traversal and four thrusters powered by high torque BLDC motors, the bot effortlessly transitions between land and water. A sophisticated engagement-disengagement mechanism, coupled with servo motors, facilitates smooth transmission, enhancing efficiency and speed. Engineered to withstand the rigors of underwater exploration, the bot's robust body frame ensures durability and reliability at depth. The synergy between its propulsion system, actuation system, and transition mechanisms ensures seamless operation across varied terrains."
+            "para": "Each module is equipped with a high-torque bus servo and an independent 7.4V 850mAh battery, ensuring decentralized functionality and balanced power distribution. The alternating vertical and horizontal servo configuration enhances the bot’s agility and flexibility. The head module houses an esp32 camera module for real-time data acquisition and image processing, while the ESP32 Servo Driver Expansion Board manages servo coordination through serial communication, simplifying control and wiring."
           },
           {
             "heading": "",
             "type": "para",
-            "para": "In conclusion, the multi-mode locomotion bot offers unmatched versatility and efficiency, revolutionizing disaster response, mapping, and exploration endeavors with its groundbreaking capabilities."
+            "para": "The modular design of the bot ensures easy customization, maintenance, and scalability. Its waterproof 3D-printed body provides durability for underwater operations, while optional wheel attachments improve mobility on flat surfaces. Sensor integration, including an esp32 Camera and thermal sensors, allows the bot to capture real-time video and environmental data, making it suitable for various inspection and monitoring tasks in harsh conditions."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The snake bot's adaptability and ability to detect structural cracks make it a valuable tool for search and rescue, disaster inspection, and industrial monitoring. Its amphibious capability and versatile motion strategies allow it to perform complex operations in challenging environments, offering a reliable solution for applications requiring flexible navigation and real-time data collection."
           }
         ],
         "techStack": [
-          "Raspberry Pi 4",
-          "Fusion 360"
+          "Rviz",
+          "Gazebo",
+          "Onshape",
+          "Bus Servos",
+          "Machine Learning"
         ],
         "developers": [
           { "id": "174", "name": "Snehkumar Sabhaya " },
           { "id": "170", "name": "Susmitha S " },
           { "id": "178", "name": "Prasham S Chheda" },
           { "id": "181", "name": "Satyak R" },
-          { "id": "182", "name": "Sherwin Kumar M" },
-          { "id": "185", "name": "Sumeadh MS" }
+          { "id": "185", "name": "Sumeadh MS" },
+          { "id": "190", "name": "Arjun V" },
+          { "id": "191", "name": "C Girish " }
         ],
-        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_1.webp",
-        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_0.webp",
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/slither1.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/slither0.webp",
         "images": [
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_1.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_2.webp",
-          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Amphi_3.webp"
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/slither1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/slither2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/slither3.webp"
         ],
         "quickLinks": {
           "youtubeLink": "",
@@ -4200,6 +4312,116 @@
           "otherLink": ""
         }
       },
+      {
+        "pid": "26",
+        "seededIn": "2021",
+        "shortName": "SPS",
+        "longName": "Smart Parking System",
+        "duration": "Sept 2021 - Nov 2021",
+        "shortDesc": "Vision based system using object detection through ESP32-CAMs, Raspberry Pi and cloud deployed NodeJS web-server.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Parking has always been an issue in metropolitan cities. Be it a shopping complex or a public arena, parking wastes time and fuel, and sometimes one must break a sweat to get it done. This calls for a streamlined approach through which people can easily find and park their vehicles close to their destinations. "
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Our Smart Parking System (SPS) uses low-cost camera modules installed at multiple parking lots across the city and streams live images to the corresponding remote server. The remote server processes the data from the camera module and decides on the number of vacant parking spaces available in the parking lot. "
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The remote server updates the number of vacant and filled parking slots in a cloud database. The number of vacant parking slots and their location are displayed in a web application accessible to the general public and free to use. The database is updated continuously, ensuring a pristine user experience. "
+          }
+        ],
+        "techStack": ["Raspberry Pi", "ESP32 CAM", "NodeJS", "OpenCV"],
+        "developers": [
+          { "id": "141", "name": "Aswin Sreekumar" },
+          { "id": "140", "name": "Satish Kumar L" },
+          { "id": "144", "name": "Greeshwar R S" },
+          { "id": "0", "name": "H Kailash (Associate)" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/qMuOW2n.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/W2fmJUJ.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/qMuOW2n.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/D4bgomy.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dLfFv2I.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rKWoQWb.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pZ2mWGT.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/HKPX33z.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/gxk1akO.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rTP26Ix.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/SkCQuLk.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "https://github.com/RMI-NITT/Smart-parking-system",
+          "otherLink": ""
+        },
+        "publications": [
+          {
+            "title": "Winners of Amrita Smart City Hackathon 2021",
+            "subtitle": "Amrita Coimbatore | Honeywell Technologies",
+            "link": ""
+          }
+        ]
+      },  
+      {
+        "pid": "25",
+        "seededIn": "2021",
+        "shortName": "SSC",
+        "longName": "Sign to Speech Convertor",
+        "duration": "Aug 2021 - April 2022",
+        "shortDesc": "Compact and portable system for converting Indian Sign Language to speech using Artificial Neural Networks deployed on the Sony sPresense microcontroller.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "People with speech disabilities and or who have difficulties talking rely on sign language and gestures to communicate. Communication between persons with such defects and people without knowledge of sign language becomes an arduous task. Hence, to communicate, people must resort to using more straightforward gestures or written prompts, which is tedious, slow and unsuitable for varied situations."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Our solution to this involves a sign language-to-speech converter device that can read the signs and gestures of a person and convert them to simple speech. Most people with speech disabilities are acquainted with sign language, which acts as the system's input. Based on finger movements and the angular position of the hands, the signs can be decoded into specific words and fed to a speaker with a custom voice set. Hence it makes communication among diverse groups of people more manageable and more efficient. The system will also be tuned and calibrated to a specific person according to their hand and finger movements to improve speech, efficiency and accuracy."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Our device uses signs and gestures as input. We use flex sensors and inertial measurement units (IMU) to obtain the input signals properly. These input signals are used to decode the word/content for communication. For tracking gestures, the IMU data is used to predict the angle of the hand. The indicated data/content is then fed to audio output based on the pre-set voice. The entire system is battery powered, which makes it mobile and unrestrictive."
+          }
+        ],
+        "techStack": [
+          "Sony sPresense",
+          "nRF24L01+ network",
+          "Sensor fusion",
+          "Deep Learning"
+        ],
+        "developers": [
+          { "id": "141", "name": "Aswin Sreekumar," },
+          { "id": "140", "name": "Satish Kumar L" },
+          { "id": "144", "name": "Greeshwar R S" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/vAmCSBg.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/6MMhsUX.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/vAmCSBg.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/mvLd9Hu.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/m9ZuGaZ.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pdhvGSN.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/0W31fRy.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/kkKVtku.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KgazGNB.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/T2LyjyV.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "https://youtu.be/oq0OR4O_MMM",
+          "githubLink": "https://github.com/RMI-NITT/Sign-to-Speech-Convertor",
+          "otherLink": ""
+        }
+      },  
       {
         "pid": "24",
         "seededIn": "2021",
