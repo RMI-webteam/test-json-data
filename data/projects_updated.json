@@ -163,64 +163,6 @@
     },
     {
       "pid": "38",
-      "seededIn": "2023",
-      "shortName": "MedVisor",
-      "longName": "Medical Visualization through AR",
-      "duration": "Jan 2024 - Present",
-      "shortDesc": "A 3D-printed Augmented Reality based glasses attachment aimed for creating the opportunity of supplementing Medical Education and Procedures.",
-      "longDesc": [
-        {
-          "heading": "",
-          "type": "para",
-          "para": "MedVisor represents a groundbreaking advancement in healthcare technology, offering an innovative Augmented Reality (AR) solution in the form of smart glasses. Through the integration of Speech-to-Text conversion and a sophisticated Large Language Model (LLM), MedVisor empowers patients with access to precise and comprehensive answers to any medical query they may have. A voice recognition system using the Porcupine Wake Word engine and Assembly AI STT engine allows the user to ask questions, converting text to speech in real time. The text is transmitted over a socket connection to a server running locally on a smartphone, where a response is generated using the Gemini Large Language Model. By leveraging AR technology, MedVisor revolutionizes patient education by providing individuals with a dynamic and immersive learning experience."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "Through the use of smart glasses, patients can visualize organs superimposed on the human body, allowing for a deeper understanding of their medical conditions. This visual representation facilitates clearer communication between healthcare providers and patients, enabling individuals to make more informed decisions about their health and treatment options. In the realm of immersive healthcare, MedVisor transforms the patient experience by offering real-time insights and visualizations of medical data directly within their field of view. This immersive approach fosters greater engagement and understanding, ultimately leading to improved patient outcomes and satisfaction."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "The applications of MedVisor extend beyond patient education, encompassing immersive healthcare experiences and enhancing surgical accuracy. MedVisor plays a pivotal role in improving surgical accuracy by providing surgeons with augmented visualizations and real-time information during procedures. By superimposing vital data onto the surgical field, MedVisor enhances situational awareness and decision-making, ultimately contributing to safer and more precise surgical interventions. In essence, MedVisor represents a transformative tool at the intersection of technology and healthcare, empowering both patients and healthcare providers with unprecedented capabilities for education, engagement, and procedural excellence."
-        },
-        {
-          "heading": "",
-          "type": "para",
-          "para": "In future, we hope to provide 3D visualisation of human organs and also allow our device to answer queries in regional dialects to cater to the linguistically diverse Indian demographic."
-        }
-      ],
-      "techStack": [
-        "Augmented Reality", 
-        "Large Language Models", 
-        "Deep Learning", 
-        "Socket Programming", 
-        "Fusion 360"
-      ],
-      "developers": [
-        { "id": "161", "name": "Aditya Singh" },
-        { "id": "163", "name": "Anas Khalid" },
-        { "id": "173", "name": "Gayathri Rajesh" },
-        { "id": "189", "name": "Sasidhar M" },
-        { "id": "183", "name": "ShyamCharan K" },
-        { "id": "184", "name": "Srinath N" }
-      ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR.webp",
-      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_0.webp",
-      "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_1.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_2.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_3.webp"
-      ],
-      "quickLinks": {
-        "youtubeLink": "",
-        "githubLink": "https://github.com/RMI-NITT/AR_Glasses",
-        "otherLink": ""
-      }
-    },
-    {
-      "pid": "37",
       "seededIn": "2024",
       "shortName": "SLITHER",
       "longName": "Snake-like Locomotion with Intelligent Terrain Handling and Environmental Response",
@@ -274,6 +216,64 @@
       "quickLinks": {
         "youtubeLink": "",
         "githubLink": "https://github.com/RMI-NITT/Amphibian_Bot",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "37",
+      "seededIn": "2023",
+      "shortName": "MedVisor",
+      "longName": "Medical Visualization through AR",
+      "duration": "Jan 2024 - Present",
+      "shortDesc": "A 3D-printed Augmented Reality based glasses attachment aimed for creating the opportunity of supplementing Medical Education and Procedures.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "MedVisor represents a groundbreaking advancement in healthcare technology, offering an innovative Augmented Reality (AR) solution in the form of smart glasses. Through the integration of Speech-to-Text conversion and a sophisticated Large Language Model (LLM), MedVisor empowers patients with access to precise and comprehensive answers to any medical query they may have. A voice recognition system using the Porcupine Wake Word engine and Assembly AI STT engine allows the user to ask questions, converting text to speech in real time. The text is transmitted over a socket connection to a server running locally on a smartphone, where a response is generated using the Gemini Large Language Model. By leveraging AR technology, MedVisor revolutionizes patient education by providing individuals with a dynamic and immersive learning experience."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Through the use of smart glasses, patients can visualize organs superimposed on the human body, allowing for a deeper understanding of their medical conditions. This visual representation facilitates clearer communication between healthcare providers and patients, enabling individuals to make more informed decisions about their health and treatment options. In the realm of immersive healthcare, MedVisor transforms the patient experience by offering real-time insights and visualizations of medical data directly within their field of view. This immersive approach fosters greater engagement and understanding, ultimately leading to improved patient outcomes and satisfaction."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The applications of MedVisor extend beyond patient education, encompassing immersive healthcare experiences and enhancing surgical accuracy. MedVisor plays a pivotal role in improving surgical accuracy by providing surgeons with augmented visualizations and real-time information during procedures. By superimposing vital data onto the surgical field, MedVisor enhances situational awareness and decision-making, ultimately contributing to safer and more precise surgical interventions. In essence, MedVisor represents a transformative tool at the intersection of technology and healthcare, empowering both patients and healthcare providers with unprecedented capabilities for education, engagement, and procedural excellence."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "In future, we hope to provide 3D visualisation of human organs and also allow our device to answer queries in regional dialects to cater to the linguistically diverse Indian demographic."
+        }
+      ],
+      "techStack": [
+        "Augmented Reality", 
+        "Large Language Models", 
+        "Deep Learning", 
+        "Socket Programming", 
+        "Fusion 360"
+      ],
+      "developers": [
+        { "id": "161", "name": "Aditya Singh" },
+        { "id": "163", "name": "Anas Khalid" },
+        { "id": "173", "name": "Gayathri Rajesh" },
+        { "id": "189", "name": "Sasidhar M" },
+        { "id": "183", "name": "ShyamCharan K" },
+        { "id": "184", "name": "Srinath N" }
+      ],
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_0.webp",
+      "images": [
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AR_3.webp"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "https://github.com/RMI-NITT/AR_Glasses",
         "otherLink": ""
       }
     },

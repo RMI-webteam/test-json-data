@@ -34,7 +34,7 @@
       "email": "aditya64748@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "37",
           "pname": "MedVisor"
         },
         {
@@ -55,8 +55,8 @@
       "email": "meetsusmitha.er@gmail.com",
       "projects": [
         {
-          "pid": "37",
-          "pname": "Amphibian Robot"
+          "pid": "38",
+          "pname": "SLITHER"
         },
         {
           "pid": "32",
@@ -118,7 +118,7 @@
       "email": "askanasadfia1@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "37",
           "pname": "MedVisor"
         },
         {
@@ -160,7 +160,7 @@
       "email": "rajeshgayathri2003@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "37",
           "pname": "MedVisor"
         },
         {
@@ -198,8 +198,8 @@
       "email": "snehsabhaya33@gmail.com",
       "projects": [
         {
-          "pid": "37",
-          "pname": "Amphibian Robot"
+          "pid": "38",
+          "pname": "SLITHER"
         },
         {
           "pid": "35",
@@ -333,8 +333,8 @@
       "email": "prashamchheda04@gmail.com",
       "projects": [
         {
-          "pid": "37",
-          "pname": "Amphibian Robot"
+          "pid": "38",
+          "pname": "SLITHER"
         }
       ]
     },
@@ -349,6 +349,10 @@
       "linkedIn": "https://www.linkedin.com/in/rhea-mary-varghese-226ba3268",
       "email": "rheamvee@gmail.com",
       "projects": [
+        {
+          "pid": "41",
+          "pname": "JAGUAR"
+        },
         {
           "pid": "36",
           "pname": "Soft Robotics"
@@ -392,7 +396,7 @@
       "email": "sasidhar.nitt@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "37",
           "pname": "MedVisor"
         }
       ]
@@ -409,25 +413,8 @@
       "email": "satyak2605@gmail.com",
       "projects": [
         {
-          "pid": "37",
-          "pname": "Amphibian Robot"
-        }
-      ]
-    },
-    {
-      "batchTag": "2026",
-      "id": "182",
-      "name": "Sherwin Kumar M",
-      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/182_sherwin.webp",
-      "position": "Member",
-      "domains": ["Machine Learning", "Computer Vision"],
-      "github": "https://github.com/Galax13",
-      "linkedIn": "https://www.linkedin.com/in/sherwin-kumar-m-282a09244/",
-      "email": "sherwinkumar13@gmail.com",
-      "projects": [
-        {
-          "pid": "37",
-          "pname": "Amphibian Robot"
+          "pid": "38",
+          "pname": "SLITHER"
         }
       ]
     },
@@ -443,7 +430,11 @@
       "email": "shyamcharan.646@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "40",
+          "pname": "EdVisor"
+        },
+        {
+          "pid": "37",
           "pname": "MedVisor"
         },
         {
@@ -464,7 +455,11 @@
       "email": "srinathnagarajan1@gmail.com",
       "projects": [
         {
-          "pid": "38",
+          "pid": "40",
+          "pname": "EdVisor"
+        },
+        {
+          "pid": "37",
           "pname": "MedVisor"
         }
       ]
@@ -481,8 +476,8 @@
       "email": "sumeadhmass@gmail.com",
       "projects": [
         {
-          "pid": "37",
-          "pname": "Amphibian Robot"
+          "pid": "38",
+          "pname": "SLITHER"
         }
       ]
     },
@@ -497,6 +492,10 @@
       "linkedIn": "https://www.linkedin.com/in/tarun-muthukumar?trk=contact-info",
       "email": "mtarunn491@gmail.com",
       "projects": [
+        {
+          "pid": "41",
+          "pname": "JAGUAR"
+        },
         {
           "pid": "36",
           "pname": "Soft Robotics"
@@ -518,6 +517,10 @@
       "linkedIn": "https://www.linkedin.com/in/tarunika-p-133961286",
       "email": "tarunikap2004@gmail.com",
       "projects": [
+        {
+          "pid": "41",
+          "pname": "JAGUAR"
+        },
         {
           "pid": "36",
           "pname": "Soft Robotics"
@@ -553,7 +556,10 @@
       "linkedIn": "https://www.linkedin.com/in/arjun-v-30178a326/",
       "email": "write2arjunv@gmail.com",
       "projects": [
-        
+        {
+          "pid": "38",
+          "pname": "SLITHER"
+        }
       ]
     },
     {
@@ -567,7 +573,10 @@
       "linkedIn": "https://www.linkedin.com/in/girish-c-44b64b2a9/",
       "email": "girish27102005@gmail.com",
       "projects": [
-        
+        {
+          "pid": "38",
+          "pname": "SLITHER"
+        }
       ]
     },
     {
@@ -609,7 +618,10 @@
       "linkedIn": "https://www.linkedin.com/in/krithyaa-vijayanand/",
       "email": "krithyaa12@gmail.com",
       "projects": [
-        
+        {
+          "pid": "40",
+          "pname": "EdVisor"
+        }
       ]
     },
     {
@@ -623,7 +635,10 @@
       "linkedIn": "https://www.linkedin.com/in/kuhan-anandh-k-j-b476312b2/",
       "email": "kuhananandh@gmail.com",
       "projects": [
-        
+        {
+          "pid": "39",
+          "pname": "AURA"
+        }
       ]
     },
     {
@@ -665,7 +680,10 @@
       "linkedIn": "https://www.linkedin.com/in/sreenivas-s-09b500287/",
       "email": "sreenivass.nitt@gmail.com",
       "projects": [
-        
+        {
+          "pid": "39",
+          "pname": "AURA"
+        }
       ]
     },
     {
@@ -679,7 +697,10 @@
       "linkedIn": "https://www.linkedin.com/in/srijan-prasanna-77821a272/",
       "email": "srijan.prasan@gmail.com",
       "projects": [
-        
+        {
+          "pid": "41",
+          "pname": "JAGUAR"
+        } 
       ]
     },
     {
@@ -693,7 +714,10 @@
       "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
       "email": "vigneshraja9273@gmail.com",
       "projects": [
-        
+        {
+          "pid": "40",
+          "pname": "EdVisor"
+        }
       ]
     },
     {
@@ -707,7 +731,10 @@
       "linkedIn": "https://www.linkedin.com/in/yaghisvar-r-b3483a275/",
       "email": "yaghisvar@gmail.com",
       "projects": [
-        
+        {
+          "pid": "41",
+          "pname": "JAGUAR"
+        }
       ]
     }
   ],
