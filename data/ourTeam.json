@@ -299,6 +299,10 @@
       "email": "logithsurya018@gmail.com",
       "projects": [
         {
+          "pid": "42",
+          "pname": "JAGUAR"
+        },
+        {
           "pid": "36",
           "pname": "Soft Robotics"
         }
@@ -395,6 +399,10 @@
       "linkedIn": "https://www.linkedin.com/in/sasidhar-m-29829224b/",
       "email": "sasidhar.nitt@gmail.com",
       "projects": [
+        {
+          "pid": "40",
+          "pname": "EdVisor"
+        },
         {
           "pid": "37",
           "pname": "MedVisor"
