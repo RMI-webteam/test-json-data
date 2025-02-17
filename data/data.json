@@ -777,7 +777,7 @@
         "email": "rheamvee@gmail.com",
         "projects": [
           {
-            "pid": "41",
+            "pid": "42",
             "pname": "JAGUAR"
           },
           {
@@ -920,7 +920,7 @@
         "email": "mtarunn491@gmail.com",
         "projects": [
           {
-            "pid": "41",
+            "pid": "42",
             "pname": "JAGUAR"
           },
           {
@@ -945,7 +945,7 @@
         "email": "tarunikap2004@gmail.com",
         "projects": [
           {
-            "pid": "41",
+            "pid": "42",
             "pname": "JAGUAR"
           },
           {
@@ -1017,7 +1017,10 @@
         "linkedIn": "https://www.linkedin.com/in/killerjosh345/",
         "email": "joshuajohn.lvj@gmail.com",
         "projects": [
-          
+          {
+            "pid": "41",
+            "pname": "ROVIO"
+          }
         ]
       },
       {
@@ -1031,7 +1034,10 @@
         "linkedIn": "https://www.linkedin.com/in/karri-surya-venkata-sreedath-8662aa2a0/",
         "email": "sreedath105@gmail.com",
         "projects": [
-          
+          {
+            "pid": "41",
+            "pname": "ROVIO"
+          }
         ]
       },
       {
@@ -1079,7 +1085,10 @@
         "linkedIn": "https://www.linkedin.com/in/saiprakash-m-b7543527b/",
         "email": "m.saiprakash1444@gmail.com",
         "projects": [
-          
+          {
+            "pid": "41",
+            "pname": "ROVIO"
+          }
         ]
       },
       {
@@ -1093,7 +1102,10 @@
         "linkedIn": "http://www.linkedin.com/in/nimesh-timothy-048b04283",
         "email": "nimeshtimothy1234@gmail.com",
         "projects": [
-          
+          {
+            "pid": "41",
+            "pname": "ROVIO"
+          }
         ]
       },
       {
@@ -1125,7 +1137,7 @@
         "email": "srijan.prasan@gmail.com",
         "projects": [
           {
-            "pid": "41",
+            "pid": "42",
             "pname": "JAGUAR"
           } 
         ]
@@ -1159,7 +1171,7 @@
         "email": "yaghisvar@gmail.com",
         "projects": [
           {
-            "pid": "41",
+            "pid": "42",
             "pname": "JAGUAR"
           }
         ]
@@ -3469,12 +3481,11 @@
         "position": "Member"
       }
     ]
-  }
-  ,
+  },
   "projects":{
     "projects": [
       {
-        "pid": "41",
+        "pid": "42",
         "seededIn": "2024",
         "shortName": "JAGUAR",
         "longName": "Just a Gaited Unmanned Autonomous Robot",
@@ -3522,6 +3533,71 @@
         "quickLinks": {
           "youtubeLink": "",
           "githubLink": "https://github.com/RMI-NITT/Krypto-The-Quadruped",
+          "otherLink": ""
+        }
+      },
+      {
+        "pid": "41",
+        "seededIn": "2024",
+        "shortName": "ROVIO",
+        "longName": "Remotely Operated underwater Vehicle for Inspection and Operation",
+        "duration": "Dec 2024 - Present",
+        "shortDesc": "A robotic solution designed for underwater missions, enabling human operators to perform complex tasks with precision, safety, and real-time control in extreme environments.",
+        "longDesc": [
+          {
+            "heading": "",
+            "type": "para",
+            "para": "ROVIO is a 4-DOF open-frame robot capable of underwater navigation and inspecting various underwater structures. The bot uses 4 thrusters for its motion and can carry different payloads. An open-frame configuration is adopted for the vehicle structure to have better control authority at low speeds and allow modularity for a wide range of payloads. The vehicle structure was designed in SolidWorks, considering the resulting weight, buoyancy, and center of mass of all components and the assembly to ensure the vehicle is stable and slightly positively buoyant to make recovery easier in case of any major system malfunction."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "In the current design, there are 4 thrusters - 2 oriented in the vertical direction and 2 along the horizontal directon. This provides the vehicle to perform translation along all 2 principal axes and rotation about two axes (roll and yaw). The propellers of the vehicle were adapted to be used with the available motors and were fabricated using fused deposition modeling (FDM)."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The hull (acrylic tube) houses all the onboard electronics and provides most of the vehicle's buoyant force. PVC dummy based end caps seal the hull. The camera feed implements computer vision algorithms on the Raspberry Pi for obstacle detection and collision avoidance, visual inspection of critical infrastructure to detect oil leaks, cracks and corrosion, and monitoring the marine ecosystem."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "Since water is impervious to 2.4 GHz radio waves, a tether connects the vehicle to a floating buoy with a transceiver module for wireless communication with the ground station. This is however not needed for fully autonomous missions. The vehicle has a variety of safety features in case of any anomalies such as loss of signal, or leak in the hull, etc."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "The vehicle can perform a wide range of operations depending upon the payloads it carries. For instance, it can be used in conducting intelligence, surveillance, and reconnaissance operations. In addition to that, the vehicle can be equipped with mine countermeasure systems to detect, classify, and neutralize underwater mines."
+          },
+          {
+            "heading": "",
+            "type": "para",
+            "para": "This project ROVIO is the upgraded version of project ROV, removing some of the challenges faced by the project ROV. The waterleaking challenge is handled by using PVC dummy and sealing it with Teflon and Epoxy. Moreover usage of one big penetrator, for wires further reduced the waterleaking issue. With 4 thrusters configuration our bot size is also reduced which reduces the mechanical and electrical complexity of the bot. In future this project can be further upgraded into complete autonoums by incorporating pixhawk and using ardusub."
+          }
+        ],
+        "techStack": [
+          "SolidWorks",
+          "RF Communication",
+          "Thrust Vectoring", 
+          "Arduino Mega"
+        ],
+        "developers": [
+          { "id": "192", "name": "Joshua John" },
+          { "id": "193", "name": "K S V Sreedath" },
+          { "id": "196", "name": "M Saiprakash" },
+          { "id": "197", "name": "Nimesh Timothy" }
+        ],
+        "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO2.webp",
+        "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO0.webp",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ROVIO1.webp"
+        ],
+        "quickLinks": {
+          "youtubeLink": "",
+          "githubLink": "",
           "otherLink": ""
         }
       },
