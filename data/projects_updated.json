@@ -123,22 +123,27 @@
       "shortName": "EdVisor",
       "longName": "Educational Advisor to assist the visually impaired",
       "duration": "JUl 2024 - Present",
-      "shortDesc": "EdVisor is a pair of smart glasses that uses text recognition, text-to-speech conversion and Vision Language Models to help visually impaired students succeed in traditional classroom settings.",
+      "shortDesc": "EdVisor is a smart head band that uses text recognition, text-to-speech conversion and Vision Language Models to help visually impaired students succeed in traditional classroom settings.",
       "longDesc": [
         {
           "heading": "",
           "type": "para",
-          "para": "This autonomous quadruped is designed for dynamic locomotion and environmental interaction, integrating advanced sensing, communication, and control technologies."
+          "para": "EdVisor propose a smart head band designed to assist blind individuals in interpreting written and visual material and output the same in an audio-based format."
         },
         {
           "heading": "",
           "type": "para",
-          "para": "The robot features an ESP-32 microcontroller for real-time processing and communication, efficient control of its actuators and sensors, smooth execution of gait algorithms, and real-time feedback processing. The Bus Servos provide high-torque, precise joint actuation for leg movement, ensuring smooth and stable locomotion. Each leg has 3DoF, which is enabled using 3 servos, one for each DoF. The IMU enables precise orientation and stability control by continuously monitoring the quadruped’s roll, pitch, and yaw angles, ensuring balance and smooth movement. LiDAR facilitates real-time environment mapping and obstacle detection, allowing the robot to navigate autonomously while adapting to its surroundings."
+          "para": "The head band is equipped with a camera that captures text and diagrams. The audio translation of the same will be relayed through a speaker in multiple Indian languages to ensure accessibility across various regions."
         },
         {
           "heading": "",
           "type": "para",
-          "para": "This quadruped is designed for applications such as search and rescue, exploration, and autonomous patrolling. With real-time sensor feedback, adaptive gait control, and environmental awareness, it can efficiently traverse uneven terrains while maintaining balance and stability."
+          "para": "Optical Character Recognition (OCR) models running on a Jetson Nano is used to read the text, while information from images will be extracted using vision language models (VLMs). This will be converted into audio format using a multilingual Text-to-Speech (TTS) service."
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "EdVisor is unique and stands apart from conventional aids since it can infer information from text as well as images, and provide multilingual auditory output. This solution allows visually-impaired individuals who do not have access to Braille-based books to study alongside the rest of the classroom, and can also be extended to provide audio translations for text present on the blackboard written by the teacher."
         }
       ],
       "techStack": [
@@ -155,10 +160,12 @@
         { "id": "194", "name": "Krithyaa Vijayanand" },
         { "id": "200", "name": "Vignesh S S" }
       ],
-      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor.webp",
-      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor0.webp",
+      "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EdVisor1.webp",
+      "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Edvisor0.webp",
       "images": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/edvisor.webp"
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EdVisor1.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EdVisor2.webp",
+        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/EdVisor3.webp"
       ],
       "quickLinks": {
         "youtubeLink": "",
