@@ -812,6 +812,26 @@
       },
       {
         "batchTag": "2026",
+        "id": "202",
+        "name": "Rupika",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/passport_size+-+Rupika+21.webp",
+        "position": "nan",
+        "domains": [
+            "Embedded systems",
+            "Electronics"
+        ],
+        "github": "https://github.com/RUPIKA2184",
+        "linkedIn": "https://www.linkedin.com/in/rupika-s",
+        "email": "rupika2184@gmail.com",
+        "projects": [
+            {
+                "pid": "",
+                    "pname": "Drone"
+                }
+            ]
+      },
+      {
+        "batchTag": "2026",
         "id": "180",
         "name": "Sam Nathanael",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/180_sam.webp",
@@ -1015,6 +1035,33 @@
       },
       {
         "batchTag": "2027",
+        "id": "203",
+        "name": "Aditya Ganta",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/rmiprofilepic+-+Aditya+G.webp",
+        "position": null,
+        "domains": [
+            "Mechanics",
+            "Control systems and Simulation",
+            "Design",
+            "Finite element analysis"
+        ],
+        "github": "https://github.com/Adi2005tya",
+        "linkedIn": "https://www.linkedin.com/in/aditya-ganta-3a9830344/",
+        "email": "kingadi005@gmail.com",
+        "projects": [
+            {
+                "pid": "",
+                "pname": "Jaguar (Quadruped)"
+            },
+            {
+                "pid": "",
+                "pname": "ROV"
+            }
+        ]
+    },
+
+      {
+        "batchTag": "2027",
         "id": "191",
         "name": "C Girish",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/191_GIRISH+C.webp",
@@ -1199,7 +1246,283 @@
             "pname": "JAGUAR"
           }
         ]
-      }
+      },
+      [
+          {
+              "batchTag": "2028",
+              "id": "205",
+              "name": "Aditya Deepu",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/Photo+Aditya-JEE+-+Aditya+Deepu.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "ML",
+                  "Controls"
+              ],
+              "github": "nan",
+              "linkedIn": "nan",
+              "email": "adityadeepu2006@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "206",
+              "name": "Ankit Anant",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/20241013_111957+-+Ankit+Anant.webp",
+              "position": "Member",
+              "domains": [
+                  "Embedded",
+                  "Electronics",
+                  "Control"
+              ],
+              "github": "nan",
+              "linkedIn": "https://www.linkedin.com/in/ankit-anant-1b8a86337",
+              "email": "anantankit04@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "207",
+              "name": "Dhruv Gupta",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG20250810002237+-+Dhruv+Gupta.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "Electricals",
+                  "simulations and control analysis"
+              ],
+              "github": "https://github.com/111124043",
+              "linkedIn": "https://www.linkedin.com/in/dhruv-gupta-55a6a2345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "email": "dhruvguptaoct543@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "208",
+              "name": "Durijesh",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_20250720_145207307~2+-+Durijesh+Velu.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "Controls",
+                  "Machine learning"
+              ],
+              "github": "https://github.com/Durijesh",
+              "linkedIn": "https://www.linkedin.com/in/durijesh-velu-7274a6281/",
+              "email": "Durijesh0408@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "209",
+              "name": "K.Keerthi Srinath",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_2597+-+Keerthi+Srinath.webp",
+              "position": "Member",
+              "domains": [
+                  "Robotics (Hardware)"
+              ],
+              "github": "nan",
+              "linkedIn": "nan",
+              "email": "keerthichess@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "210",
+              "name": "Khushi Rajpal",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/pjoto+-+Khushi+Rajpal.webp",
+              "position": "Member",
+              "domains": [
+                  "Machine learning",
+                  "Computer Vision"
+              ],
+              "github": "nan",
+              "linkedIn": "https://www.linkedin.com/in/khushi-rajpal-9693ba335/",
+              "email": "khushi.rajpal.1110@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "211",
+              "name": "KISHORE V",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG-20250809-WA0012+-+V+KISHORE.webp",
+              "position": "Member",
+              "domains": [
+                  "Tronix",
+                  "CONTROLS",
+                  "MECHANICS",
+                  "ML"
+              ],
+              "github": "https://github.com/Kishore7339",
+              "linkedIn": "http://www.linkedin.com/in/v-kishore-b55601332",
+              "email": "v.kishore82700@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "212",
+              "name": "Michelle Mariya Payammal",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG-20250807-WA0000+-+Michelle+Mariya.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics",
+                  "Embedded Systems",
+                  "Machine Learning"
+              ],
+              "github": "https://github.com/Melle2006",
+              "linkedIn": "https://www.linkedin.com/in/michelle-mariya-600580346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "email": "michja1210@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "213",
+              "name": "Mohamed Kazim A M",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/Kazim_photo-2.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "Control Systems",
+                  "ML and Electronics"
+              ],
+              "github": "nan",
+              "linkedIn": "https://www.linkedin.com/in/am-mohamed-kazim-575a22333/",
+              "email": "mohammedkazim1606@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "214",
+              "name": "Nandgovind anil",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/Nandgovind.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics",
+                  "ML",
+                  "Computer Vision",
+                  "Controls"
+              ],
+              "github": "nan",
+              "linkedIn": "nan",
+              "email": "nandgovindanil@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "215",
+              "name": "Parvathi S",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_1+-+Parvathi+S.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "Control Systems",
+                  "electronics"
+              ],
+              "github": "nan",
+              "linkedIn": "https://www.linkedin.com/in/parvathi-s-600923379",
+              "email": "parvathi6002@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "216",
+              "name": "Rahul V",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_20250809_224700+-+Rahul+Vijay.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanical",
+                  "Tronix",
+                  "Controls",
+                  "ML"
+              ],
+              "github": "nan",
+              "linkedIn": "nan",
+              "email": "rahulvijay4320@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "217",
+              "name": "Ron S K",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/pic_ron+-+Ron+Suresh.webp",
+              "position": "Member",
+              "domains": [
+                  "ML",
+                  "CV",
+                  "Tronix"
+              ],
+              "github": "https://github.com/RonSK03",
+              "linkedIn": "https://www.linkedin.com/in/ron-s-kappil-4402962bb/",
+              "email": "ronsk0311@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "218",
+              "name": "Sree Vidya M",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/PROFILE_3+-+Sree+Vidya+M.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics",
+                  "Embedded",
+                  "Mechanics"
+              ],
+              "github": "nan",
+              "linkedIn": "https://www.linkedin.com/in/sree-vidya-m-5a7656359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "email": "sreevidya.nitt@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "219",
+              "name": "Taufika",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/Pic+-+Taufika+J.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics",
+                  "Embedded Systems",
+                  "Machine Learning"
+              ],
+              "github": "https://github.com/Taufika24",
+              "linkedIn": "https://www.linkedin.com/in/taufika-j-277073317",
+              "email": "jtaufika243@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "220",
+              "name": "Thivya J",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG-20250419-WA0013+-+Thivya+Janakar.webp",
+              "position": "Member",
+              "domains": [
+                  "Mechanics",
+                  "Controls",
+                  "Tronics",
+                  "robotics",
+                  "cv"
+              ],
+              "github": "https://github.com/Thivya13",
+              "linkedIn": "https://www.linkedin.com/in/thivya-j-18bb16316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "email": "thivyajanakar@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "221",
+              "name": "Trisha Matai",
+              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/rmi+photo+2+-+Trisha+Matai.webp",
+              "position": "Member",
+              "domains": [
+                  "Machine Learning",
+                  "Computer Vision",
+                  "Electronics"
+              ],
+              "github": "https://github.com/Trisha13dotcom",
+              "linkedIn": "https://www.linkedin.com/in/trisha-matai-43a75029b/",
+              "email": "trishamatai1308@gmail.com",
+              "projects": []
+          }
+      ]
     ],
     "alumni": [
       {
