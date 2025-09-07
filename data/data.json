@@ -3388,7 +3388,7 @@
         "projects": [
           { "pid": "16", "pname": "UXO" }
         ]
-      }
+      },
       {
         "batchTag": "2016",
         "id": "53",
@@ -6150,12 +6150,12 @@
     ]
   },
   "facultyAdvisor": {
-    "name": "Dr. D. Ezhilarasi",
-    "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ezhil.webp",
-    "position": "Associate Professor",
-    "department": "Department of Instrumentation and Control Engineering",
-    "email": "ezhil@nitt.edu",
-    "personalPage": "https://nitt.edu/home/academics/departments/ice/faculty/ezhil/",
+    "name": "Dr. Santosh Kumar Mishra",
+    "imageLink": "https://drive.google.com/file/d/18dDz8LKpa08E-31-A_umiboTRX55JpWC/view?usp=sharing",
+    "position": "Assistant Professor",
+    "department": "Department of Production Engineering",
+    "email": "santosh@nitt.edu",
+    "personalPage": "https://www.nitt.edu/home/academics/departments/prod/faculty/santosh/",
     "linkedIn": "",
     "details": [
       {
@@ -6165,9 +6165,8 @@
           {
             "subheading": "",
             "data": [
-              "B.E. in Electrical and Electronics Engineering (Madras University) 2000.",
-              "M. Tech in Process Control & Instrumentation (NIT, Tiruchirappalli) 2003.",
-              "PhD in Vibration Control (NIT, Tiruchirappalli) 2009."
+              "B.Tech in Production Engineering from NIT Trichy in 2009.",
+              "Ph. D. degree in Fluid Power Control from IIT Dhanbad in 2018"
             ]
           }
         ]
@@ -6178,42 +6177,26 @@
         "subdata": [
           {
             "subheading": "",
-            "data": [
-              "Serving as faculty member since 2008, in Instrumentation and Control Engineering Department, NIT, Tiruchirappalli-15,",
-              "Presently Associate Professor."
+            "data": [ 
+              "Serving as Assistant Professor, since 2020 in Production Department, NIT, Tiruchirappalli-15"
             ]
           }
         ]
-      },
+      }, 
       {
-        "header": "Sponsored Research Project",
-        "type": "bullets",
-        "subdata": [
-          {
-            "subheading": "Consultancy project",
-            "data": [
-              "Energy harvesting using Piezoelectric for self powered wireless sensor network based precision agriculture",
-              "Design and Development of piezoelectric energy harvesting system integrated with electric circuit and storage",
-              "Development of an Integrated Health Monitoring System for Large Engineering Structures",
-              "Design of Sliding Mode Controller for Biped Walking"
-            ]
-          }
-        ]
-      },
-      {
-        "header": "Conference papers (Recent)",
+        "header": "Internation SCI papers (Recent)",
         "type": "para",
         "subdata": [
           {
-            "subheading": "A state-of-the-art survey of model order reduction techniques for large-scale coupled dynamical systems,",
+            "subheading": "Jose, J. T., Wrat, G., Mishra, S. K., Ranjan, P., & Das, J. (2025). Fuzzy PD-Based Control for Excavator Boom Stabilization Using Work Port Pressure Feedback, In Actuators (Vol. 14, No. 7, p. 336). Multidisciplinary Digital Publishing Institute.  (SCI journal, Impact Factor: 2.3, Q2)",
             "data": [
-              "International Journal of Dynamics and Control 2022, Ram Kumar, D. Ezhilarasi."
+              ""
             ]
           },
           {
-            "subheading": "Modeling and Evaluation of Adaptive Super Twisting Sliding Mode Control in Lower Extremity Exoskeleton,",
+            "subheading": "Wire arc additive manufacturing: materials, processes and constraints.Materials and Manufacturing Processes,pp. 1-18. (SCI journal, Impact Factor: 4.1, Q1)",
             "data": [
-              "International Journal of Precision Engineering and Manufacturing 2021, Ezhilarasi D, Anjali S Nair."
+              ""
             ]
           }
         ]
@@ -6304,6 +6287,15 @@
         "github": "https://github.com/tarunikap",
         "linkedIn": "https://www.linkedin.com/in/tarunika-p-133961286",
         "email": "tarunikap2004@gmail.com"
+      },
+      {
+        "name": "Vignesh S S",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh.webp",
+        "position": "Head, Web-ops",
+        "additional": ["2025 - 2026"],
+        "github": "https://github.com/VigneshSS11",
+        "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
+        "email": "vigneshraja9273@gmail.com"
       }
     ]
   },
