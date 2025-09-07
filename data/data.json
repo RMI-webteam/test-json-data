@@ -791,7 +791,7 @@
                 "pname": "ROV"
             }
         ]
-    },
+     },
 
       {
         "batchTag": "2027",
@@ -980,8 +980,7 @@
           }
         ]
       },
-      [
-          {
+      {
               "batchTag": "2028",
               "id": "205",
               "name": "Aditya Deepu",
@@ -996,7 +995,7 @@
               "linkedIn": "nan",
               "email": "adityadeepu2006@gmail.com",
               "projects": []
-          },
+      },
           {
               "batchTag": "2028",
               "id": "206",
@@ -1256,7 +1255,7 @@
               "projects": []
           }
       ]
-    ],
+    },
     "alumni": [
       {
         "batchTag": "2025",
@@ -3806,8 +3805,7 @@
         "name": "Natrajan",
         "position": "Member"
       }
-    ]
-  },
+    ],
   "projects":{
     "projects": [
       {
