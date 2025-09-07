@@ -620,8 +620,8 @@
         "email": "rupika2184@gmail.com",
         "projects": [
             {
-                "pid": "",
-                    "pname": "Drone"
+                "pid": "39",
+                    "pname": "AURA"
                 }
             ]
       },
@@ -763,6 +763,10 @@
           {
             "pid": "38",
             "pname": "SLITHER"
+          },
+          {
+                "pid": "41",
+                "pname": "ROVIO"
           }
         ]
       },
@@ -783,12 +787,12 @@
         "email": "kingadi005@gmail.com",
         "projects": [
             {
-                "pid": "",
-                "pname": "Jaguar (Quadruped)"
+                "pid": "42",
+                "pname": "JAGUAR"
             },
             {
-                "pid": "",
-                "pname": "ROV"
+                "pid": "41",
+                "pname": "ROVIO"
             }
         ]
      },
@@ -807,7 +811,11 @@
           {
             "pid": "38",
             "pname": "SLITHER"
-          }
+          },
+          {
+                "pid": "39",
+                "pname": "AURA"
+            }
         ]
       },
       {
@@ -858,7 +866,11 @@
           {
             "pid": "40",
             "pname": "EdVisor"
-          }
+          },
+          {
+                "pid": "41",
+                "pname": "ROVIO"
+            }
         ]
       },
       {
@@ -943,7 +955,11 @@
           {
             "pid": "42",
             "pname": "JAGUAR"
-          } 
+          },
+          {
+                "pid": "41",
+                "pname": "ROVIO"
+            }
         ]
       },
       {
@@ -960,7 +976,11 @@
           {
             "pid": "40",
             "pname": "EdVisor"
-          }
+          },
+          {
+                "pid": "41",
+                "pname": "ROVIO"
+            }
         ]
       },
       {
@@ -977,7 +997,11 @@
           {
             "pid": "42",
             "pname": "JAGUAR"
-          }
+          },
+          {
+                "pid": "41",
+                "pname": "ROVIO"
+            }
         ]
       },
       {
@@ -3163,6 +3187,15 @@
           }
         ]
       },
+            {
+        "batchTag": "2018",
+        "id": "1001",
+        "name": "Dhanavel",
+        "position": "Member",
+        "projects": [
+          { "pid": "14", "pname": "Snakebot" }
+        ]
+      },
       {
         "batchTag": "2018",
         "id": "85",
@@ -3176,6 +3209,24 @@
             "pid": "5",
             "pname": "Air Hockey"
           }
+        ]
+      },
+            {
+        "batchTag": "2018",
+        "id": "1002",
+        "name": "Mohd Aquif",
+        "position": "Member",
+        "projects": [
+          { "pid": "12", "pname": "SRR" }
+        ]
+      },
+          {
+        "batchTag": "2018",
+        "id": "1003",
+        "name": "Monalisa",
+        "position": "Member",
+        "projects": [
+          { "pid": "14", "pname": "Snakebot" }
         ]
       },
       {
@@ -3199,6 +3250,7 @@
           }
         ]
       },
+      
       {
         "batchTag": "2018",
         "id": "87",
@@ -3211,6 +3263,24 @@
             "pid": "3",
             "pname": "Mind Over Matter"
           }
+        ]
+      },
+          {
+        "batchTag": "2018",
+        "id": "1004",
+        "name": "Sai Ganesh",
+        "position": "Member",
+        "projects": [
+          { "pid": "23", "pname": "Automated Trolley" }
+        ]
+      },
+      {
+        "batchTag": "2018",
+        "id": "1005",
+        "name": "Sriharish S",
+        "position": "Member",
+        "projects": [
+          { "pid": "7", "pname": "Quadcopter" }
         ]
       },
       {
@@ -3310,6 +3380,15 @@
           }
         ]
       },
+            {
+        "batchTag": "2017",
+        "id": "1006",
+        "name": "Swatthi",
+        "position": "Member",
+        "projects": [
+          { "pid": "16", "pname": "UXO" }
+        ]
+      }
       {
         "batchTag": "2016",
         "id": "53",
@@ -4873,7 +4952,7 @@
           { "id": "132", "name": "Gaurav Nagotanekar" },
           { "id": "142", "name": "Abhinav Agrawal" },
           { "id": "138", "name": "Aravindh Deiva" },
-          { "id": "0", "name": "Sai Ganesh" }
+          { "id": "1004", "name": "Sai Ganesh" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/n3SdQLe.webp",
         "backgroundImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/E0Gi0yZ.webp",
@@ -5202,7 +5281,7 @@
         "techStack": ["Python", "Image Processing", "Arduino", "Thermography"],
         "developers": [
           { "id": "105", "name": "Akshaya K S" },
-          { "id": "0", "name": "Swatthi" },
+          { "id": "1006", "name": "Swatthi" },
           { "id": "103", "name": "Vidyaa K" }
         ],
         "cardCoverImage": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/mC9pbEY.webp",
@@ -5313,8 +5392,8 @@
           "Head stabilization"
         ],
         "developers": [
-          { "id": "0", "name": "Dhanavel" },
-          { "id": "0", "name": "Monalisa" },
+          { "id": "1001", "name": "Dhanavel" },
+          { "id": "1003", "name": "Monalisa" },
           { "id": "109", "name": "Rishab Balasubramanian" },
           { "id": "110", "name": "Soumyarup Lahiri" },
           { "id": "53", "name": "Vimalesh Muralidharan" }
@@ -5428,7 +5507,7 @@
           { "id": "119", "name": "Abdur Rahman Kalim" },
           { "id": "116", "name": "Dharun Chagarlamudi" },
           { "id": "115", "name": "Harshith Vignesh" },
-          { "id": "0", "name": "Mohd Aquif" },
+          { "id": "1002", "name": "Mohd Aquif" },
           { "id": "122", "name": "Sarthak Narayan" }
         ],
   
@@ -5672,7 +5751,7 @@
         "developers": [
           { "id": "75", "name": "Adarsh Jagan S" },
           { "id": "74", "name": "Prakash Baskaran" },
-          { "id": "0", "name": "Sriharish S" },
+          { "id": "1005", "name": "Sriharish S" },
           { "id": "84", "name": "Arvind Nataraj" },
           { "id": "86", "name": "Ruthrash Hari" },
           { "id": "81", "name": "Nithin Shrivatsav S" },
