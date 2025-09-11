@@ -1005,6 +1005,22 @@
         ]
       },
       {
+      "batchTag": "2028",
+      "id": "204",
+      "name": "Aadhith Dharmaraj",
+      "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/r45+edit+-+Aadhith+Dharmaraj.webp",
+      "position": "Member",
+      "domains": [
+        "Electronics",
+        "Embedded Systems",
+        "Mechanics"
+      ],
+      "github": "https://github.com/1e3181",
+      "linkedIn": "https://www.linkedin.com/in/aadhith-dharmaraj-24748b332/",
+      "email": "aadhith.dharmaraj@gmail.com",
+      "projects": []
+      },
+      {
               "batchTag": "2028",
               "id": "205",
               "name": "Aditya Deepu",
@@ -1015,8 +1031,8 @@
                   "ML",
                   "Controls"
               ],
-              "github": "nan",
-              "linkedIn": "nan",
+              "github": "https://github.com/adityadeepu2006-cmd",
+              "linkedIn": "https://in.linkedin.com/in/aditya-deepu-43b811304",
               "email": "adityadeepu2006@gmail.com",
               "projects": []
       },
@@ -1031,7 +1047,7 @@
                   "Electronics",
                   "Control"
               ],
-              "github": "nan",
+              "github": "https://github.com/mahan0725",
               "linkedIn": "https://www.linkedin.com/in/ankit-anant-1b8a86337",
               "email": "anantankit04@gmail.com",
               "projects": []
@@ -1077,8 +1093,8 @@
               "domains": [
                   "Robotics (Hardware)"
               ],
-              "github": "nan",
-              "linkedIn": "nan",
+              "github": "https://github.com/KeerthiSrinath-stack",
+              "linkedIn": "https://www.linkedin.com/in/keerthi-srinath-kankanala-363899379/",
               "email": "keerthichess@gmail.com",
               "projects": []
           },
@@ -1141,7 +1157,7 @@
                   "Control Systems",
                   "ML and Electronics"
               ],
-              "github": "nan",
+              "github": "https://github.com/Kazim-16",
               "linkedIn": "https://www.linkedin.com/in/am-mohamed-kazim-575a22333/",
               "email": "mohammedkazim1606@gmail.com",
               "projects": []
@@ -1158,8 +1174,8 @@
                   "Computer Vision",
                   "Controls"
               ],
-              "github": "nan",
-              "linkedIn": "nan",
+              "github": "https://github.com/Nandgovindanil",
+              "linkedIn": "http://www.linkedin.com/in/nandgovind-anil-657b45343",
               "email": "nandgovindanil@gmail.com",
               "projects": []
           },
@@ -1174,7 +1190,7 @@
                   "Control Systems",
                   "electronics"
               ],
-              "github": "nan",
+              "github": "https://github.com/parvathi-svg144",
               "linkedIn": "https://www.linkedin.com/in/parvathi-s-600923379",
               "email": "parvathi6002@gmail.com",
               "projects": []
@@ -1191,8 +1207,8 @@
                   "Controls",
                   "ML"
               ],
-              "github": "nan",
-              "linkedIn": "nan",
+              "github": "https://github.com/RAHUL-VIJAY-VELMURUGAN",
+              "linkedIn": "https://www.linkedin.com/in/rahul-vijay-aa28a5343/",
               "email": "rahulvijay4320@gmail.com",
               "projects": []
           },
@@ -1223,7 +1239,7 @@
                   "Embedded",
                   "Mechanics"
               ],
-              "github": "nan",
+              "github": "https://share.google/mGuKuu7Vn59kC8fXW",
               "linkedIn": "https://www.linkedin.com/in/sree-vidya-m-5a7656359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
               "email": "sreevidya.nitt@gmail.com",
               "projects": []
@@ -1300,7 +1316,6 @@
             "pid": "35",
             "pname": "Virya"
           }
-          
         ]
       },
       {
@@ -2301,7 +2316,8 @@
         "position": "Head, Alumni Relations (2021-2022)",
         "github": "https://github.com/Demigod2808",
         "linkedin": "https://www.linkedin.com/in/shubham-aggarwal-01343719b/",
-        "email": "shubhamaggarwal2808@gmail.com"
+        "email": "shubhamaggarwal2808@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2022",
@@ -2800,6 +2816,60 @@
         ]
       },
       {
+        "batchTag": "2018",
+        "id": "1001",
+        "name": "Dhanavel",
+        "position": "Member",
+        "projects": [
+          { "pid": "14", "pname": "Snakebot" }
+        ]
+      },
+      {
+        "batchTag": "2018",
+        "id": "1002",
+        "name": "Mohd Aquif",
+        "position": "Member",
+        "projects": [
+          { "pid": "12", "pname": "SRR" }
+        ]
+      },
+      {
+        "batchTag": "2018",
+        "id": "1003",
+        "name": "Monalisa",
+        "position": "Member",
+        "projects": [
+          { "pid": "14", "pname": "Snakebot" }
+        ]
+      },
+      {
+        "batchTag": "2018",
+        "id": "1004",
+        "name": "Saiganesh",
+        "position": "Member",
+        "projects": [
+          { "pid": "23", "pname": "Automated Trolley" }
+        ]
+      },
+      {
+        "batchTag": "2018",
+        "id": "1005",
+        "name": "Sriharish S",
+        "position": "Member",
+        "projects": [
+          { "pid": "7", "pname": "Quadcopter" }
+        ]
+      },
+      {
+        "batchTag": "2017",
+        "id": "1006",
+        "name": "Swatthi",
+        "position": "Member",
+        "projects": [
+          { "pid": "16", "pname": "UXO" }
+        ]
+      },
+      {
         "batchTag": "2019",
         "id": "89",
         "name": "Anand Asokan",
@@ -3187,15 +3257,6 @@
           }
         ]
       },
-            {
-        "batchTag": "2018",
-        "id": "1001",
-        "name": "Dhanavel",
-        "position": "Member",
-        "projects": [
-          { "pid": "14", "pname": "Snakebot" }
-        ]
-      },
       {
         "batchTag": "2018",
         "id": "85",
@@ -3209,24 +3270,6 @@
             "pid": "5",
             "pname": "Air Hockey"
           }
-        ]
-      },
-            {
-        "batchTag": "2018",
-        "id": "1002",
-        "name": "Mohd Aquif",
-        "position": "Member",
-        "projects": [
-          { "pid": "12", "pname": "SRR" }
-        ]
-      },
-          {
-        "batchTag": "2018",
-        "id": "1003",
-        "name": "Monalisa",
-        "position": "Member",
-        "projects": [
-          { "pid": "14", "pname": "Snakebot" }
         ]
       },
       {
@@ -3250,7 +3293,6 @@
           }
         ]
       },
-      
       {
         "batchTag": "2018",
         "id": "87",
@@ -3263,24 +3305,6 @@
             "pid": "3",
             "pname": "Mind Over Matter"
           }
-        ]
-      },
-          {
-        "batchTag": "2018",
-        "id": "1004",
-        "name": "Sai Ganesh",
-        "position": "Member",
-        "projects": [
-          { "pid": "23", "pname": "Automated Trolley" }
-        ]
-      },
-      {
-        "batchTag": "2018",
-        "id": "1005",
-        "name": "Sriharish S",
-        "position": "Member",
-        "projects": [
-          { "pid": "7", "pname": "Quadcopter" }
         ]
       },
       {
@@ -3331,7 +3355,8 @@
         "position": "Vice President (2016-2017)",
         "github": "https://www.bitbucket.org/Sarada_K/",
         "linkedin": "https://www.linkedin.com/in/sarada-krithivasan-07534a140/",
-        "email": "sarada.krithi@gmail.com"
+        "email": "sarada.krithi@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2017",
@@ -3340,7 +3365,8 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e82Zyt6.webp",
         "position": "Vice President (2016-2017)",
         "linkedin": "https://www.linkedin.com/in/sidhaarth-murugan-b30293101/",
-        "email": "mur.sidhaarth@gmail.com"
+        "email": "mur.sidhaarth@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2017",
@@ -3378,15 +3404,6 @@
             "pid": "7",
             "pname": "Quadcopter"
           }
-        ]
-      },
-            {
-        "batchTag": "2017",
-        "id": "1006",
-        "name": "Swatthi",
-        "position": "Member",
-        "projects": [
-          { "pid": "16", "pname": "UXO" }
         ]
       },
       {
@@ -3434,7 +3451,8 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/kUNFm1s.webp",
         "position": "Vice President (2015-2016)",
         "linkedin": "https://www.linkedin.com/in/sripaddevalla",
-        "email": "devalla2603@gmail.com"
+        "email": "devalla2603@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2016",
@@ -3444,13 +3462,15 @@
         "position": "Treasurer (2015-2016)",
         "github": "https://github.com/shravan1394",
         "linkedin": "https://www.linkedin.com/in/shravan-murlidaran/",
-        "email": "smurlidaran@ucsb.edu"
+        "email": "smurlidaran@ucsb.edu",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "57",
         "name": "Vijay Anand",
-        "position": "Treasurer (2015-2016)"
+        "position": "Treasurer (2015-2016)",
+        "projects": []
       },
       {
         "batchTag": "2016",
@@ -3459,7 +3479,8 @@
         "position": "Head, External Affairs (2015-2016)",
         "github": "https://github.com/HareshMiriyala",
         "linkedin": "https://www.linkedin.com/in/hareshkarnan/",
-        "email": "haresh.miriyala@gmail.com"
+        "email": "haresh.miriyala@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2016",
@@ -3468,7 +3489,8 @@
         "position": "Head, External Affairs (2015-2016)",
         "github": "https://github.com/vsuryamurthy",
         "linkedin": "https://www.linkedin.com/in/vivekanandan-suryamurthy-749997100/",
-        "email": "vivek.sury28@gmail.com"
+        "email": "vivek.sury28@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2016",
@@ -3488,13 +3510,15 @@
         "name": "Nikesh Elango",
         "position": "Member",
         "linkedin": "https://www.linkedin.com/in/nikesh5050",
-        "email": "nikesh5050@gmail.com"
+        "email": "nikesh5050@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "62",
         "name": "Saravanan Ravanan",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
@@ -3512,56 +3536,65 @@
         "batchTag": "2016",
         "id": "64",
         "name": "Ashwin Narayan",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "65",
         "name": "BS Rohit",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "66",
         "name": "Chakradhar Reddy",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "67",
         "name": "DV Gautam Raj",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "68",
         "name": "Harish Karunakaran",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/d2ZAfpC.webp",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "69",
         "name": "Ramitha Sundar",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2016",
         "id": "70",
         "name": "SuryaTeja Golkonda",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "40",
         "name": "Nikhil Swaminathan",
-        "position": "President (2014-2015)"
+        "position": "President (2014-2015)",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "41",
         "name": "Shri Aravinthan",
-        "position": "Vice President (2014-2015)"
+        "position": "Vice President (2014-2015)",
+        "projects": []
       },
       {
         "batchTag": "2015",
@@ -3569,68 +3602,79 @@
         "name": "Sree Dharshni",
         "position": "Treasurer (2014-2015)",
         "linkedin": "https://www.linkedin.com/in/sree-dharshni-d",
-        "email": "sreedharshnid@gmail.com"
+        "email": "sreedharshnid@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "43",
         "name": "Abhiroop Badra",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "44",
         "name": "Dharanivendhan Thangapazham",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "45",
         "name": "Gowtham Kumar",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "46",
         "name": "Karthik Vijaykumar",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "47",
         "name": "Kumar Pushpak",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "48",
         "name": "Milan Thomas",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "49",
         "name": "Naresh Balaji",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "50",
         "name": "Pankaj Rahi",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "51",
         "name": "Rishikesh Sampat",
         "position": "Member",
-        "email": "rishikeshsampat993@gmail.com"
+        "email": "rishikeshsampat993@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2015",
         "id": "52",
         "name": "Sai Sudha",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
@@ -3638,7 +3682,8 @@
         "name": "Kishore Punniyamurthy",
         "position": "President (2013-2014)",
         "linkedin": "https://www.linkedin.com/in/kishore-punniyamurthy-2b74247a",
-        "email": "Kishore.punniyamurthy@gmail.com"
+        "email": "Kishore.punniyamurthy@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2014",
@@ -3647,7 +3692,8 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/JyFsV6c.webp",
         "position": "Vice President (2013-2014)",
         "linkedin": "https://www.linkedin.com/in/manikandanananth50",
-        "email": "manikandan.ananth50@gmail.com"
+        "email": "manikandan.ananth50@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2014",
@@ -3655,43 +3701,50 @@
         "name": "Sethu Chidambaram",
         "position": "Treasurer (2013-2014)",
         "email": "chidambaram_sethu@hotmail.com",
-        "personalPage": "https://chidambaramsethu.wordpress.com/"
+        "personalPage": "https://chidambaramsethu.wordpress.com/",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "29",
         "name": "Govinda Pandey",
-        "position": "Head, Mech and Fab (2013-2014)"
+        "position": "Head, Mech and Fab (2013-2014)",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "30",
         "name": "Vinith James",
-        "position": "Head, Mech and Fab (2013-2014)"
+        "position": "Head, Mech and Fab (2013-2014)",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "31",
         "name": "Radha Dorairajan",
-        "position": "Head, Publicity and PR  (2013-2014)"
+        "position": "Head, Publicity and PR  (2013-2014)",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "32",
         "name": "Vivekanandan Barathi",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "33",
         "name": "Brahm Prakash Mishra",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "34",
         "name": "Arjun Prasath",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
@@ -3700,26 +3753,30 @@
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Rwex8nu.webp",
         "position": "Member",
         "linkedin": "https://www.linkedin.com/in/gibinjoe/",
-        "email": "gibinjoezach@gmail.com"
+        "email": "gibinjoezach@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "36",
         "name": "John George Francis",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "37",
         "name": "Nishant Panigrahi",
         "position": "Member",
-        "email": "panigrahinishant@gmail.com"
+        "email": "panigrahinishant@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2014",
         "id": "38",
         "name": "Siddharth PL",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2014",
@@ -3727,7 +3784,8 @@
         "name": "Vignesh Sushrutha Raghavan",
         "position": "Member",
         "linkedin": "https://www.linkedin.com/in/vignesh-sushrutha-raghavan-06951773/",
-        "email": "vsraghavan913@gmail.com"
+        "email": "vsraghavan913@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2013",
@@ -3735,154 +3793,179 @@
         "name": "Atif Nabil",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/2EXaR4F.webp",
         "position": "President (2012-2013)",
-        "email": "contact.atifnabil@gmail.com"
+        "email": "contact.atifnabil@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "20",
         "name": "Amutha Barathi",
         "position": "Member",
-        "linkedin": "https://www.linkedin.com/in/amuthabharathi"
+        "linkedin": "https://www.linkedin.com/in/amuthabharathi",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "21",
         "name": "Ashwin Kannan",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "22",
         "name": "Harini M",
         "position": "Member",
-        "email": "harinim@outlook.in"
+        "email": "harinim@outlook.in",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "23",
         "name": "Hisham",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "24",
         "name": "Layumrutha",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2013",
         "id": "25",
         "name": "Sumantha Bose",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "13",
         "name": "Ankur Prasad",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "14",
         "name": "Aravind K",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "15",
         "name": "Arjun Bhatia",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "16",
         "name": "Ashutosh Dhar",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "17",
         "name": "Guru Subramani",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2012",
         "id": "18",
         "name": "KV Aditya",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "6",
         "name": "Benzun Wisely Babu",
         "position": "President (2010-2011)",
-        "email": "benzun1999@gmail.com"
+        "email": "benzun1999@gmail.com",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "7",
         "name": "Rajeev Kumar",
-        "position": "Vice President (2010-2011)"
+        "position": "Vice President (2010-2011)",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "8",
         "name": "Rahul Ashok",
-        "position": "Treasurer (2010-2011)"
+        "position": "Treasurer (2010-2011)",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "9",
         "name": "Ashwath Rajendran",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "10",
         "name": "Pranesh Pandurangan",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "11",
         "name": "Ritika Borkar",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2011",
         "id": "12",
         "name": "Venky Govind",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2010",
         "id": "1",
         "name": "Manimaran",
-        "position": "President (2009-2010)"
+        "position": "President (2009-2010)",
+        "projects": []
       },
       {
         "batchTag": "2010",
         "id": "2",
         "name": "Anusha",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2010",
         "id": "3",
         "name": "Ashwin Chandrr",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2010",
         "id": "4",
         "name": "Harini",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       },
       {
         "batchTag": "2010",
         "id": "5",
         "name": "Natrajan",
-        "position": "Member"
+        "position": "Member",
+        "projects": []
       }
     ],
   "projects":{
