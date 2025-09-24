@@ -82,6 +82,15 @@
       "github": "https://github.com/tarunikap",
       "linkedIn": "https://www.linkedin.com/in/tarunika-p-133961286",
       "email": "tarunikap2004@gmail.com"
-    }
+    },
+      {
+        "name": "Vignesh S S",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh.webp",
+        "position": "Head, Web-ops",
+        "additional": ["2025 - 2026"],
+        "github": "https://github.com/VigneshSS11",
+        "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
+        "email": "vigneshraja9273@gmail.com"
+      }
   ]
 }
