@@ -778,9 +778,7 @@
         "position": "Member",
         "domains": [
             "Mechanics",
-            "Control systems and Simulation",
-            "Design",
-            "Finite element analysis"
+            "Control systems"
         ],
         "github": "https://github.com/Adi2005tya",
         "linkedIn": "https://www.linkedin.com/in/aditya-ganta-3a9830344/",
@@ -1001,7 +999,7 @@
           {
                 "pid": "41",
                 "pname": "ROVIO"
-            }
+          }
         ]
       },
       {
@@ -1091,7 +1089,7 @@
               "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_2597+-+Keerthi+Srinath.webp",
               "position": "Member",
               "domains": [
-                  "Robotics (Hardware)"
+                  "Robotics"
               ],
               "github": "https://github.com/KeerthiSrinath-stack",
               "linkedIn": "https://www.linkedin.com/in/keerthi-srinath-kankanala-363899379/",
@@ -2071,7 +2069,9 @@
       "position": "Head, Alumni Relations (2021-2022)",
       "github": "https://github.com/Demigod2808",
       "linkedin": "https://www.linkedin.com/in/shubham-aggarwal-01343719b/",
-      "email": "shubhamaggarwal2808@gmail.com"
+      "email": "shubhamaggarwal2808@gmail.com",
+      "projects": [
+      ]
     },
     {
       "batchTag": "2022",
