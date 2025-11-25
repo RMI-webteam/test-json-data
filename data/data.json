@@ -1254,8 +1254,7 @@
               "email": "trishamatai1308@gmail.com",
               "projects": []
           }
-      ]
-    },
+      ],
     "alumni": [
       {
         "batchTag": "2025",
@@ -3805,7 +3804,8 @@
         "name": "Natrajan",
         "position": "Member"
       }
-    ],
+    ]
+  },
   "projects":{
     "projects": [
       {
@@ -6267,7 +6267,5 @@
     ],
     "youtubeVideo": "7Qu89cIIiaQ"
   }
-  
-  
   
 }
