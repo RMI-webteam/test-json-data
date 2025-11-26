@@ -950,7 +950,7 @@
         "batchTag": "2027",
         "id": "200",
         "name": "Vignesh S S",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh.webp",
+        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/200_Vignesh_S_S.webp",
         "position": "Head, Web-ops",
         "domains": ["Machine Learning", "Electronics", "Controls"],
         "github": "https://github.com/VigneshSS11",
@@ -6088,7 +6088,7 @@
   },
   "facultyAdvisor": {
     "name": "Dr. Santosh Kumar Mishra",
-    "imageLink": "https://drive.google.com/file/d/18dDz8LKpa08E-31-A_umiboTRX55JpWC/view?usp=sharing",
+    "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/Santhosh_kumar_Misra.webp",
     "position": "Assistant Professor",
     "department": "Department of Production Engineering",
     "email": "santosh@nitt.edu",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Vignesh S S",
-        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/200_Vignesh_S_S.webp",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/200_Vignesh.webp",
         "position": "Head, Web-ops",
         "additional": ["2025 - 2026"],
         "github": "https://github.com/VigneshSS11",
