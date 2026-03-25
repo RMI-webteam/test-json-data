@@ -814,7 +814,7 @@
         "batchTag": "2027",
         "id": "192",
         "name": "Joshua John",
-        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/192_Joshua_john.webp",
+        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/192_Joshua_john.webp",
         "position": "Member",
         "domains": ["Electronics","Computer Vision","Controls"],
         "github": "https://github.com/KillerJosh345",
@@ -950,7 +950,7 @@
         "batchTag": "2027",
         "id": "200",
         "name": "Vignesh S S",
-        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/200_Vignesh_S_S.webp",
+        "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/200_Vignesh_S_S.webp",
         "position": "Head, Web-ops",
         "domains": ["Machine Learning", "Electronics", "Controls"],
         "github": "https://github.com/VigneshSS11",
@@ -1000,7 +1000,7 @@
               "batchTag": "2028",
               "id": "205",
               "name": "Aditya Deepu",
-              "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/204_aditya_deepu.webp",
+              "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/204_aditya_deepu.webp",
               "position": "Member",
               "domains": [
                   "Mechanics",
@@ -1072,21 +1072,6 @@
               "github": "nan",
               "linkedIn": "nan",
               "email": "keerthichess@gmail.com",
-              "projects": []
-          },
-          {
-              "batchTag": "2028",
-              "id": "210",
-              "name": "Khushi Rajpal",
-              "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/pjoto+-+Khushi+Rajpal.webp",
-              "position": "Member",
-              "domains": [
-                  "Machine learning",
-                  "Computer Vision"
-              ],
-              "github": "nan",
-              "linkedIn": "https://www.linkedin.com/in/khushi-rajpal-9693ba335/",
-              "email": "khushi.rajpal.1110@gmail.com",
               "projects": []
           },
           {
@@ -6088,7 +6073,7 @@
   },
   "facultyAdvisor": {
     "name": "Dr. Santosh Kumar Mishra",
-    "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/Santhosh_kumar_Misra.webp",
+    "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/Santhosh_kumar_Misra.webp",
     "position": "Assistant Professor",
     "department": "Department of Production Engineering",
     "email": "santosh@nitt.edu",

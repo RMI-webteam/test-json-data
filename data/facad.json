@@ -1,7 +1,7 @@
 {
   "facultyAdvisor": {
     "name": "Dr. Santosh Kumar Mishra",
-    "imageLink": "https://raw.githubusercontent.com/RMI-webteam/test-json-data/master/assets/images/Santhosh_kumar_Misra.webp",
+    "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/Santhosh_kumar_Misra.webp",
     "position": "Assistant Professor",
     "department": "Department of Production Engineering",
     "email": "santosh@nitt.edu",
