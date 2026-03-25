@@ -529,6 +529,31 @@
       },
       {
         "batchTag": "2026",
+        "id": "186",
+        "name": "Tarun",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/186_tarun.webp",
+        "position": "Technical Head",
+        "domains": ["Electronics", "Embedded Systems"],
+        "github": "https://github.com/txrunn7",
+        "linkedIn": "https://www.linkedin.com/in/tarun-muthukumar?trk=contact-info",
+        "email": "mtarunn491@gmail.com",
+        "projects": [
+          {
+            "pid": "42",
+            "pname": "JAGUAR"
+          },
+          {
+            "pid": "36",
+            "pname": "Soft Robotics"
+          },
+          {
+            "pid": "35",
+            "pname": "Virya"
+          }
+        ]
+      },
+      {
+        "batchTag": "2026",
         "id": "177",
         "name": "Pranav G",
         "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/177_pranav.webp",
