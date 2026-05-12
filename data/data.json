@@ -791,6 +791,23 @@
             }
         ]
      },
+     {
+        "batchTag": "2027",
+        "id": "191",
+        "name": "C Girish",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/191_GIRISH+C.webp",
+        "position": "Member",
+        "domains": ["Computer Vision", "Control Systems", "Mechanics"],
+        "github": "https://github.com/GirishSwaminathan",
+        "linkedIn": "https://www.linkedin.com/in/girish-c-44b64b2a9/",
+        "email": "girish27102005@gmail.com",
+        "projects": [
+          {
+            "pid": "38",
+            "pname": "SLITHER"
+          }
+        ]
+      },
       {
         "batchTag": "2027",
         "id": "192",
