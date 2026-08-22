@@ -763,6 +763,20 @@
           },
           {
               "batchTag": "2028",
+              "id": "239",
+              "name": "Kamali Ramesh",
+              "imageLink": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/239_Kamali_Ramesh.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics, Embedded Systems"
+              ],
+              "github": "github.com/Kamr1705",
+              "linkedIn": "https://www.linkedin.com/in/kamali-ramesh-44b502326",
+              "email": "kamalir2006@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
               "id": "209",
               "name": "K.Keerthi Srinath",
               "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Member'28/IMG_2597+-+Keerthi+Srinath.webp",

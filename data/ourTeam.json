@@ -90,7 +90,7 @@
         "id": "200",
         "name": "Vignesh S S",
         "imageLink": "https://raw.githubusercontent.com/RMI-webteam/rmi-web-data/master/assets/images/200_Vignesh_S_S.webp",
-        "position": "Head, Design & Publicity",
+        "position": "Creative Director",
         "domains": ["Machine Learning", "Electronics", "Controls"],
         "github": "https://github.com/VigneshSS11",
         "linkedIn": "https://www.linkedin.com/in/vignesh-ss-",
@@ -316,6 +316,20 @@
               "github": "https://github.com/Durijesh",
               "linkedIn": "https://www.linkedin.com/in/durijesh-velu-7274a6281/",
               "email": "Durijesh0408@gmail.com",
+              "projects": []
+          },
+          {
+              "batchTag": "2028",
+              "id": "239",
+              "name": "Kamali Ramesh",
+              "imageLink": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/239_Kamali_Ramesh.webp",
+              "position": "Member",
+              "domains": [
+                  "Electronics, Embedded Systems"
+              ],
+              "github": "github.com/Kamr1705",
+              "linkedIn": "https://www.linkedin.com/in/kamali-ramesh-44b502326",
+              "email": "kamalir2006@gmail.com",
               "projects": []
           },
           {
