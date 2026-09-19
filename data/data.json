@@ -4089,6 +4089,172 @@
   "projects":{
     "projects": [
       {
+      "pid": "45",
+      "seededIn": "2026",
+      "shortName": "BARNES",
+      "longName": "Autonomous UAV for Disaster Response",
+      "duration": "Feb 2026 - Present",
+      "shortDesc": "An Indigenous, Low-Cost, Self-Calibrating Prosthetic Hand",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "BARNES is a low-cost, self-calibrating prosthetic hand that reads intent from surface EMG and closes the loop with fingertip pressure and slip sensing, without giving up dexterity or touch feedback. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The hand is 3D printed and tendon driven, with compliant flexure joints printed directly into the structure. A four-channel EMG front end built around a custom instrumentation amplifier picks up gesture intent, and a CNN-LSTM pipeline turns the signal into multi-gesture control. Resistive pressure arrays and piezoelectric sensors at the fingertips detect contact and the onset of slip, letting the grasp controller modulate grip force. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The system calibrates itself to each user from a short guided session and keeps adapting across sessions, since EMG signal characteristics shift with electrode placement, fatigue, and skin impedance. Electrode placement and the gesture set were both set using analysis of the Ninapro amputee EMG database. "
+
+        }
+      ],
+      "techStack": [
+        "KiCad",
+        "AD8293G80 instrumentation amplifier",
+        " 4-channel surface EMG", 
+        "Piezoelectric slip sensors",
+        "CNN + LSTM",
+        "SolidWorks"
+      ],
+      "developers": [
+        { "id": "212", "name": "Michelle Mariya Payammal" },
+        { "id": "216", "name": "Rahul V" },
+        { "id": "219", "name": "Taufika" },
+        { "id": "221", "name": "Trisha Matai" }
+        
+      ],
+      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/barnes_photo.png?raw=true",
+      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/barnes_photo.png?raw=true",
+      "images": [
+        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/barnes_photo.png?raw=true"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "44",
+      "seededIn": "2026",
+      "shortName": "UAV",
+      "longName": "Autonomous UAV for Disaster Response",
+      "duration": "Feb 2026 - Present",
+      "shortDesc": "An autonomous aerial system designed for disaster response, detecting and geolocating targets on the ground without a pilot or ground link.",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "This UAV flies a survey mission on its own, taking off, covering a defined search area, detecting people and objects of interest, geolocating them, and reporting back, with no pilot in the loop. Perception and mission logic run on the aircraft itself rather than a ground station, so the vehicle keeps working even if the link to the ground degrades or drops entirely. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The aircraft is a multirotor platform built around a Pixhawk flight controller running ArduPilot Copter, paired with a Raspberry Pi 4 companion computer for perception and mission decisions. Avionics placement was modelled in CAD before the build, since vibration isolation, mass distribution, and camera placement all interact. Getting them wrong shows up as noise in the IMU data. The flight controller and companion computer talk over MAVLink. The flight controller keeps the aircraft in the air, while the companion computer decides where it should go. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Tuning is done on a single-axis gimbal rig, letting the aircraft be driven to the edge of instability safely and repeatably. The team is moving from judging a tune by eye to ArduPilot System Identification mode, where a defined input sweep drives the aircraft and the roll-angle step response is analysed against the commanded input. This gives a measurable criterion for a good tune, and makes it reproducible after any change to mass or propulsion. "
+
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "It applies to search and rescue, infrastructure inspection for powerlines, pipelines, rail, and solar farms, precision agriculture, and industrial site survey. The GPS-denied navigation work also carries over to indoor and enclosed-environment inspection, and to ground robots facing the same constraint. "
+          
+        }
+      ],
+      "techStack": [
+        "Pixhawk",
+        "ArduPilot Copter",
+        "Raspberry Pi 4", 
+        "MAVLink / MAVROS",
+        "OpenCV",
+        "SolidWorks"
+      ],
+      "developers": [
+        { "id": "204", "name": "Aadhith Dharmaraj" },
+        { "id": "207", "name": "Dhruv Gupta" },
+        { "id": "239", "name": "Kamali Ramesh" },
+        { "id": "220", "name": "Thivya J" }
+        
+      ],
+      "cardCoverImage": "",
+      "backgroundImage": "",
+      "images": [
+        ""
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "",
+        "otherLink": ""
+      }
+    },
+    {
+      "pid": "43",
+      "seededIn": "2026",
+      "shortName": "AUV",
+      "longName": "Autonomous Underwater Vehicle",
+      "duration": "Feb 2026 - Present",
+      "shortDesc": "An autonomous underwater system designed for inspection, survey and object retrieval, with a focus on DVL-free underwater navigation. ",
+      "longDesc": [
+        {
+          "heading": "",
+          "type": "para",
+          "para": "This autonomous underwater vehicle is designed for gate navigation, target detection, and object retrieval, converting an existing ROV into a fully autonomous platform with no tether and no operator input. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "The vehicle runs on a Pixhawk flight controller with ArduSub for low-level control, paired with an onboard computer for perception and mission logic. Eight thrusters give it full six-degree-of-freedom manoeuvring, letting it hold station and translate laterally while keeping a camera fixed on a target. The electronics sit in a rectangular pressure hull, sealed with a dual O-ring arrangement and validated through finite element analysis before fabrication. A manipulator and gripper, built into the vehicle from the outset, handle object retrieval. "
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "Since underwater navigation has no GPS and a Doppler Velocity Log was ruled out on cost, the vehicle fuses IMU, depth sensor, and visual odometry through an extended Kalman filter to estimate its position, leaning on vision when features are available and on inertial data when the water clouds up. Front and bottom cameras feed a perception pipeline for gate and target detection, built to handle colour attenuation and variable lighting rather than assume clear water. "
+
+        },
+        {
+          "heading": "",
+          "type": "para",
+          "para": "This DVL-free localisation approach makes the platform suited to submerged infrastructure inspection, water quality and effluent monitoring, and search and recovery of submerged objects, wherever a tether or dive team isn't practical. "
+          
+        }
+      ],
+      "techStack": [
+        "Pixhawk",
+        "ArduSub",
+        "ROS", 
+        "IMU",
+        "Thrusters & ESCs",
+        "Extended Kalman filter",
+        "ANSYS"
+      ],
+      "developers": [
+        { "id": "211", "name": "Kishore V" },
+        { "id": "213", "name": "Mohamed Kazim A M" },
+        { "id": "214", "name": "Nandgovind Anil" },
+        { "id": "218", "name": "Sree Vidya M" }
+        
+      ],
+      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true",
+      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true",
+      "images": [
+        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true"
+      ],
+      "quickLinks": {
+        "youtubeLink": "",
+        "githubLink": "",
+        "otherLink": ""
+      }
+    },
+      {
         "pid": "42",
         "seededIn": "2024",
         "shortName": "JAGUAR",
