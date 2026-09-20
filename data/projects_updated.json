@@ -97,10 +97,10 @@
         { "id": "220", "name": "Thivya J" }
         
       ],
-      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic%20(1).png?raw=true",
-      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic%20(1).png?raw=true",
+      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic.png?raw=true",
+      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic.png?raw=true",
       "images": [
-        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic%20(1).png?raw=true"
+        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/uavpic.png?raw=true"
       ],
       "quickLinks": {
         "youtubeLink": "",
@@ -155,10 +155,10 @@
         { "id": "218", "name": "Sree Vidya M" }
         
       ],
-      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo%20(2).png?raw=true",
-      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo%20(2).png?raw=true",
+      "cardCoverImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true",
+      "backgroundImage": "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true",
       "images": [
-        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo%20(2).png?raw=true"
+        "https://github.com/RMI-webteam/test-json-data/blob/master/assets/images/auv_photo.png?raw=true"
       ],
       "quickLinks": {
         "youtubeLink": "",
